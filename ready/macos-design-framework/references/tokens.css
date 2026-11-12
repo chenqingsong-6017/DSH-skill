@@ -1,0 +1,235 @@
+/* ============================================================
+   macOS Design Framework · 设计令牌 v1.1
+   基线：macOS 27 Golden Gate（Liquid Glass 收敛版）
+   用法：
+     1) 引入本文件 → <html data-theme="light|dark"> 切换深浅
+     2) 需要「降低透明度」无障碍档：<html data-reduce-transparency="1">
+     3) 组件配方见 references/components.css（依赖本文件）
+   v1.1 新增：间距阶梯 / 字号阶梯 / 层级阶梯 / 焦点环 /
+             滚动边缘 / 降低透明度 / 增强对比
+   ============================================================ */
+
+:root{
+  /* ---- 系统强调色（设计参考值；Apple 说明实际值随版本浮动，勿硬编码到业务） ---- */
+  --mac-blue:#007aff; --mac-purple:#af52de; --mac-pink:#ff2d55; --mac-red:#ff3b30;
+  --mac-orange:#ff9500; --mac-yellow:#ffcc00; --mac-green:#34c759; --mac-graphite:#8e8e93;
+  --accent:var(--mac-blue);            /* 强调色：只用于交互元素与选中态 */
+
+  /* ---- 文本层级（对应 HIG 的 label / secondaryLabel / tertiaryLabel） ---- */
+  --label-1:#1d1d1f;
+  --label-2:rgba(0,0,0,.55);
+  --label-3:rgba(0,0,0,.32);
+  --label-disabled:rgba(0,0,0,.26);
+  --label-on-accent:#ffffff;           /* 强调色底上的文字（唯一允许纯白的场景之一） */
+
+  /* ---- 界面底色（内容层：不透明、高对比） ---- */
+  --window-bg:#ffffff;
+  --sidebar-bg:#f2f2f4;
+  --content-bg:#ffffff;
+  --separator:rgba(0,0,0,.09);
+  --separator-strong:rgba(0,0,0,.16);
+  --control-fill:rgba(0,0,0,.055);
+  --control-fill-pressed:rgba(0,0,0,.09);
+  --hover-fill:rgba(0,0,0,.05);
+  --selection-fill:rgba(0,0,0,.08);    /* 非强调色的中性选中（列表失焦态） */
+
+  /* ---- 功能层玻璃材质（只给菜单栏/面板/Dock/工具栏等控件层用！） ---- */
+  --glass-menubar:rgba(252,252,253,.5);
+  --glass-panel:rgba(250,250,252,.74);
+  --glass-strong:rgba(246,246,248,.88);
+  --glass-dock:rgba(255,255,255,.38);
+  --glass-toolbar:rgba(250,250,252,.66);
+  --glass-border:rgba(255,255,255,.55);
+  --glass-hairline:rgba(0,0,0,.08);    /* 玻璃外描边（暗色下用白色描边） */
+  --blur-menubar:blur(30px) saturate(190%);
+  --blur-panel:blur(34px) saturate(200%);
+  --blur-dock:blur(26px) saturate(180%);
+  --blur-toolbar:blur(26px) saturate(185%);
+  /* 明亮内容上的 clear 玻璃：叠 35% 暗化层（HIG 材质篇） */
+  --glass-dim:rgba(0,0,0,.35);
+
+  /* ---- 阴影（多层柔和：描边层 + 中距 + 远距；禁止纯黑单层） ---- */
+  --shadow-window:0 0 0 .5px rgba(0,0,0,.13),0 9px 24px rgba(0,0,0,.13),0 28px 66px rgba(0,0,0,.22);
+  --shadow-floating:0 0 0 .5px rgba(0,0,0,.09),0 12px 40px rgba(0,0,0,.22);
+  --shadow-menu:0 0 0 .5px rgba(0,0,0,.09),0 6px 16px rgba(0,0,0,.14),0 18px 44px rgba(0,0,0,.2);
+  --shadow-pressed:inset 0 .5px 1px rgba(0,0,0,.14);
+
+  /* ---- 圆角（同心原则：内圆角 = 外圆角 − 内边距） ---- */
+  --radius-window:11px;   /* 窗口（27 统一圆角） */
+  --radius-panel:8px;     /* 菜单/浮层 */
+  --radius-control:7px;   /* 按钮/输入框 */
+  --radius-row:5px;       /* 列表行选中态（≈ control − 内边距 2px） */
+  --radius-icon:22.4%;    /* 图标 squircle 近似（macOS 图标网格比例） */
+
+  /* ---- 间距（8pt 网格；用留白表达分组，不靠分隔线） ---- */
+  --sp-1:4px;  --sp-2:8px;  --sp-3:12px; --sp-4:16px;
+  --sp-5:24px; --sp-6:32px; --sp-7:48px;
+  --gap-control:8px;      /* 控件之间 */
+  --gap-group:16px;       /* 组内元素 */
+  --gap-section:24px;     /* 区块之间 */
+  --pad-window:20px;      /* 窗口内容内边距 */
+  --pad-row:6px 10px;     /* 列表行内边距 */
+  --h-control:26px;       /* 标准控件高度（macOS 常规尺寸） */
+  --h-row:28px;           /* 列表行高 */
+  --h-toolbar:38px;       /* 工具栏高度 */
+  --h-menubar:26px;       /* 菜单栏高度 */
+
+  /* ---- 字号阶梯（macOS 规范：默认 13pt，最小 10pt，禁 Light 字重） ---- */
+  --fs-micro:10px;   /* 下限：状态角标 / 快捷键提示 */
+  --fs-label:11px;   /* 标签、次要说明 */
+  --fs-body:13px;    /* ★ 正文与控件标签（默认） */
+  --fs-sub:15px;     /* 小标题 */
+  --fs-title:17px;   /* 区块标题 */
+  --fs-page:22px;    /* 页面/文档标题 */
+  --lh-tight:1.25;   /* 标题 */
+  --lh-body:1.5;     /* 正文 */
+  --fw-regular:400;
+  --fw-medium:500;
+  --fw-semibold:600; /* 上限；禁用 300 及以下 */
+
+  /* ---- 层级（浮层永远在内容之上，玻璃层永远在同级内最高） ---- */
+  --z-content:0;
+  --z-sidebar:10;
+  --z-toolbar:20;
+  --z-sticky:30;     /* 吸顶表头 / 滚动边缘 */
+  --z-menubar:900;
+  --z-dock:950;
+  --z-popover:1000;  /* 下拉菜单 / 上下文菜单 */
+  --z-modal:1100;    /* 弹窗（sheet / alert） */
+  --z-overlay:1200;  /* 锁屏 / 关机遮罩 */
+  --z-toast:1300;    /* 通知 */
+
+  /* ---- 焦点环（键盘可达必配；鼠标点击不出现） ---- */
+  --focus-ring-color:rgba(0,122,255,.45);
+  --focus-ring-width:3px;
+  --focus-ring:0 0 0 var(--focus-ring-width) var(--focus-ring-color);
+
+  /* ---- 滚动边缘效果（scroll edge effect：内容滚到边界才出现分隔线/渐隐） ---- */
+  --scroll-fade:linear-gradient(to bottom,var(--window-bg),rgba(255,255,255,0));
+
+  /* ---- 动效（时长阶梯 + 两条曲线） ---- */
+  --dur-press:.1s;        /* 按压反馈 */
+  --dur-hover:.14s;       /* 悬停 */
+  --dur-float:.22s;       /* 菜单/浮层出现 */
+  --dur-window:.32s;      /* 窗口转场 */
+  --dur-theme:.38s;       /* 主题切换 */
+  --dur-genie:.42s;       /* 最小化到 Dock（上限，勿超） */
+  --ease-out:cubic-bezier(.32,.72,0,1);      /* 默认：快出慢入 */
+  --ease-spring:cubic-bezier(.22,1.18,.36,1); /* 入场：轻微回弹 */
+}
+
+/* ============ 深色模式（不是反相：降饱和、提对比、重新取值） ============ */
+[data-theme="dark"]{
+  --accent:#0a84ff;
+  --label-1:#f5f5f7;
+  --label-2:rgba(255,255,255,.56);
+  --label-3:rgba(255,255,255,.34);
+  --label-disabled:rgba(255,255,255,.28);
+  --label-on-accent:#ffffff;
+  --window-bg:#1e1e21;
+  --sidebar-bg:#26262a;
+  --content-bg:#1e1e21;
+  --separator:rgba(255,255,255,.12);
+  --separator-strong:rgba(255,255,255,.22);
+  --control-fill:rgba(255,255,255,.09);
+  --control-fill-pressed:rgba(255,255,255,.14);
+  --hover-fill:rgba(255,255,255,.08);
+  --selection-fill:rgba(255,255,255,.12);
+  --glass-menubar:rgba(26,26,28,.42);
+  --glass-panel:rgba(40,40,43,.74);
+  --glass-strong:rgba(44,44,48,.88);
+  --glass-dock:rgba(40,40,44,.5);
+  --glass-toolbar:rgba(38,38,41,.62);
+  --glass-border:rgba(255,255,255,.14);
+  --glass-hairline:rgba(255,255,255,.10);
+  --shadow-window:0 0 0 .5px rgba(0,0,0,.55),0 9px 24px rgba(0,0,0,.45),0 28px 66px rgba(0,0,0,.6);
+  --shadow-floating:0 0 0 .5px rgba(0,0,0,.4),0 12px 40px rgba(0,0,0,.55);
+  --shadow-menu:0 0 0 .5px rgba(0,0,0,.4),0 6px 16px rgba(0,0,0,.4),0 18px 44px rgba(0,0,0,.55);
+  --focus-ring-color:rgba(10,132,255,.6);
+  --scroll-fade:linear-gradient(to bottom,var(--window-bg),rgba(30,30,33,0));
+}
+
+/* ============ 功能层玻璃三件套（只给控件层！内容层禁用） ============ */
+.glass-menubar{
+  background:var(--glass-menubar);
+  -webkit-backdrop-filter:var(--blur-menubar); backdrop-filter:var(--blur-menubar);
+  box-shadow:0 .5px 0 var(--separator);
+}
+.glass-panel{
+  background:var(--glass-panel);
+  -webkit-backdrop-filter:var(--blur-panel); backdrop-filter:var(--blur-panel);
+  border-radius:var(--radius-panel);
+  box-shadow:var(--shadow-menu);
+}
+.glass-dock{
+  background:var(--glass-dock);
+  -webkit-backdrop-filter:var(--blur-dock); backdrop-filter:var(--blur-dock);
+  border:.5px solid var(--glass-border); border-radius:24px;
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 10px 32px rgba(0,0,0,.22);
+}
+/* 明亮/花哨内容之上的玻璃：叠一层暗化，保住可读性 */
+.glass-dim::after{
+  content:""; position:absolute; inset:0; background:var(--glass-dim);
+  border-radius:inherit; pointer-events:none;
+}
+
+/* ============ 交通灯按钮 ============ */
+.traffic-lights{ display:flex; gap:8px; }
+.traffic-lights i{ width:12px; height:12px; border-radius:50%; }
+.traffic-close{ background:#ff6159; }
+.traffic-min{ background:#febd2e; }
+.traffic-max{ background:#28c941; }
+/* 未聚焦窗口：三点全灰（macOS 行为） */
+.window.inactive .traffic-lights i{ background:#d4d4d6; }
+[data-theme="dark"] .window.inactive .traffic-lights i{ background:#5a5a5e; }
+
+/* ============ 焦点态（键盘可达，鼠标不出现） ============ */
+:where(button,a,input,select,textarea,[tabindex]):focus-visible{
+  outline:none; box-shadow:var(--focus-ring);
+}
+
+/* ============ 无障碍：减弱动态效果（必配） ============ */
+@media (prefers-reduced-motion: reduce){
+  *,*::before,*::after{
+    animation-duration:.01ms !important; animation-iteration-count:1 !important;
+    transition-duration:.01ms !important; scroll-behavior:auto !important;
+  }
+}
+
+/* ============ 无障碍：降低透明度（把玻璃提向不透明，保可读性） ============ */
+@media (prefers-reduced-transparency: reduce){
+  :root{
+    --glass-menubar:#fbfbfd; --glass-panel:#fafafc; --glass-strong:#f6f6f8;
+    --glass-dock:#f4f4f6; --glass-toolbar:#fafafc;
+    --blur-menubar:none; --blur-panel:none; --blur-dock:none; --blur-toolbar:none;
+  }
+  [data-theme="dark"]{
+    --glass-menubar:#202024; --glass-panel:#28282c; --glass-strong:#2c2c30;
+    --glass-dock:#2a2a2e; --glass-toolbar:#26262a;
+  }
+}
+[data-reduce-transparency="1"]{
+  --glass-menubar:#fbfbfd; --glass-panel:#fafafc; --glass-strong:#f6f6f8;
+  --glass-dock:#f4f4f6; --glass-toolbar:#fafafc;
+  --blur-menubar:none; --blur-panel:none; --blur-dock:none; --blur-toolbar:none;
+}
+[data-theme="dark"][data-reduce-transparency="1"]{
+  --glass-menubar:#202024; --glass-panel:#28282c; --glass-strong:#2c2c30;
+  --glass-dock:#2a2a2e; --glass-toolbar:#26262a;
+}
+
+/* ============ 无障碍：增强对比（描边加深、次级文本提亮） ============ */
+@media (prefers-contrast: more){
+  :root{ --label-2:rgba(0,0,0,.72); --label-3:rgba(0,0,0,.55); --separator:rgba(0,0,0,.28); }
+  [data-theme="dark"]{ --label-2:rgba(255,255,255,.78); --label-3:rgba(255,255,255,.58); --separator:rgba(255,255,255,.3); }
+}
+
+/* ============ 字体栈（Mac 上自动落到真 SF Pro） ============ */
+/* font-family:-apple-system,BlinkMacSystemFont,'Inter','PingFang SC',
+               'Hiragino Sans GB','Microsoft YaHei','Segoe UI','Helvetica Neue',sans-serif;
+   正文基准 13px（macOS 规范）；禁用 300 以下字重。
+   等宽：ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,monospace */
+
+/* ============ Dock 放大（JS 只负责算 scale 与 padding，参数见下） ============ */
+/* scale = 1 + 0.55 * exp(-(d/σ)²)，σ ≈ 1.35 × 图标尺寸，transform-origin: bottom center
+   item 左右 padding = 3px + (scale-1) × 图标尺寸 / 2  → 防止叠图 */

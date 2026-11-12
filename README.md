@@ -1,4 +1,4 @@
-﻿# DSH-skill 工作区（skill 工厂）
+# DSH-skill 工作区（skill 工厂）
 
 所有 skill 的制造、优化、管理都在这里。Cedar Chen 提需求 → 我在这里造/改 → 部署 → 自检。
 
@@ -17,3 +17,12 @@
 - 一个技能 = 一个文件夹，内含 SKILL.md（可带 scripts/assets）
 - name：小写连字符（kebab-case）
 - description：什么时候用、怎么触发（为空会被 DSH 加载器忽略）
+## ready/ 现状（2026-11-12 导入）
+
+从本地技能工厂 蒸馏skill 导入 26 个已定稿 skill，全部位于 eady/<name>/SKILL.md。
+
+- docs/工厂手册.md：技能工厂的制造流程与规范
+- esearch/：蒸馏调研材料（含 esearch/macos-desktop/ 设计研究与预览图）
+- docs/ai-config-upgrade_v3_2026-10-14.md：AI 配置升级优化记录
+
+导入时排除：	mp/、src_tmp/、.tmp_lunyu/、.workbuddy/、mingshi195.txt（抓取素材，非成品）。

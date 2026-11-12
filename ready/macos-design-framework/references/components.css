@@ -1,0 +1,234 @@
+/* ============================================================
+   macOS Design Framework · 组件配方 v1.0
+   依赖：references/tokens.css（必须先引入）
+   约定：所有尺寸/颜色/时长一律走变量；本文件不出现业务硬编码色值
+   用法：整段复制 → 改类名前缀 / 拆到你的组件体系里
+   ============================================================ */
+
+/* ---------------- 1. 窗口骨架 ---------------- */
+.window{
+  position:absolute; display:flex; flex-direction:column;
+  background:var(--window-bg);              /* 内容层：不透明 */
+  border-radius:var(--radius-window);
+  box-shadow:var(--shadow-window);
+  overflow:hidden;                           /* 保证内圆角与外圆角同心裁剪 */
+  transition:box-shadow var(--dur-hover) var(--ease-out);
+}
+.window.inactive{ box-shadow:0 0 0 .5px rgba(0,0,0,.1),0 6px 18px rgba(0,0,0,.1); }
+/* 开启动画：完成后加 .opened 置空，防止恢复最小化时重播 */
+@keyframes win-open{ from{ opacity:0; transform:scale(.94); } to{ opacity:1; transform:none; } }
+.window{ animation:win-open var(--dur-window) var(--ease-spring); }
+.window.opened{ animation:none; }
+
+/* ---------------- 2. 标题栏 + 交通灯 ---------------- */
+.titlebar{
+  position:relative; display:flex; align-items:center; gap:var(--gap-control);
+  height:var(--h-toolbar); padding:0 var(--sp-3);
+  background:var(--window-bg); border-bottom:.5px solid var(--separator);
+  flex:0 0 auto; user-select:none;
+}
+.window.inactive .titlebar .title{ color:var(--label-3); }   /* 失焦即降层级 */
+.title{ font-size:var(--fs-body); font-weight:var(--fw-semibold); color:var(--label-1); }
+/* 交通灯：仅悬停组时显示符号 */
+.traffic-lights{ display:flex; gap:8px; }
+.traffic-lights i{
+  width:12px; height:12px; border-radius:50%; display:grid; place-items:center;
+  font-size:8px; line-height:1; color:rgba(0,0,0,.5); /* audit:ignore MAC006 交通灯内为字形符号，非文本 */
+}
+.traffic-lights i::before{ opacity:0; transition:opacity var(--dur-hover); }
+.traffic-lights:hover i::before{ opacity:1; }
+.tl-close{ background:#ff6159; } .tl-close::before{ content:"\2715"; }
+.tl-min{ background:#febd2e; }   .tl-min::before{ content:"\2013"; }
+.tl-max{ background:#28c941; }   .tl-max::before{ content:"\25B2"; font-size:6px; } /* audit:ignore MAC006 同上 */
+.window.inactive .traffic-lights i{ background:#d4d4d6; }
+[data-theme="dark"] .window.inactive .traffic-lights i{ background:#5a5a5e; }
+
+/* ---------------- 3. 工具栏（功能层，可玻璃） ---------------- */
+.toolbar{
+  display:flex; align-items:center; gap:var(--gap-control);
+  height:var(--h-toolbar); padding:0 var(--sp-2);
+  background:var(--glass-toolbar);
+  -webkit-backdrop-filter:var(--blur-toolbar); backdrop-filter:var(--blur-toolbar);
+  border-bottom:.5px solid var(--separator);
+  flex:0 0 auto; z-index:var(--z-toolbar);
+}
+.toolbar .spacer{ flex:1 1 auto; }
+
+/* ---------------- 4. 侧栏（27 贴边 / 26 悬浮，二选一） ---------------- */
+.sidebar{
+  width:212px; flex:0 0 auto; padding:var(--sp-2);
+  background:var(--sidebar-bg); border-right:.5px solid var(--separator);
+  z-index:var(--z-sidebar); overflow:auto;
+}
+/* 26 流派悬浮侧栏：贴边改 inset —— 只在侧栏场景用，且必须补对比 */
+.sidebar.floating{
+  margin:var(--sp-2); border-radius:var(--radius-panel); border-right:none;
+  background:var(--glass-panel);
+  -webkit-backdrop-filter:var(--blur-panel); backdrop-filter:var(--blur-panel);
+  box-shadow:var(--shadow-floating);
+}
+.sidebar .section-title{
+  padding:var(--sp-2) var(--sp-2) var(--sp-1);
+  font-size:var(--fs-label); font-weight:var(--fw-semibold); color:var(--label-2);
+}
+
+/* ---------------- 5. 列表行与选中态 ---------------- */
+.list{ list-style:none; margin:0; padding:0; }
+.row{
+  display:flex; align-items:center; gap:var(--sp-2);
+  min-height:var(--h-row); padding:var(--pad-row);
+  border-radius:var(--radius-row);          /* 内圆角 = 外圆角 − 内边距 */
+  font-size:var(--fs-body); color:var(--label-1);
+  transition:background var(--dur-hover) var(--ease-out);
+}
+.row:hover{ background:var(--hover-fill); }
+.row.selected{ background:var(--accent); color:var(--label-on-accent); }
+/* 窗口失焦时的选中：中性色，不用强调色（macOS 行为） */
+.window.inactive .row.selected{ background:var(--selection-fill); color:var(--label-1); }
+
+/* ---------------- 6. 按钮（默认 / 强调 / 玻璃 / 禁用） ---------------- */
+.btn{
+  height:var(--h-control); padding:0 var(--sp-3);
+  display:inline-flex; align-items:center; justify-content:center; gap:6px;
+  font-size:var(--fs-body); font-weight:var(--fw-regular); color:var(--label-1);
+  background:var(--control-fill); border:none; border-radius:var(--radius-control);
+  cursor:pointer;
+  transition:background var(--dur-hover) var(--ease-out),transform var(--dur-press) var(--ease-out);
+}
+.btn:hover{ background:var(--control-fill-pressed); }
+.btn:active{ transform:scale(.97); box-shadow:var(--shadow-pressed); }
+.btn-accent{ background:var(--accent); color:var(--label-on-accent); font-weight:var(--fw-medium); }
+.btn-accent:hover{ filter:brightness(1.06); }
+.btn-glass{
+  background:var(--glass-panel);
+  -webkit-backdrop-filter:var(--blur-panel); backdrop-filter:var(--blur-panel);
+  box-shadow:0 0 0 .5px var(--glass-hairline);
+}
+.btn:disabled,.btn[aria-disabled="true"]{
+  color:var(--label-disabled); background:var(--control-fill); cursor:default;
+  box-shadow:none; transform:none;
+}
+/* 图标按钮（工具栏方形/圆形） */
+.btn-icon{ width:var(--h-control); padding:0; }
+
+/* ---------------- 7. 输入框 ---------------- */
+.field{
+  height:var(--h-control); padding:0 var(--sp-2);
+  font-size:var(--fs-body); color:var(--label-1);
+  background:var(--control-fill);
+  border:.5px solid var(--separator-strong); border-radius:var(--radius-control);
+  outline:none;
+  transition:box-shadow var(--dur-hover) var(--ease-out),border-color var(--dur-hover);
+}
+.field::placeholder{ color:var(--label-3); }
+.field:focus-visible{ box-shadow:var(--focus-ring); border-color:var(--accent); }
+
+/* ---------------- 8. 开关 ---------------- */
+.switch{
+  position:relative; width:38px; height:22px; flex:0 0 auto;
+  border:none; border-radius:11px; background:var(--control-fill-pressed);
+  cursor:pointer; transition:background var(--dur-float) var(--ease-out);
+}
+.switch::after{
+  content:""; position:absolute; top:2px; left:2px; width:18px; height:18px;
+  border-radius:50%; background:#fff;
+  box-shadow:0 .5px 2px rgba(0,0,0,.28);      /* 小控件允许单层，但不得纯黑大模糊 */
+  transition:transform var(--dur-float) var(--ease-spring);
+}
+.switch[aria-checked="true"]{ background:var(--accent); }
+.switch[aria-checked="true"]::after{ transform:translateX(16px); }
+
+/* ---------------- 9. 分段控件 ---------------- */
+.segmented{
+  display:inline-flex; padding:2px; gap:2px;
+  background:var(--control-fill); border-radius:var(--radius-control);
+}
+.segmented button{
+  height:22px; padding:0 var(--sp-3); border:none; background:transparent;
+  font-size:var(--fs-body); color:var(--label-1); border-radius:5px; cursor:pointer;
+  transition:background var(--dur-hover) var(--ease-out);
+}
+.segmented button[aria-selected="true"]{
+  background:var(--window-bg); box-shadow:0 0 0 .5px var(--separator),0 1px 2px rgba(0,0,0,.12);
+}
+
+/* ---------------- 10. 上下文菜单 / 下拉 ---------------- */
+.menu{
+  min-width:180px; padding:5px; margin:0; list-style:none;
+  background:var(--glass-panel);
+  -webkit-backdrop-filter:var(--blur-panel); backdrop-filter:var(--blur-panel);
+  border-radius:var(--radius-panel); box-shadow:var(--shadow-menu);
+  border:.5px solid var(--glass-hairline);
+  z-index:var(--z-popover);
+  animation:menu-in var(--dur-float) var(--ease-out);
+}
+@keyframes menu-in{ from{ opacity:0; transform:translateY(-4px) scale(.98); } to{ opacity:1; transform:none; } }
+.menu li{
+  display:flex; align-items:center; justify-content:space-between; gap:var(--sp-4);
+  height:24px; padding:0 var(--sp-2); border-radius:var(--radius-row);
+  font-size:var(--fs-body); color:var(--label-1);
+}
+.menu li:hover{ background:var(--accent); color:var(--label-on-accent); }
+.menu li.disabled{ color:var(--label-3); }
+.menu li.disabled:hover{ background:transparent; color:var(--label-3); }
+.menu .shortcut{ font-size:var(--fs-label); color:var(--label-2); }
+.menu li:hover .shortcut{ color:var(--label-on-accent); }
+.menu .sep{ height:1px; margin:4px 6px; padding:0; background:var(--separator); }
+
+/* ---------------- 11. 弹窗（sheet / alert） ---------------- */
+.scrim{
+  position:fixed; inset:0; background:rgba(0,0,0,.22); z-index:var(--z-modal);
+  display:grid; place-items:center;
+  animation:fade-in var(--dur-float) var(--ease-out);
+}
+@keyframes fade-in{ from{ opacity:0; } to{ opacity:1; } }
+.alert{
+  width:280px; padding:var(--sp-4);
+  background:var(--glass-strong);
+  -webkit-backdrop-filter:var(--blur-panel); backdrop-filter:var(--blur-panel);
+  border-radius:var(--radius-panel); box-shadow:var(--shadow-floating);
+  text-align:center;
+}
+.alert h3{ margin:0 0 var(--sp-1); font-size:var(--fs-body); font-weight:var(--fw-semibold); color:var(--label-1); }
+.alert p{ margin:0 0 var(--sp-4); font-size:var(--fs-label); color:var(--label-2); line-height:var(--lh-body); }
+.alert .actions{ display:flex; justify-content:center; gap:var(--sp-2); }
+
+/* ---------------- 12. 通知 ---------------- */
+.toast-stack{
+  position:fixed; top:calc(var(--h-menubar) + var(--sp-2)); right:var(--sp-2);
+  display:flex; flex-direction:column; gap:var(--sp-2); z-index:var(--z-toast);
+}
+.toast{
+  width:320px; padding:var(--sp-3);
+  background:var(--glass-strong);
+  -webkit-backdrop-filter:var(--blur-panel); backdrop-filter:var(--blur-panel);
+  border-radius:var(--radius-panel); box-shadow:var(--shadow-floating);
+  animation:toast-in var(--dur-float) var(--ease-spring);
+}
+@keyframes toast-in{ from{ opacity:0; transform:translateX(16px); } to{ opacity:1; transform:none; } }
+.toast .t{ font-size:var(--fs-body); font-weight:var(--fw-semibold); color:var(--label-1); }
+.toast .d{ margin-top:2px; font-size:var(--fs-label); color:var(--label-2); }
+
+/* ---------------- 13. 分隔线（能省则省，优先留白） ---------------- */
+.sep{ height:1px; background:var(--separator); border:0; margin:var(--sp-2) 0; }
+.sep-strong{ background:var(--separator-strong); }
+
+/* ---------------- 14. 滚动边缘效果（滚到边界才出现分隔线） ---------------- */
+.scroll-area{ position:relative; overflow:auto; }
+.scroll-area::before{                      /* 顶部渐隐遮罩，随滚动开关 .at-top 控制 */
+  content:""; position:absolute; inset:0 0 auto; height:14px; z-index:var(--z-sticky);
+  background:var(--scroll-fade); pointer-events:none; opacity:0;
+  transition:opacity var(--dur-hover) var(--ease-out);
+}
+.scroll-area:not(.at-top)::before{ opacity:1; }
+.scroll-area:not(.at-top) .sticky-head{
+  box-shadow:0 .5px 0 var(--separator);     /* 与分隔线二选一，别同时上 */
+}
+
+/* ---------------- 15. 内容区（正文基准，别忘行高） ---------------- */
+.content{
+  flex:1 1 auto; min-height:0; overflow:auto;
+  padding:var(--pad-window);
+  background:var(--content-bg);
+  font-size:var(--fs-body); line-height:var(--lh-body); color:var(--label-1);
+}

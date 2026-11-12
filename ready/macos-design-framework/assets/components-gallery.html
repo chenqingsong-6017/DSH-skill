@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>macOS Design Framework · 组件画廊</title>
+<link rel="stylesheet" href="../references/tokens.css">
+<link rel="stylesheet" href="../references/components.css">
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Inter','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Segoe UI','Helvetica Neue',sans-serif;
+    background:var(--sidebar-bg); color:var(--label-1); padding:calc(var(--h-menubar) + var(--sp-4)) var(--sp-4) var(--sp-6); /* audit:ignore MAC001 页面底为中性占位，非组件令牌 */}
+  h1{font-size:var(--fs-page);margin-bottom:var(--sp-1)}
+  .lead{color:var(--label-2);font-size:var(--fs-sub);margin-bottom:var(--sp-5)}
+  .topbar{position:fixed;top:0;left:0;right:0;height:var(--h-menubar);display:flex;align-items:center;gap:var(--sp-3);
+    padding:0 var(--sp-3);z-index:var(--z-menubar);font-size:var(--fs-label)}
+  .topbar .grow{margin-left:auto;display:flex;gap:var(--sp-2)}
+  .btn{font-size:var(--fs-label)} /* 顶栏按钮复用组件 */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:var(--sp-4);max-width:1180px;margin:0 auto}
+  .card{background:var(--window-bg);border-radius:var(--radius-panel);box-shadow:var(--shadow-floating);padding:var(--sp-3)}
+  .card>h2{font-size:var(--fs-title);margin-bottom:var(--sp-1)}
+  .card .note{font-size:var(--fs-label);color:var(--label-2);margin-bottom:var(--sp-3)}
+  .demo{position:relative;border:.5px solid var(--separator);border-radius:var(--radius-control);padding:var(--sp-3);overflow:hidden;min-height:120px}
+  /* 把 fixed/absolute 组件约束进 demo 框内（仅画廊覆盖，不影响组件本身） */
+  .demo .menubar,.demo .scrim,.demo .toast-stack{position:absolute}
+  .demo .menubar{top:0;left:0;right:0;border-radius:0}
+  .row-sample{display:flex;flex-direction:column;gap:2px}
+  .btns{display:flex;flex-wrap:wrap;gap:var(--sp-2);align-items:center}
+  .swatches{display:flex;flex-wrap:wrap;gap:var(--sp-2)}
+  .sw{width:64px;height:64px;border-radius:var(--radius-control);display:grid;place-items:end center;padding-bottom:6px;
+    font-size:var(--fs-micro);color:var(--label-on-accent);box-shadow:0 0 0 .5px var(--separator)}
+  .sw>span{background:rgba(0,0,0,.35);padding:1px 4px;border-radius:4px} /* audit:ignore MAC001 色块标签底，演示专用 */
+  .miniwin{height:200px}
+  .miniwin .content{padding:var(--sp-2)}
+  .sfloating{width:200px}
+  .lg{grid-column:1/-1;max-width:1180px;margin:0 auto}
+  .scroll-demo{height:160px}
+  .scroll-demo .sticky-head{position:sticky;top:0;background:var(--content-bg);padding:var(--sp-2);font-weight:var(--fw-semibold);
+    display:flex;align-items:center;gap:var(--sp-2)}
+  .scroll-demo .list{margin-top:var(--sp-1)}
+</style>
+</head>
+<body>
+<header class="topbar glass-menubar">
+  <b>组件画廊</b>
+  <div class="grow">
+    <button class="btn" id="btn-theme">深色</button>
+    <button class="btn" id="btn-rt">降低透明度</button>
+  </div>
+</header>
+
+<h1 style="max-width:1180px;margin:0 auto">macOS Design Framework · 组件画廊</h1>
+<p class="lead" style="max-width:1180px;margin:0 auto">渲染自 references/components.css（双主题切换验证）。token 与组件本身不含硬编码色值；本页装饰色已用 audit:ignore 标注。</p>
+
+<main class="grid">
+
+  <!-- 1+2 窗口 标题栏 交通灯 工具栏 -->
+  <section class="card lg">
+    <h2>1·2 窗口骨架 / 标题栏 / 交通灯 / 工具栏</h2>
+    <p class="note">窗口内容层不透明；交通灯仅悬停显符号；工具栏为功能层玻璃。</p>
+    <div class="demo miniwin">
+      <div class="window" style="position:absolute;inset:0;margin:0;animation:none">
+        <div class="titlebar"><div class="traffic-lights"><i class="tl-close"></i><i class="tl-min"></i><i class="tl-max"></i></div><span class="spacer"></span><span class="title">示例窗口</span><span class="spacer"></span></div>
+        <div class="toolbar"><div class="segmented"><button aria-selected="true">列表</button><button aria-selected="false">网格</button></div><span class="spacer"></span><input class="field" placeholder="搜索" style="width:120px"><button class="btn btn-accent">新建</button></div>
+        <div class="content">正文 13px／行高 1.5。窗口正文必须不透明、最高对比。</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4 侧栏 -->
+  <section class="card">
+    <h2>4 侧栏（27 贴边）</h2>
+    <p class="note">实色底 + 右侧细线，贴边即层级。</p>
+    <div class="demo" style="padding:0;display:flex">
+      <nav class="sidebar" style="height:200px;width:160px">
+        <div class="section-title">栏目</div>
+        <ul class="list">
+          <li class="row selected"><span class="sw" style="width:18px;height:18px;background:var(--control-fill-pressed)"></span>全部</li>
+          <li class="row"><span class="sw" style="width:18px;height:18px;background:var(--control-fill-pressed)"></span>最近</li>
+          <li class="row"><span class="sw" style="width:18px;height:18px;background:var(--control-fill-pressed)"></span>归档</li>
+        </ul>
+      </nav>
+      <div class="content" style="flex:1">内容区</div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>4 侧栏（26 悬浮）</h2>
+    <p class="note">.sidebar.floating：玻璃化、圆角、内缩。</p>
+    <div class="demo" style="padding:var(--sp-3);display:flex">
+      <nav class="sidebar floating sfloating" style="height:180px">
+        <div class="section-title">栏目</div>
+        <ul class="list">
+          <li class="row selected"><span class="sw" style="width:18px;height:18px;background:var(--control-fill-pressed)"></span>全部</li>
+          <li class="row"><span class="sw" style="width:18px;height:18px;background:var(--control-fill-pressed)"></span>最近</li>
+        </ul>
+      </nav>
+      <div class="content" style="flex:1">内容区</div>
+    </div>
+  </section>
+
+  <!-- 5 列表行 -->
+  <section class="card">
+    <h2>5 列表行与选中态</h2>
+    <p class="note">选中用强调色；窗口失焦时降级为中性色。</p>
+    <div class="demo">
+      <ul class="list row-sample">
+        <li class="row">普通行</li>
+        <li class="row selected">选中行（accent）</li>
+        <li class="row">普通行</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- 6 按钮 -->
+  <section class="card">
+    <h2>6 按钮</h2>
+    <p class="note">默认 / 强调 / 玻璃 / 禁用 / 图标。</p>
+    <div class="demo btns" style="align-content:center">
+      <button class="btn">默认</button>
+      <button class="btn btn-accent">强调</button>
+      <button class="btn btn-glass">玻璃</button>
+      <button class="btn" disabled>禁用</button>
+      <button class="btn btn-icon" aria-label="图标">＋</button>
+    </div>
+  </section>
+
+  <!-- 7 输入框 -->
+  <section class="card">
+    <h2>7 输入框</h2>
+    <p class="note">聚焦出现焦点环；占位符用 tertiary 色。</p>
+    <div class="demo" style="display:flex;gap:var(--sp-2);align-items:center">
+      <input class="field" placeholder="请输入…" style="flex:1">
+      <button class="btn btn-accent">确定</button>
+    </div>
+  </section>
+
+  <!-- 8 开关 -->
+  <section class="card">
+    <h2>8 开关</h2>
+    <p class="note">选中态滑到右侧、染强调色。</p>
+    <div class="demo btns" style="align-content:center">
+      <button class="switch" aria-checked="false" onclick="this.setAttribute('aria-checked',this.getAttribute('aria-checked')==='true'?'false':'true')"></button>
+      <button class="switch" aria-checked="true" onclick="this.setAttribute('aria-checked',this.getAttribute('aria-checked')==='true'?'false':'true')"></button>
+    </div>
+  </section>
+
+  <!-- 9 分段控件 -->
+  <section class="card">
+    <h2>9 分段控件</h2>
+    <p class="note">选中片抬到窗口底色 + 微阴影。</p>
+    <div class="demo" style="display:flex;align-items:center">
+      <div class="segmented">
+        <button aria-selected="true">日</button>
+        <button aria-selected="false">周</button>
+        <button aria-selected="false">月</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- 10 菜单 -->
+  <section class="card">
+    <h2>10 上下文菜单</h2>
+    <p class="note">玻璃浮层；hover 染强调色；禁用项不变色。</p>
+    <div class="demo" style="display:flex;justify-content:center;align-items:center">
+      <ul class="menu">
+        <li>打开<span class="shortcut">⌘O</span></li>
+        <li>复制<span class="shortcut">⌘C</span></li>
+        <li class="sep"></li>
+        <li class="disabled">删除</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- 11 弹窗 -->
+  <section class="card">
+    <h2>11 弹窗（alert）</h2>
+    <p class="note">遮罩 22% 黑；alert 玻璃卡片居中。</p>
+    <div class="demo" style="min-height:160px">
+      <div class="scrim" style="position:absolute">
+        <div class="alert">
+          <h3>确认操作</h3>
+          <p>此操作不可撤销，是否继续？</p>
+          <div class="actions"><button class="btn">取消</button><button class="btn btn-accent">继续</button></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 12 通知 -->
+  <section class="card">
+    <h2>12 通知</h2>
+    <p class="note">右上角堆叠（画廊内置于 demo 框）。</p>
+    <div class="demo" style="min-height:160px">
+      <div class="toast-stack" style="position:absolute">
+        <div class="toast"><div class="t">文件已保存</div><div class="d">2 秒前</div></div>
+        <div class="toast"><div class="t">同步完成</div><div class="d">刚刚</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 14 滚动边缘 -->
+  <section class="card">
+    <h2>14 滚动边缘效果</h2>
+    <p class="note">滚动后顶部渐隐 + 吸顶表头（.at-top 由 JS 控制）。</p>
+    <div class="demo scroll-demo scroll-area at-top" id="scrollDemo" style="padding:0">
+      <div class="sticky-head"><span class="sw" style="width:16px;height:16px;background:var(--control-fill-pressed)"></span>项目列表</div>
+      <ul class="list" id="scrollList"></ul>
+    </div>
+  </section>
+
+  <!-- 13 分隔线 -->
+  <section class="card">
+    <h2>13 分隔线</h2>
+    <p class="note">能省则省；必要时用 separator 令牌。</p>
+    <div class="demo" style="display:flex;flex-direction:column;gap:var(--sp-2)">
+      <span>分组 A</span><hr class="sep"><span>分组 B</span>
+    </div>
+  </section>
+
+  <!-- 15 内容排版 -->
+  <section class="card">
+    <h2>15 内容区排版</h2>
+    <p class="note">13px / 行高 1.5 / label-1；标题用 fs-title。</p>
+    <div class="demo content" style="position:static">
+      <h2 style="font-size:var(--fs-title)">标题</h2>
+      <p style="color:var(--label-2);margin-top:var(--sp-2)">正文段落，次级信息用 label-2。三级信息用 label-3，靠透明度而非硬编码灰。</p>
+    </div>
+  </section>
+
+  <!-- 配色 token 可视化 -->
+  <section class="card lg">
+    <h2>配色令牌可视化</h2>
+    <p class="note">强调色 + label 三级 + 玻璃三档（浅色令牌；切深色看变化）。</p>
+    <div class="swatches">
+      <div class="sw" style="background:var(--accent)"><span>accent</span></div>
+      <div class="sw" style="background:var(--label-1)"><span>label-1</span></div>
+      <div class="sw" style="background:var(--label-2)"><span>label-2</span></div>
+      <div class="sw" style="background:var(--label-3)"><span>label-3</span></div>
+      <div class="sw" style="background:var(--glass-menubar)"><span>menubar</span></div>
+      <div class="sw" style="background:var(--glass-panel)"><span>panel</span></div>
+      <div class="sw" style="background:var(--glass-dock)"><span>dock</span></div>
+      <div class="sw" style="background:var(--sidebar-bg)"><span>sidebar</span></div>
+    </div>
+  </section>
+
+</main>
+
+<script>
+const html=document.documentElement;
+document.getElementById('btn-theme').onclick=()=>{
+  const d=html.dataset.theme==='dark';
+  html.dataset.theme=d?'light':'dark';
+  document.getElementById('btn-theme').textContent=d?'深色':'浅色';
+};
+document.getElementById('btn-rt').onclick=()=>{
+  const on=html.dataset.reduceTransparency==='1';
+  if(on) delete html.dataset.reduceTransparency; else html.dataset.reduceTransparency='1';
+};
+/* 滚动边缘 demo：填充行 + 切换 .at-top */
+const list=document.getElementById('scrollList');
+for(let i=1;i<=24;i++){const li=document.createElement('li');li.className='row';li.textContent='列表项 '+i;list.appendChild(li);}
+const sd=document.getElementById('scrollDemo');
+sd.addEventListener('scroll',()=>{ sd.classList.toggle('at-top', sd.scrollTop<4); });
+</script>
+</body>
+</html>

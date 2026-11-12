@@ -1,0 +1,6449 @@
+v4part2
+
+Report of the PRESIDENTIAL COMMISSION
+
+on the Space Shuttle Challenger Accident
+
+Volume 4 Index
+
+Hearings of the Presidential
+
+Commission on the Space Shuttle Challenger Accident: February 6, 1986
+
+to February 25, 1986
+
+ FEBRUARY 7, 1986 SESSION.
+
+ Marv Jones.
+
+ Stanley
+
+ Kline.
+
+ Jesse W. Moore and Arnold
+
+ D. Aldrich.
+
+ Note:
+
+ Centered number = Hearing page
+
+ [bold
+
+ number] = Text page.
+
+[193] 235
+
+PRESIDENTIAL COMMISSION ON SPACE
+
+SHUTTLE CHALLENGER ACCIDENT - FRIDAY, FEBRUARY 7,1986
+
+ National Academy of Sciences
+
+ Auditorium
+
+ 2100 Constitution Avenue,
+
+ N.W.
+
+ Washington, D.C.
+
+The Presidential Commission met at 9:30
+
+o'clock a.m.
+
+ PRESENT:
+
+ WILLIAM P. ROGERS, Chairman
+
+ NEIL A. ARMSTRONG
+
+ DR. SALLY RIDE
+
+ DR. ALBERT WHEELON
+
+ ROBERT RUMMEL
+
+ DR. ARTHUR WALKER
+
+ RICHARD FEYNMAN
+
+ EUGENE COVERT
+
+ ROBERT HOTZ
+
+ DAVID C. ACHESON
+
+ MAJOR GENERAL DONALD KUTYNA
+
+236
+
+ ALSO PRESENT:
+
+ JESSE MOORE, NASA
+
+ ARNOLD ALDRICH, NASA
+
+ JONATHAN THOMPSON, NASA
+
+ MARV JONES, NASA
+
+ STANLEY KLINE, Federal Bureau of
+
+ Investigation
+
+Hearings pages 237 through 302
+
+covered a presentation on physical security at Kennedy Space Center
+
+and Vandenberg AFB. In the interest of security at Kennedy and
+
+Vandenberg, these pages have not been reproduced.
+
+[194] STATEMENT OF MARV JONES
+
+MR.JONES:
+
+Mr. Chairman, members: I'm Marv Jones, Director of Safety,
+
+Reliability, Quality Assurance and Protective Services at Kennedy
+
+Space Center. The protective services includes fire and
+
+security.
+
+Having gone through a rather lengthy title, I
+
+will focus on the very last one of those, specifically security. What
+
+I'm going to do is to focus on the security prior to the mishap and
+
+what we have done after that, and I will not spend a great deal of
+
+time, subject to your questions, as to the routine kinds of security
+
+that we maintain around the clock -
+
+(Viewgraph.) [Ref. 2/17-1]
+
+[195] - other than to say
+
+that basically we have a very large reservation, around 100,000
+
+acres. We have perimeter gates, then we have gates with guards
+
+further in at the critical facilities, and then finally some internal
+
+guards.
+
+Now, you will note on the six or seven
+
+viewgraphs that I have a large number of acronyms. I'm sure I will be
+
+in trouble with Jesse if I use any of them. There is a list, if all
+
+else fails, attached to the back of your briefing that describes what
+
+each of these are.
+
+DR. WALKER:
+
+Could I just ask one question? Are you completely separate from
+
+Patrick Air Force
+
+304
+
+Base?
+
+MR. JONES:
+
+No, we are totally a separate entity, with one exception. The Cape
+
+Canaveral Air Force Station and Kennedy Space Center are contiguous,
+
+and by agreement between the two organizations the Air Force guards
+
+the south side and NASA guards the west and the north side, with the
+
+ocean taking care of the east. It's a very cooperative venture, but
+
+totally separate.
+
+A few days before the launch we established
+
+what is called a Blast Danger Area. This is essentially a circle of
+
+about a 4500 foot radius around the launch pad. We also established
+
+what we call an Impact Limit Line, which is basically three miles
+
+from the launch pad. The purpose of the impact limit line is that, if
+
+there is a catastrophic problem, that no major pieces representing
+
+danger to property or to life should fall in that particular
+
+area.
+
+All of that then becomes a guarded
+
+area.
+
+CHAIRMAN ROGERS: How large is that area?
+
+MR. JONES:
+
+The Blast Danger Zone, sir, is 4500 feet from the center of the pad.
+
+It's a circle. And then the Impact Limit Line is basically three
+
+miles to the west of that. So that then the pads and the beach then
+
+are the unprotected area from the blast.
+
+CHAIRMAN ROGERS: It is all sides three miles
+
+305
+
+around and in the ocean?
+
+MR. JONES:
+
+Let me have backup number 12 on the far screen, if I could,
+
+please.
+
+What we have done is to effectively determine
+
+the maximum yield that the vehicle could generate if we didn't take
+
+any destruct action, so that we know essentially what kind of
+
+catastrophic situation we would have.
+
+We then go back and draw an Impact Limit Line.
+
+In this instance, it is essentially right in front of the vertical
+
+assembly building, and then go due north, as you will see.
+
+(Viewgraph.) [Ref. 2/7-1]
+
+Here we have the dotted line, and we make sure
+
+then at launch time that we know that there is no one inside or to
+
+the east of that dotted line, which, as you see, comes down right by
+
+the landing facility, the vertical assembly building, on out through
+
+Cape Canaveral Air Force Station.
+
+And then the circles, as you see, are the
+
+Blast Danger Areas.
+
+CHAIRMAN ROGERS: What is the closest spot to the launch site?
+
+MR. JONES:
+
+Well, this is actually on pad A, but it's exactly the same for pad B.
+
+We have 70 people who are inside
+
+that impact limit line at the time of
+
+launch.
+
+306
+
+CHAIRMAN ROGERS: My question is how far is it from the outside line to
+
+the launch pad B?
+
+[196] MR. JONES: From here?
+
+This is about three miles, from here to the pad.
+
+CHAIRMAN ROGERS: So you're fairly comfortable that there were no
+
+people within that three mile area?
+
+MR. JONES:
+
+Yes, sir, I am, with the exception of 60-odd people that I know who
+
+are there, and are there for a good reason. So we restrict access, of
+
+course, to that area at about the launch minus three day point and,
+
+with the exception of people who have to go to the launch pad for
+
+actual work, we also restrict access to the Launch Control Center and
+
+critical support facilities, such as some of the communications sites
+
+and some of the radar antennas.
+
+Now, during this period of time we actually
+
+sweep the area twice daily. It is done with a helicopter with a
+
+security team on board. We do it at different times. And of course,
+
+we also have the guards that are still out in that area, and they are
+
+doing roving patrols and making sure no one gets in there.
+
+CHAIRMAN ROGERS: Is it fenced in?
+
+MR. JONES:
+
+The only fence we can speak to immediately is approximately 1200 feet
+
+out from the
+
+307
+
+center of the launch pad, and it is a complete
+
+enclosed fenced in area, with guarded access to get in and out. That
+
+is the only fence.
+
+There are other fenced areas, but the whole
+
+center as such is not fenced in, no, sir.
+
+DR. WALKER:
+
+Does the fence go down to the beach?
+
+MR. JONES:
+
+No, it does not. There is on the launch pad, 1200 feet out, and then
+
+there's a large open area to the east of both pad A and pad B. Then
+
+there is a beach road and then the actual beach itself. But no, they
+
+do not go that far out, although access to that beach road and that
+
+area is controlled through a guard post.
+
+Now, at this point approximately three days
+
+prior to launch, anyone who needs to get into the Blast Danger Area
+
+has to go through a rather elaborate series of checks, ultimately
+
+being approved by the NASA test director, who is on duty 24 hours a
+
+day. And when he arrives at a control checkpoint, he checks in with
+
+the guard who is there.
+
+And the guard will not accept that
+
+individual's word that he needs to go in. He must radio back to the
+
+launch control center and to the console, and then the console will
+
+discuss why this man wishes to go in with
+
+308
+
+the NASA test director. And if he does not
+
+know why he needs to get in, he will not approve it. And for example,
+
+if there was a problem on the pad with a fire detection system on the
+
+structure, he might send an alarm technician in. If the NASA test
+
+director was not aware of that problem, he would go back to the
+
+control console in the firing room to confirm that they had a
+
+requirement. Then he would approve him going in.
+
+So we think we have good controls for any
+
+access to the stack or the entire vehicle on the pad at that
+
+particular point in time.
+
+(Viewgraph.) [Ref. 2/7-1]
+
+Let me say that, really up front from our
+
+thing, we see absolutely no evidence as of this minute of any
+
+sabotage attempt, any willful attempt to damage the hardware, or any
+
+terrorist activity. And I might also add, we have no claims of that,
+
+which would not be out of character for terrorist activity.
+
+Essentially, as we got closer to the launch,
+
+we of course were monitoring all of the security implications, and we
+
+simply had no unusual security incidents reported. We also take a
+
+pretty [197] good look - and generally, I've been focusing on the
+
+land areas right now, but as we got closer to the launch we
+
+309
+
+implemented certain launch area restrictions
+
+in the surface out in the water, and we had normal United States
+
+Coast Guard support, and also the Range Control Center, which is
+
+operated by the Air Force.
+
+And we had various helicopters and boats
+
+operating out there. And in fact, on launch day we had three Coast
+
+Guard vessels, five helicopters, plus radar, surveiling the launch
+
+area.
+
+And all of the logs and all of the tapes that
+
+we have been able to come up with so far reveal that there were never
+
+any reported penetrations of any boats in that area. On one of the
+
+NASA helicopters we had a brand new security officer who was being
+
+trained for the first time, was riding backwards in the helicopter
+
+and spotted what he thought was a small boat. It was over water and
+
+he was looking over water and had no frame of reference.
+
+And we have interviewed everyone else on that
+
+helicopter and we believe that he spotted one of the Coast Guard
+
+boats. He thought it was 1200 feet away and it turned out it was more
+
+like five miles. He thought it was a 14 footer and it was a 41
+
+footer.
+
+But to substantiate their memories, we have
+
+also gone back and reviewed all of the films that would have any
+
+evidence of that area. On top of the large
+
+310
+
+building, the vertical assembly building,
+
+there are a couple of cameras and they are essentially looking down
+
+at the pad. But, this area, this suspect area behind, and we see no
+
+evidence of a ship.
+
+I might add, there were eight to ten foot
+
+waves a mile out to sea, and we suggest a 14 footer would have been
+
+probably at some degree of risk to have been out there. And so we
+
+don't believe that this spotting was accurate.
+
+CHAIRMAN ROGERS: Did this result in an investigation?
+
+MR. JONES:
+
+Sir?
+
+CHAIRMAN ROGERS: Did this result in an investigation by you?
+
+MR. JONES:
+
+Well, in the course of events post-accident this came up, about three
+
+days later, which led us then to go through the interviews and
+
+re-examine all of the tapes. And so it was a reaction on our
+
+part.
+
+CHAIRMAN ROGERS: Did you file a report or is there a report of that
+
+incident?
+
+MR. JONES:
+
+No, sir. It was reported verbally to us, and then we have documented
+
+that as part of the files that we are building.
+
+DR. WHEELON:
+
+Would it be unusual for such a boat to be in the area at the time of
+
+the shuttle
+
+311
+
+launch?
+
+MR. JONES:
+
+No, and I guess if the seas had not been rough it would have been
+
+just the opposite. We have experienced - I might add, I've been
+
+involved in every single one of the launches. We have had a large
+
+number of vessels attempt to get very, very close. We have had a
+
+large number of aircraft that have intruded into the area. We have
+
+actually had to hold launches for aircraft.
+
+And that is why the Coast Guard is out there,
+
+simply because it is very common. It is a heavy area for boating
+
+interest, as you know, as well as fishing interest. And in fact, one
+
+day we [198] had the QEII simply pull up and stop with a full load
+
+of people to see it. And so it is quite common to have
+
+vessels.
+
+But they all know the area is closed. Notices
+
+are sent out to them to tell them to stay out, and then of course the
+
+Coast Guard enforces it, as well as our helicopters, using
+
+loudspeakers or hailers.
+
+DR. WHEELON:
+
+So if this should turn out to be a valid report, you wouldn't be
+
+surprised?
+
+MR. JONES:
+
+No, I would not be surprised, that is correct. But at this point
+
+there is no evidence to suggest that it was valid. We believe that he
+
+saw something, but what he saw is the question.
+
+MR. RUMMEL:
+
+Can you clarify the parachute
+
+312
+
+incident that was reported in the
+
+press?
+
+MR. JONES:
+
+Yes. As you are aware, the solid rocket boosters are parachuted back.
+
+Initially when they come down, a drogue chute deploys, and once
+
+that's stabilized then at a certain point the other parachutes are
+
+deployed.
+
+And what had happened, as best we can tell,
+
+that during the sequence of events post-event, post-accident, and
+
+post range safety destruct action, the parachute simply deployed. And
+
+what you were seeing then was a part of one of the solid rocket
+
+boosters as it came down.
+
+MR. RUMMEL:
+
+Was it recovered?
+
+MR. JONES:
+
+We do have a large number of those parachutes that came down, but the
+
+first report of a paramedic going into the scene by parachute was
+
+totally false. That was simply an assumption on the part of the
+
+author.
+
+CHAIRMAN ROGERS: I do think that these two points illustrate what we
+
+were saying earlier. Anything that we do not comment on in the report
+
+will be subject to later rumors and criticisms that we didn't even
+
+investigate those things.
+
+DR. WALKER:
+
+These instances will have to be in our report.
+
+313
+
+CHAIRMAN ROGERS: Absolutely.
+
+DR. WHEELON:
+
+How close was the nearest Russian vessel?
+
+MR. JONES:
+
+We did not have one that was close enough to be a factor, which is
+
+fairly common for us.
+
+DR. WHEELON:
+
+How close was the nearest Russian vessel? Not that it was a factor,
+
+but how close was it?
+
+MR. JONES: I
+
+don't have that information.
+
+DR. WHEELON:
+
+Can you find it for us?
+
+MR. JONES:
+
+It's no problem finding it. I just don't have it.
+
+I do know that from my own point, that he was
+
+not within visual sighting of the areas where we normally - where it
+
+would be common to see them. He wasn't three of four miles out, but I
+
+will find the exact location and provide that to you.
+
+DR. WHEELON:
+
+On previous launches, how close do they come in?
+
+MR. JONES:
+
+The closest I have seen them on one of these actual launches was I
+
+think about three and a half miles out, outside the legal limit. I
+
+have seen them probably within 100 yards of the three mile limit,
+
+very early in the Apollo program.
+
+In fact, I believe for STS-1 - and this
+
+is
+
+[199] 314
+
+strictly from memory now - I believe they were
+
+more interested in the solid rocket booster splashdown area, and so
+
+we have seen them in various positions, close or a little further
+
+out.
+
+DR. WHEELON:
+
+And then just in a qualitative way, on this one were they relatively
+
+close or relatively far away?
+
+MR. JONES:
+
+To the best of my knowledge, the closest one was up north of
+
+Charleston, South Carolina. But again, that is from memory and I'm
+
+going to have to check it.
+
+DR. WHEELON:
+
+So they were nowhere near the area? They were unusually
+
+absent?
+
+MR. JONES:
+
+No, they have been off and on. We have had several launches where
+
+they didn't show up.
+
+DR. WHEELON:
+
+On this launch were they unusually absent or in their normal
+
+position?
+
+MR. JONES:
+
+Their normal position, from my perspective.
+
+DR. WHEELON:
+
+Could you clarify that and be a little more precise?
+
+CHAIRMAN ROGERS: Jess, I think on those points you should have a
+
+complete file, and I don't care what you call it. We will have to
+
+have a section dealing with every one of these things. If we don't
+
+exclude
+
+315
+
+every possibility with some convincing
+
+evidence, we're going to be subject to criticism for a long, long
+
+time. And if you remember the Warren Commission, that is exactly what
+
+they were criticized for, failing to do this and that and other
+
+things.
+
+They did a good job and they did all the
+
+things, probably, that any commission should do, but for years they
+
+have been subject to that kind of criticism.
+
+So each one of these things, by asking the
+
+question we don't mean you haven't done a good job. We just want the
+
+material, so that you will have it ready when we need it, to exclude
+
+these possibilities.
+
+And we are going to be working on the
+
+exclusion theory most of the time, probably. We're not going to
+
+discover something, so we're going to have to exclude a lot of these
+
+things and say, here is what's left.
+
+MR. MOORE:
+
+Yes, sir. We will make sure that gets documented in great detail, and
+
+go back and look at the history from the first flight all the way up
+
+to this one, and try to give you a relative comparison of it.
+
+MR. HOTZ: I
+
+think the point here is, how many - do they - or how do they behave
+
+when there is a launch of unusual interest, in contrast to how they
+
+behaved here.
+
+MR. JONES:
+
+We've seen their interest vary from
+
+316
+
+high level of interest, close by, to no
+
+interest at all, simply by not being in the immediate vicinity and so
+
+you wouldn't be aware of it.
+
+We know through intelligence sources where
+
+they are, and routinely prior to the launch the Air Force range
+
+commander is briefed on the location of those ships. So it's not
+
+uncommon to find them in Charleston or down south and sometimes in
+
+transit, going home. And so we get that data routinely.
+
+It is just that I did not get it for this
+
+particular flight.
+
+MR. HOTZ:
+
+But they didn't appear to be particularly interested in this
+
+flight?
+
+MR. JONES:
+
+No, not from my perspective.
+
+MR. COVERT:
+
+When you say they're highly interested, is that five ships, two
+
+ships, one ship?
+
+[200] MR. JONES: In the
+
+immediate launch vicinity, I've never seen more than one close
+
+by.
+
+MR. MOORE:
+
+You also have to realize they put ships in the splashdown
+
+area.
+
+CHAIRMAN ROGERS: Most of the intelligence they get is from other
+
+sources, anyway.
+
+(Viewgraph.) [Ref. 2/7-1]
+
+MR. JONES:
+
+One of the other areas that we concern ourselves with prior to launch
+
+is what
+
+317
+
+mail-package screening. Essentially, what we
+
+do is to screen all the mail that is addressed to our center
+
+director, to the astronauts, and we also take a look at any other
+
+mail which seems to be consistent with the profile that one would
+
+anticipate finding if you had a suspicious letter or a letter bomb,
+
+something of that nature.
+
+And we use the data or information from the
+
+FBI to establish what the profile is. And we had no significant mail
+
+of any type whatsoever, announcing any threats or any significant
+
+events as far as mail was concerned.
+
+We did have a couple of packages that we
+
+thought were a little suspicious, and on actual examination again
+
+absolutely no significance related to the mishap.
+
+(Viewgraph.) [Ref. 2/7-1]
+
+318
+
+MR. JONES:
+
+Turning now to the period of time immediately after the mishap, as
+
+you would perhaps expect we've had numerous reports of suspicious
+
+persons. We've had numerous letters from a wide variety of people
+
+around the country.
+
+Primarily, though, they have been of what we
+
+would characterize as the kook type, telling us what went wrong. No
+
+one in any of those letters has claimed responsibility, announced any
+
+threats or anything.
+
+We feel that just because it appears to be a
+
+kook letter to us is not in itself good reason to put it in a round
+
+file. As a result of that, we're working very closely with the FBI,
+
+the Secret Service as necessary, local law enforcement officers, and
+
+we intend to pursue each of those to a logical conclusion to satisfy
+
+ourself that in fact it was a kook.
+
+DR. WALKER:
+
+You say numerous. About how many?
+
+MR. JONES:
+
+Oh, I saw five or six yesterday. We have had reports from FBI field
+
+offices around the country that they've received some. I think one
+
+day last week I had five letters addressed to Jess Moore that we
+
+received at Kennedy. I would think probably a hundred would be a fair
+
+representation at this point.
+
+CHAIRMAN ROGERS: It's amazing there are so few.
+
+319
+
+MR. JONES:
+
+Well, Mr. Chairman, there will probably be a lot more than that
+
+ultimately. We also are concerned, of course, with the water areas,
+
+and as noted here on the chart that area is still controlled by the
+
+Coast Guard while the search and recovery process is going on.
+
+Late - early in the evening after the mishap
+
+occurred, the Vice President came down, as I'm sure many of you know,
+
+and during his visit there or shortly after he departed we had a
+
+small boat that was reported about half a mile off the coast adjacent
+
+to Pad B which is shown on the map over there.
+
+He seemed to just pull up and just stop in the
+
+water, and he was spotted by our security forces on the beach road.
+
+We tried to shine lights out and get some identification off the
+
+boat. It was not a large one, and we were never able to identify
+
+him.
+
+[201] We tried to raise
+
+him with a radio and a PA system, public address hailers, and he did
+
+not respond at all, and so we called the Coast Guard.
+
+As you can imagine, this was about nine hours
+
+after the accident. The Coast Guard was simply too busy to come and
+
+investigate him. He did not declare himself in distress, and after
+
+about thirty minutes he drove away, and unfortunately we were not
+
+able to get any
+
+320
+
+identification on him.
+
+Our assessment is at this point it was
+
+probably a curiosity seeker, but we're trying to make every attempt
+
+to see if we can identify him. I am not encouraged that we will be
+
+successful at this point.
+
+DR. WHEELON:
+
+From the way you describe this incident, you seemed to identify it
+
+with the presence of the Vice President. Did you mean to?
+
+MR. JONES:
+
+Yes.
+
+DR. WHEELON:
+
+Why?
+
+MR. JONES: I
+
+will in fact come back to that in a couple of minutes.
+
+Well, what we have taken a look at was what
+
+was not normal, and was it not normal because of some malfunction?
+
+Was it not normal because it doesn't happen? The Vice President being
+
+there is not normal. He doesn't routinely come down there. We had
+
+that boat incident that I just referred to. We had the Vice President
+
+on hand.
+
+CHAIRMAN ROGERS: Could you give us the facts again on the boat matter?
+
+I wasn't clear on the facts.
+
+MR. JONES:
+
+It seemed to be a small boat in the 15-18 foot range.
+
+CHAIRMAN ROGERS: What happened to the man in the boat?
+
+321
+
+MR. JONES:
+
+The boat stopped about a half a mile out to sea, approximately
+
+adjacent to the launch pad that we have used. We signalled him with
+
+flashlights, car lights, tried to speak to him on loudspeaker systems
+
+in the police car. He never responded to us at all. He never
+
+identified himself. We had no radio transmissions from him at
+
+all.
+
+We asked the Coast Guard to come investigate,
+
+and since the ship had not declared himself in distress the Coast
+
+Guard opted to not show up.
+
+CHAIRMAN ROGERS: Then what happened?
+
+MR. JONES:
+
+Then he - -
+
+CHAIRMAN ROGERS: He didn't land or anything?
+
+MR. JONES:
+
+No, sir. There was no evidence. We were standing there with armed
+
+guards in case he tried it. He just cranked up his engine and
+
+left.
+
+DR. WALKER:
+
+It's not illegal for that person to be there because it's not a
+
+launch.
+
+MR. JONES:
+
+That's right.
+
+DR. WHEELON:
+
+But why do you tie that to the Vice President's presence?
+
+MR. JONES:
+
+Because of the presence of the Secret Service there and his presence,
+
+we were being very sensitive to any event that was out of the
+
+ordinary, and
+
+322
+
+that was out of the ordinary.
+
+We were also concerned because of the mishap
+
+with anything that was out of the ordinary.
+
+At approximately the same time, and I don't
+
+have the precise times with me. Over on Cape Canaveral Air Force
+
+Station there is a balloon that is called - well, it's tethered
+
+aerostat radar system, or nicknamed Fat Albert. Fat Albert crashed
+
+into the ocean at approximately the same [202] time. All three of
+
+these mishaps occurred, of course, shortly before noon. The Vice
+
+President arrived at 5:00 and was there until around 7:30. This event
+
+occurred about thirty minutes later, and within an hour of that time
+
+the balloon fell into the ocean.
+
+The initial report on the balloon falling in
+
+was that there was a report of small arms ground fire, obviously a
+
+non-normal event, and that gave us a great deal of concern. It now
+
+turns out that the investigation revealed the balloon was being
+
+hoisted back up. It is taken down routinely before Shuttle launches
+
+and was going back up to aid in air traffic control over the search
+
+area because we had a large number of airplanes.
+
+The balloon was probably up over 10,000 feet.
+
+The tether broke, and as each of the different strands
+
+323
+
+began to break under a lot of stress and high
+
+strain, then the Accident Investigation Board believes at this time,
+
+and their findings are not final, that what was heard was in fact the
+
+strands breaking.
+
+So these were the not-normal events that I
+
+would actually include in there, and of course ground fire being
+
+heard within approximately ten miles of the Vice President gave us
+
+some concern, but again, no evidence whatsoever that there was ground
+
+fire.
+
+MR. HOTZ:
+
+Fat Albert doesn't normally fly that high, does it?
+
+MR. JONES:
+
+Normally it's about 12,000 feet.
+
+DR. WHEELON:
+
+If the Vice President hadn't been there, would you have been
+
+surprised that there was a boat in the place you described?
+
+MR. JONES: I
+
+think because of the mishap, yes, because we wanted to keep that
+
+whole area sterile at this point. It was obviously just a few hours
+
+after the accident, and we simply did not know what had occurred. We
+
+knew that we had floating debris out there. We had objects being
+
+washed up on the shore by this time, and I would not have wanted him
+
+there.
+
+Now, I do not know as of right now what time
+
+the Coast Guard declared it a closed area. That is part of our trying
+
+to tidy this particular event up, because the Coast Guard did close
+
+that area to all surface
+
+324
+
+shipping.
+
+DR. WHEELON:
+
+But you see the point of my question. You were tying it into the Vice
+
+President's being there. Had the Vice President not been there and he
+
+had still come, perhaps he was unwitting of the Vice President's
+
+presence and he was in an area where he shouldn't be, and all that
+
+sort of thing.
+
+But it seems pretty normal to me that there
+
+would be a lot of curiosity seekers. Why are you so concerned with
+
+this?
+
+MR. JONES:
+
+I'm not concerned with it at all, sir. I just simply am reporting the
+
+facts to you as I see them.
+
+CHAIRMAN ROGERS: Jess, consider if you will, and you don't have to
+
+decide now, whether at some time in a public session this kind of
+
+report would be useful.
+
+MR. MOORE:
+
+Okay.
+
+CHAIRMAN ROGERS: In other words, this is the kind of thing that would
+
+show care, and it would show that you have done a lot of work ahead
+
+of time and you have excluded some possibilities in public, so that
+
+would give us a basis for the report that we will make.
+
+MR. MOORE:
+
+Yes, sir. I think that if we continue to go in and get most of the
+
+details put in to place and kind of get a big picture story, then I
+
+think
+
+[203] 325
+
+we can talk to you about some version that is
+
+going to the public.
+
+CHAIRMAN ROGERS: I think that you might keep in mind what kind of
+
+public sessions we can have without damaging your investigation and
+
+still reassuring the public that a lot of things are being
+
+done.
+
+MR. MOORE:
+
+Yes, sir.
+
+CHAIRMAN ROGERS: Go ahead.
+
+(Viewgraph.) [Ref. 2/7-1]
+
+MR. JONES:
+
+The next day after the launch we decided that one of the most
+
+important things that we could do was to search the area immediately
+
+adjacent to the pads, and we were perhaps somewhat influenced by what
+
+Dr. Kutyna suggested in view of the latter part of this in a sabotage
+
+event.
+
+What we did was take thirty of our very well
+
+specially trained investigators and formed up five-man teams, and we
+
+spent the next three days closely examining the entire area within
+
+2,000 meters of the launch pad; some pretty formidable terrain, some
+
+wild animals, alligators, virtually impassable areas out
+
+there.
+
+We were simply searching for any evidence that
+
+someone had been there; food, paper, cigarette butts, scuffed areas,
+
+broken branches, flattened weeds. We
+
+326
+
+simply found nothing.
+
+Now, related especially to the sabotage issue,
+
+we did find a few items of debris that could be orbiter related. We
+
+very carefully plotted where all of those were. We photographed them
+
+in place. If they could, we felt, stay secure, we would leave them
+
+there and get a trained engineer who would understand the thing
+
+better than my security people would, to come take a look at
+
+it.
+
+To date we have found - well, I think we found
+
+about 25 items, many of which we have discounted as being orbiter
+
+related, a couple that were related to the vehicle. It is not
+
+uncommon to find a little bit of foam, for example, and an occasional
+
+piece of a tile, those kinds of things.
+
+But no one who has examined the debris that we
+
+have found to date reads any special significance into it. We do
+
+have, of course, exactly where it was located.
+
+As a separate action while we were doing the
+
+area outside of that perimeter fence which I referred to a few
+
+moments ago, we had a special facilities team, who understood the
+
+launch pad from an engineering point of view, do a complete walkdown
+
+of the launch pad, and that data will of course be available to you
+
+in a later forum.
+
+After they finished, then we went back with
+
+some of our security people to take another complete
+
+327
+
+look at the entire area, essentially from the
+
+very top of the fixed service structure all the way to the ground.
+
+Yes, we started yesterday morning and should have finished late last
+
+night after I left for here, with a complete security investigation
+
+of the entire inside of the area.
+
+Again, as of now, we have not found anything
+
+of any concern to us, and we have continued on using the mail, as I
+
+referred to a little bit earlier, and we are working with all of the
+
+other agencies who have perhaps received mail or those who have not.
+
+We're using their talents to help us in our use of it.
+
+(Viewgraph.) [Ref. 2/7-1]
+
+[204] MR. JONES: As we get
+
+official mail for the Board, it goes to the investigative board that
+
+we have. Unofficial mail goes to our public affairs office, and any
+
+suggestions or information relating to the mishap goes to the
+
+security office as well.
+
+Additionally what we're doing, we are
+
+continuing to review all of the films that we have. The 60-odd people
+
+that I referred to who were inside the Impact Limit Lines are all
+
+being interviewed. We are satisfying ourselves that there were always
+
+two or more people together, that no one person was in there
+
+alone.
+
+We are in direct liaison with the Air
+
+Force
+
+328
+
+Office of Special Investigations and the Naval
+
+Investigative Service, the local law enforcement agencies, the state
+
+as well as the FBI, as I was saying, and the real bottom line is,
+
+sir, as of this point there have been no claims of responsibility,
+
+and we have no evidence at this point that there was any attempt of
+
+sabotage or terrorism related to the orbiter. Just because we haven't
+
+found anything doesn't mean that we will stop looking.
+
+DR. WALKER:
+
+The 60 people who were there, would they be doing things like
+
+operating cameras?
+
+MR. JONES:
+
+Yes, there were camera operators, security personnel at various
+
+roadblocks, and fire, crash and rescue in the event that we had a
+
+problem on the pad to help the flight crew get out of the pad and get
+
+into a safe area.
+
+DR. WALKER:
+
+So, they were all officially there?
+
+MR. JONES:
+
+They were all there. We know exactly who they were and what their job
+
+is. It is a very limited number, and that is why we know precisely
+
+who the individuals are.
+
+DR. WHEELON:
+
+Let me address a question to you and to Jess, if I may, meaning both
+
+the security and the technical side.
+
+329
+
+By the inspections that you, visual and
+
+otherwise, that you performed prior to the launch, can you preclude
+
+the possibility that an explosive was attached to the vehicle?
+
+MR. JONES: I
+
+would say from my perspective, no, I cannot exclude that until I have
+
+examined all of the film and satisfied myself and looked at it
+
+[or]
+
+MR. MOORE: I
+
+was just going to say that what we have tried to do is to look at the
+
+outside aspects of this thing to make sure that we could not find
+
+any, and we did not find anything suspicious.
+
+We still plan to continue the investigative
+
+process, but we can't exclude that as an absolute possibility until
+
+we look at all of the photos from all aspects, and it's not clear
+
+that we're going to get coverage of all aspects of the areas we might
+
+be interested in. We can't exclude that possibility.
+
+DR. WHEELON:
+
+Was the vehicle thoroughly photographed prior to launch?
+
+MR. MOORE:
+
+Yes, we have photographs of the vehicle very, very close up prior to
+
+the liftoff.
+
+DR. RIDE:
+
+Did you get pictures of the right SRB?
+
+MR. MOORE:
+
+We got pictures of the right SRB; not total, however. They are in
+
+stacks. There are parts of it that are
+
+330
+
+excluded and so forth that we do not have
+
+pictures of, Sally, so there may be some area there that you're just
+
+not going to see anything.
+
+[205] GENERAL KUTYNA: Jess, on
+
+our guidance systems the accelerometers are sensitive enough if I had
+
+an explosion aboard my vehicle it would be picked up by the
+
+accelerometer. Does the Shuttle have the same kind of sensors?
+
+MR. MOORE:
+
+The Shuttle has some pretty sensitive things on it to pick up G-loads
+
+and the movement of the bird, like that and so forth, and that data
+
+is under work right now.
+
+GENERAL KUTYNA: So as you analyze it, possibly if you had anything
+
+you would see it?
+
+MR. MOORE:
+
+The loads analysis is a very critical question we're addressing right
+
+now in addition to the events time line which, as I said earlier,
+
+needs great correlation from everybody that was taking flight data in
+
+real time, and that seems to me is a systems thread one has to go
+
+through to get the people to agree on what the events are.
+
+Then the loads analysis is another major
+
+effort that is going on right now to try to understand the dynamics
+
+of the loads that were on that vehicle as a function of its
+
+flight.
+
+DR. WHEELON:
+
+Did you take - not have you analyzed, but do you have in your
+
+possession a good
+
+331
+
+photographic coverage of the area of the SRB
+
+which is presumed from the in-flight photography to have been a
+
+problem?
+
+MR. MOORE:
+
+We have good photography of that SRB, but we do not have photography
+
+competely 360 degrees around the SRB, so there are some limited zones
+
+that we do not have photography of.
+
+DR. RIDE:
+
+But I think there is photography of the area where the plume comes
+
+out.
+
+MR. MOORE:
+
+There is photography but, Sally, there is not photography of exactly
+
+where the origin is at this point in time. At least the guys have
+
+told us that we do not see that area exactly where it comes
+
+out.
+
+DR. WHEELON:
+
+But is there prelaunch of that area?
+
+MR. MOORE:
+
+There are prelaunch photos of the entire stack that our photography
+
+team is going into and putting together right now, including as I
+
+might say prelaunch closeout photographs of all the flight segments
+
+and the various phases. We are trying to pull that whole stream of
+
+photographs together.
+
+DR. RIDE: Do
+
+you do closeout photos of the vehicle on the pad just a day or two
+
+before, or are most of those closeout photos in VAB?
+
+MR. MOORE:
+
+Most of those closeout photos are
+
+332
+
+on the VAB. There are some pictures taken at
+
+prelaunch but not in great detail from the time it goes to the pad
+
+until the time of launch.
+
+DR. WHEELON:
+
+What kind of closeout photography do you have on the day of the
+
+launch?
+
+MR. MOORE:
+
+The photography we have on the day of launch is the still cameras
+
+that were sitting there taking pictures during the actual liftoff.
+
+How many pictures have we seen of that still photography, Arnie, ten
+
+or so?
+
+MR. ALDRICH:
+
+We personally have not looked at but a small percentage of the total
+
+number of films and locations. They are available.
+
+MR. MOORE:
+
+But we have a real time camera that looks at the launch pad that is
+
+transmitted back into our console area that looks at video and so
+
+forth. There are also cameras that are sitting out at the pad.
+
+DR. RIDE: I
+
+was going to ask you about those. There are a million cameras on the
+
+pad. Are they running the day of launch?
+
+[206] MR. MOORE: They are
+
+running at some time before launch, Sally. I don't know exactly that
+
+time. Marv, do you happen to know that time?
+
+MR. JONES:
+
+Well, there are a series of them out there, sir, activated one of two
+
+ways. One
+
+333
+
+sound activated, and the others are light
+
+activated. So essentially, Sally, they would be at ignition.
+
+DR. RIDE:
+
+I'm talking about the ones that are basically - gosh, there must be
+
+almost a hundred percent coverage of the pad. You can't stand any
+
+place there without being in view of a camera. Just on, if you go out
+
+there a month before launch or something, there are cameras running
+
+all the time everywhere, and I was just wondering when those are
+
+turned off.
+
+MR. MOORE: I
+
+don't know the answer to your question, and our photography team down
+
+at the Cape is pulling all of that data together and we have not
+
+looked at that data yet. We haven't had a chance to look at it, and I
+
+don't know the answer to your question. I don't know specifically
+
+when they are turned off. There are a lot of cameras out
+
+there.
+
+CHAIRMAN ROGERS: Would the Commission be able to look at those
+
+pictures whenever we want?
+
+MR. MOORE:
+
+Yes, sir, we would be more than happy to provide this Commission with
+
+any of the photographic data that we are looking at.
+
+CHAIRMAN ROGERS: It probably would be better to do it down
+
+there.
+
+MR. MOORE:
+
+Yes. There's a photography lab that we had set up down there, and we
+
+have got a major
+
+334
+
+team of people that are just doing nothing but
+
+looking at photography and trying to enhance the photography and
+
+looking at it from different aspects.
+
+So, yes, at the appropriate time it would be
+
+quite good.
+
+CHAIRMAN ROGERS: We would not want to do it at a time that would
+
+interfere with whatever they're doing, but from the time standpoint I
+
+think that would be useful, just so we don't interfere with the
+
+analysis.
+
+MR. MOORE:
+
+Yes, sir, and I would say sometime in the next several days or week
+
+or week and a half we would probably begin to have a good
+
+photographic story together on the sequences that we see.
+
+We may not have all of the fine enhancement
+
+done yet on the photography, but I think we will have a good
+
+knowledge base of the data in terms of the complete set of events
+
+sometime within the next several days or week.
+
+CHAIRMAN ROGERS: Is this classified?
+
+MR. JONES:
+
+No, sir.
+
+MR. MOORE:
+
+Only sensitive from the standpoint of the public and exciting the
+
+public again.
+
+CHAIRMAN ROGERS: Why don't we give it back to you? We don't need
+
+it.
+
+MR. ACHESON:
+
+Has there ever been a sniper
+
+335
+
+incident at the Center?
+
+MR. JONES:
+
+No, sir. One of the things that we thought, that Dr. Graham suggested
+
+that we offer to the Commission, is the subject of the generic
+
+terrorism threat at Kennedy Space Center.
+
+We have asked the FBI to share that
+
+information with us, and I think they will have a few minutes on
+
+that.
+
+[207] DR. WALKER: Can I just
+
+ask one question on that? Would you say that your security is
+
+sufficiently tight so that in your mind no one unauthorized could
+
+have gotten to the vehicle at any time when it was undergoing any of
+
+its operations at the Cape? It sounds like that is the case.
+
+MR. JONES:
+
+We believe that we have a very positive control system. I would be
+
+very hesitant to say absolutely no one can get in. I think I would be
+
+foolish to make that commitment to you, but I think we have a pretty
+
+positive control system.
+
+DR. WALKER:
+
+The intent is good.
+
+MR. JONES:
+
+The intent is good. I think we have reasonably good control.
+
+DR. RIDE: As
+
+a result of what you've been doing just the last week or so, have you
+
+come up with any suggested improvements for the security system,
+
+or
+
+336
+
+have you got any recommendations?
+
+MR. JONES:
+
+Oh, I could come up with a million dollars worth of improvements
+
+probably overnight, Sally; infrared detectors, closed circuit TV
+
+cameras, intruder alarm detection systems. But yes, I could improve
+
+on the system.
+
+DR. RIDE: I
+
+guess that is kind of the same as Art's question, which was do you
+
+think it is possible for somebody to have gotten on there and
+
+sabotaged it, not on this particular launch but just generically? Is
+
+that something you're concerned about?
+
+MR. JONES:
+
+One, I think, it would have to be an orchestrated effort by more than
+
+one person because I think we try to - -
+
+CHAIRMAN ROGERS: Could you just say you can assume that what is
+
+happening in the world is that there are all kinds of orchestrated
+
+efforts and they always have more than one person, so that's an
+
+assumption.
+
+MR. JONES:
+
+We try to keep two-man control anytime anyone is out there. There are
+
+obviously times when you can't do that, when you're getting back into
+
+the aft end of the engine department, and so on.
+
+But we do try to make that effort.
+
+CHAIRMAN ROGERS: I think this is really a
+
+337
+
+vitally important issue because of terrorism
+
+in the world. I mean, this is a natural place, particularly with this
+
+accident.
+
+MR. MOORE:
+
+Yes, sir. As visible as the Shuttle program is worldwide, I totally
+
+agree with you.
+
+338
+
+CHAIRMAN ROGERS: It seems to me we should continue to draw on this one
+
+as long as necessary to make sure it is absolutely secure.
+
+DR. RIDE: I
+
+think this is a good area of investigation to be sure what the
+
+possibilities for sabotage are.
+
+MR. JONES:
+
+We have done some fairly lengthy studies and tried to come up with
+
+some scenarios, and then we have characterized those in terms of
+
+attractiveness to an outsider, and then in terms of likelihood, and
+
+then we have those kind of numbers.
+
+CHAIRMAN ROGERS: When you talk about attractiveness, do you have any
+
+scenario to handle a small plane with a suicide pilot?
+
+MR. JONES:
+
+No, sir. Well, yes, we do, as a matter of fact, and I think that I
+
+would have to say that we are - and I would like to treat this
+
+portion of it, sir, if I could, as classified.
+
+[208] It is simply a
+
+vulnerability that we cannot address. It is rather ironic that one
+
+week ago today I was supposed to be in this very building meeting
+
+with the Presidential Protective Detail to discuss their procedures
+
+of how they protect the air
+
+339
+
+space over the White House, and that was an
+
+arranged meeting which, of course, was cancelled, but to address that
+
+very subject.
+
+DR. WALKER:
+
+But this is an area of concern for you?
+
+MR. JONES:
+
+Well, I think it is, and of particular concern, and I happen to have
+
+had a military background as General Kutyna does. The rules of
+
+engagement are horrifying. An airplane comes toward the launchpad and
+
+you get terribly concerned. At what point do you shoot him down? Only
+
+to find that it was a poor young man from Memphis on his way home
+
+from the Bahamas, and was curious. I mean, he shouldn't have been in
+
+that air space.
+
+DR. COVERT:
+
+Or lost, even.
+
+MR. JONES:
+
+But it could occur. And that is kind of a real problem to come to
+
+grips with. The rules of engagement and how do you protect a 40-story
+
+building which is the launchpad with a vehicle on it?
+
+CHAIRMAN ROGERS: All you have to imagine is the type of terrorist who
+
+drove the truck into our embassy, and I guess I accept the fact that
+
+probably there isn't anything you could do that is completely safe.
+
+But I do think the record should reflect that you are giving a lot of
+
+consideration and you are trying
+
+340
+
+to do something, and that there are some steps
+
+that can be taken along that line. I think that would be very
+
+helpful.
+
+MR. MOORE:
+
+Yes, sir. We have not given up looking into the internal prospects as
+
+well. I mean, I think Marv Jones and company have done a good job of
+
+sweeping some of the areas. He told me that they walked over some
+
+areas on the land around the launchpad down there.
+
+That is probably the first people since the
+
+Indians left that area down there, and so they have covered a lot of
+
+acreage around the pad, but I do think that we have to continue to
+
+look internal as well at our own system to see if there are some
+
+suspected areas that we would want to proceed on. So I think this is
+
+by far not closed at this point in time, and we need to continue to
+
+work this area.
+
+CHAIRMAN ROGERS: Thank you very much.
+
+MR. MOORE:
+
+Sir, the next thing is that we asked for a very short presentation by
+
+the FBI on the general threat in the area, just as some background
+
+information for the Commission.
+
+[209] Viewgraphs
+
+introduced by Marv Jones on February 7, 1986 were not published for
+
+security reasons.
+
+Viewgraphs introduced by Marv Jones on
+
+February 7, 1986 were not published for security reasons
+
+[Ref. 2/7-1]
+
+[210] 341
+
+STATEMENT OF
+
+STANLEY KLEIN, FBI
+
+MR. KLEIN:
+
+Thank you. My name is Stanley Klein. And I am an FBI special agent,
+
+and as such, I direct the bureau's counterterrorism efforts in the
+
+United States, both domestic and international. I am assigned to FBI
+
+Headquarters.
+
+I would like to begin by saying that Director
+
+Webster expresses his greetings and offers the full resources of the
+
+FBI to this Commission and to NASA. We are now working with NASA in
+
+Florida and throughout the country in trying to dispel, if that is
+
+what we should do, any hint that a terrorist has committed sabotage
+
+and caused the explosion of the Space Shuttle.
+
+What I would like to do is touch on terrorism
+
+briefly, what we see in this country and what we view as the major
+
+threats, what we have seen so far, and some of the inquiries we have
+
+looked at based upon information supplied to us by private citizens
+
+and the news media, et cetera, and where we stand and where we hope
+
+to go in the future.
+
+We have approximately 18 domestic terrorist
+
+organizations currently under investigation and 40 some odd
+
+international terrorist organizations under investigation operating
+
+within this country with many hundreds and hundreds of supporters and
+
+infrastructures
+
+342
+
+and groups, et cetera, and it is a tangle of
+
+motives and ideals and religious fanaticism, et cetera. I would like
+
+to concentrate on Florida more than anything else to show you what we
+
+see there now. Between 1981 and 1983, there were nine bombings and
+
+seven attempted bombings and one kidnapping carried out by terrorist
+
+groups or alleged terrorist groups in the Florida area. All 17 of
+
+these incidents were in Miami, Florida.
+
+There has been no indication of terrorist
+
+activity up around the Cape, and there don't seem to be any groups
+
+operating in that area. A group called Omega 7, which was an
+
+anti-Castro Cuban group some of you might have heard of, were the
+
+perpetrators of these bombings. The leader, Eduardo Arencino, was
+
+arrested not too long ago, and is currently serving a life plus 55
+
+year sentence, I believe, and with his prosecution and conviction,
+
+there have been no terrorist acts in Florida since that time, in the
+
+past year or two.
+
+The major threats in the United States right
+
+now, we believe, are posed by Libya, by Iran, and by domestic
+
+terrorist groups operating out of Puerto Rico, which is not that far
+
+from Florida. As far as Iran is concerned, we have seen no terrorist
+
+acts committed by that country in this country.
+
+343
+
+Most of their activity centers around
+
+intelligence-gathering and attempts to purchase weapons and spare
+
+parts to ship back to Iran to support their war with Iraq. They have
+
+a large organized infrastructure in the United States based mostly on
+
+college campuses, and they collect their information from meetings
+
+and "askings that they get directly from Iran, and we believe
+
+[211] we
+
+are about as on top of their operations as we can be at the present
+
+time. We don't believe that any Iranian terrorists were involved in
+
+the action on the disaster of the Shuttle.
+
+Libya. Although Mr. Qaddafi makes a lot of
+
+pronouncements and he makes it seem as though he can reach into our
+
+streets, I believe, and our investigations have shown that he has not
+
+as yet reached into our streets. When he has attempted to, we have
+
+been able to stop him. The attempts of intelligence officers that he
+
+sends into this country are almost naive. They seem to be the gang
+
+that couldn't shoot straight. They go through intermediaries to get
+
+things done, and because they do, we are able to insert often
+
+undercover agents and thwart their plans before they occur and arrest
+
+their operatives.
+
+DR. WHEELON:
+
+Stop right there. You would agree they reach into the streets of
+
+Lebanon, wouldn't
+
+344
+
+you?
+
+MR. KLEIN:
+
+Absolutely. Could they reach into the streets here? Of course.
+
+DR. WHEELON:
+
+And haven't they drilled some of their own people here on our own
+
+streets?
+
+MR. KLEIN:
+
+What Qaddafi has done is offered training to individuals in the
+
+states that he believes would form a support base for his view, his
+
+Green Book view of what the Arab world should be in the states and
+
+support his causes, and because of that people have been flown or
+
+have flown themselves to Libya and participated in training in that
+
+country.
+
+Most of that training is what you and I would
+
+refer to as basic training, some basic military skills, political
+
+indoctrination, and through the intelligence community and through
+
+our sources we have not seen Americans being trained there for what
+
+we would define as terrorist activity.
+
+DR. WHEELON:
+
+I appreciate all of that, but isn't it true that they have in fact
+
+killed their own people here in this country?
+
+MR. KLEIN:
+
+They have made attempts to assassinate dissidents in this country.
+
+And the last instance was about a year ago, when they did send an
+
+intelligence officer into the United States, and he was
+
+345
+
+forming up an organization to plan the
+
+assassination of anti-Qaddafi dissidents. We were fortunate enough to
+
+thwart that plan, and he left the country, and we have the people
+
+that are part of his group currently under very close
+
+scrutiny.
+
+DR. WHEELON:
+
+But there have been no killings?
+
+MR. KLEIN:
+
+No, there have been no terrorist acts in this country involving
+
+assassinations, murders, or bombings that were supported by Qaddafi
+
+unless you go back to the assassination that occurred in Colorado by
+
+a surrogate, whose name escapes me at the moment, who did shoot,
+
+attempted assassination, I should say, a Libyan dissident in
+
+Colorado.
+
+This guy was part of the Wilsin-Terpil
+
+network, and of course Wilson is in jail now, so he did make
+
+attempts, but he has not really succeeded.
+
+DR. WHEELON:
+
+I don't think it is relevant. I was just trying to focus in on
+
+that.
+
+MR. KLEIN: I
+
+just wanted to touch on Iran and Libya briefly to say that we have no
+
+information based upon our best intelligence, which includes human
+
+sources and technical sources, that either Iran or Libya, our two
+
+greatest threats in this country, were involved in any actions
+
+against the Shuttle.
+
+That is not to say that information such
+
+as
+
+[212] 346
+
+that might not come up in the future as we
+
+continue probing our sources and things such as that. The only viable
+
+domestic group would be an organization that calls itself the
+
+Macheteros out of San Juan, Puerto Rico. They have been involved in
+
+numerous terrorist acts on the island, one of which is interesting
+
+because it does involve explosions that damaged aircraft on the
+
+island. This occurred on January 12th, 1981, where a series of 18
+
+explosions occurred which totally destroyed a Corsair, two A-7B
+
+subsonic attack planes, damage to one Starfire F-104 aircraft, and
+
+also some equipment that was in the National Guard air corridors
+
+alongside the planes. They went in, cut through a chain link fence,
+
+went in at night, planted their explosives, one in the front of the
+
+plane and one in the back.
+
+Let's see. There were, I think, eleven devices
+
+planted, and it caused $45 million in damages. The Macheteros have
+
+also been active in this country. They were responsible for a
+
+multimillion dollar armored car robbery in Hartford, Connecticut, in
+
+which we have staged a series of raids and arrests in Puerto Rico in
+
+the latter part of last year and arrested eleven individuals, the
+
+leadership of the Macheteros.
+
+And they are currently incarcerated and about
+
+to go on trial, hopefully by the summer or fall in
+
+347
+
+Hartford for that armed car operation. We do
+
+not have any indication that this group, which does have the skills,
+
+and could have the desire to make a statement, was involved in any
+
+action that was taken.
+
+CHAIRMAN ROGERS: Are they supported by any foreign governments?
+
+MR. KLEIN:
+
+Cuba. The Puerto Rican independence terrorist groups that operate in
+
+Puerto Rico we have definite very interesting information that is
+
+going to probably come out during the trial process about the Cuban
+
+involvement in support of Puerto Rican terrorism going on.
+
+DR. WHEELON:
+
+Okay. Now, you fellows rolled up a Puerto Rican gang in Chicago which
+
+was preparing for activity about two years ago.
+
+MR. KLEIN:
+
+That group was the FALN, which is the Puerto Rican liberation
+
+movement in this country. We did conduct a series of arrests. We did
+
+arrest a number of people up there. There also have been a number of
+
+people arrested in New York and in other parts of the country. Most
+
+of the leadership of the FALN is in jail right now. And I think with
+
+the FALN in jail and the Macheteros in jail, we are going in the
+
+right direction, and that is how we look at terrorism, as criminal
+
+acts. I mean, we don't look at it as political acts. And we try
+
+to
+
+348
+
+identify those people who are involved and put
+
+them in jail, and all of a sudden the terrorist statistics go
+
+down.
+
+DR. WALKER:
+
+What about the neo-Nazi group that was just sentenced?
+
+MR. KLEIN:
+
+The Aryan Nation is a rightwing organization. Again, its leadership,
+
+eleven of them, ten or eleven of them were just convicted of
+
+racketeering charges in the state of Washington and are currently
+
+awaiting trial. There is no indication, although they certainly have
+
+the wherewithal as far as weapons, homemade weapons and explosive
+
+expertise to do something like that, there is no indication either
+
+that this group was active or is active or has been active in
+
+Florida.
+
+DR. WALKER:
+
+Going back to Libya, what about Farakhan, who is making some noises
+
+about going to Libya?
+
+MR. KLEIN:
+
+Yes, we are very interested in Mr. Farakhan.
+
+[213] DR. WALKER: Do you think
+
+it is mostly noises?
+
+MR. KLEIN:
+
+Well, he certainly received a lot of money from Mr. Qaddafi, and we
+
+are looking at that very closely to see if that money will be, could
+
+be, might be used to support terrorism in this country. At
+
+349
+
+tints point in time we can't say one way or
+
+another.
+
+DR. WHEELON:
+
+What about the parties responsible for the bomb in the
+
+Capitol?
+
+MR. KLEIN:
+
+We believe there were two cells. I think I will take you back in time
+
+a little bit to the old Weather Underground, going back to the SDS
+
+days on the campuses, and as I say often, I think most of them when
+
+they turned 40 became - their motives changed, yet there was a small,
+
+dedicated group of people that were involved in criminal acts and
+
+supported revolution in this country.
+
+One of those groups was, one of those cells
+
+which moved up and down the east coast from Boston to Washington to
+
+Baltimore consisted of individuals that were involved in the robbery
+
+of the armored car in Nyack, New York, in 1981. Marilyn Jean Buck's
+
+name comes to mind. I don't know if you have heard her name mentioned
+
+before. And in her house during the searches that followed her arrest
+
+we did find detailed plans in a folder calling for action on various
+
+facilities around the country, which included this building, very
+
+detailed sketches of where to place a bomb, and also other targets
+
+such as some facilities at Annapolis, et cetera.
+
+Most of their bombings occurred in the evening
+
+hours. They were preceded by a telephone call. They
+
+350
+
+did not want to cause any grave, I don't
+
+believe, any grave physical damage. Our terrorists as opposed to the
+
+ones you see in Europe seem to want to make a statement, and they
+
+believe, I think, that the taking of human life detracts from their
+
+cause, which is to gather the American people behind them in a
+
+socialist communist revolution at some point in time, and that turns
+
+people off.
+
+So, most of those individuals also currently
+
+have been arrested during the past few years and are currently in
+
+jail, and we don't believe that those two cells function or exist any
+
+more. I would be surprised to see another bombing like that occur in
+
+D.C., but then again there are people out there who could take up the
+
+flag.
+
+CHAIRMAN ROGERS: I think the FBI does a fine job. I am sure you do all
+
+you can do prevent it. This is a little bit beyond our jurisdiction.
+
+Go ahead. We are having a bit of a time problem here.
+
+MR. KLEIN: I
+
+have been working with NASA since the explosion by offering FBI
+
+laboratory services to NASA, and we were in receipt of some hairs and
+
+fibers on February 2nd from NASA that we have examined in the FBI
+
+laboratories, and the exams have been completed, and we do have human
+
+hair, Negro hair, Oriental hair, and
+
+351
+
+hair from two different brown-haired
+
+Caucasians, and what is interesting, according to the laboratory, is
+
+that there were no signs of heat damage to any of the hair, which was
+
+surprising. The hair came from face seals, fragments of helmets, and
+
+helmet liners, and headrests.
+
+There have been a number of threats and
+
+investigations that we have become involved in since the Shuttle went
+
+down. An engineer in a consulting firm for Rockwell Engineering out
+
+in California advised the FBI that he believed the Shuttle was hit by
+
+a laser, that his examination of the frame by frame stills - I don't
+
+know how he recorded it - showed that brown smoke was
+
+[214] emitted as opposed to white smoke, which would mean
+
+that - the white smoke would indicate a fuel problem, and brown smoke
+
+would indicate possibly a laser.
+
+And we have interviewed the chief engineer at
+
+Hughes Aircraft, and he believes the theory is plausible but not
+
+probable. The FBI agent that interviewed this person believes he is
+
+sincere, and not a flake, or not demonstrating any emotional
+
+instability, but it is just a theory which we have passed on to
+
+NASA.
+
+CHAIRMAN ROGERS: Is that being taken seriously at NASA?
+
+MR. MOORE:
+
+All possibilities are being looked
+
+352
+
+at. Yes, sir. No possibilities are being
+
+excluded.
+
+GENERAL KUTYNA: I tell you, if that guy has got a weapon like that, I
+
+would like to put him on my project.
+
+(General laughter.)
+
+MR. KLEIN:
+
+There have also been a number of other instances where people have
+
+come forward and said they believed that this happened or that
+
+happened, and we are following every one of those leads out. At this
+
+point in time we pass it on, because we don't have the scientific
+
+expertise to say whether their theories are correct or not correct.
+
+We just pass it on to NASA and let them be the judge. And so I guess
+
+what I wanted to say is, there is no terrorist threat, no information
+
+that there is, or was or is a group that planned, organized, or
+
+executed any action at Cape Canaveral.
+
+CHAIRMAN ROGERS: And I am sure you are watching very carefully to see
+
+that it doesn't happen in the future.
+
+MR. KLEIN:
+
+We are watching very carefully.
+
+CHAIRMAN ROGERS: Thank you very much.
+
+Any questions?
+
+DR. WALKER:
+
+Should we handle these theories with our own discretion? That is, if
+
+an individual who
+
+353
+
+is someone who we know, and if the person has
+
+a theory, we handle that in a way that we think best, but if there is
+
+someone that you don't know, do you have any advice in that
+
+regard?
+
+MR. KLEIN: I
+
+am sorry?
+
+DR. WALKER:
+
+If someone contacts us personally and has a theory about the
+
+explosion, do you have any advice to offer us as to how we should
+
+handle that?
+
+MR. KLEIN:
+
+Yes. If you could pass it on to either us or NASA, we are conducting
+
+these kinds of interviews jointly, so we will take it for possible
+
+sabotage violation, and somebody from NASA.
+
+MR. MOORE:
+
+It is kind of my repository right now for all of these kinds of
+
+things, and we are going to run every one of them down. It is our
+
+intention right now.
+
+MR. JONES:
+
+If you get some information of that type, either refer it to Jess's
+
+office or Stan's, and then while you are down at the Cape area,
+
+again, my office, and we will tie this thing together, because I see
+
+the highest degree of cooperation between all of the government
+
+agencies on this particular operation. No one is worried about turf.
+
+Everybody is working together. The Bureau and NASA are working
+
+together. And we will handle any of those kinds of things that
+
+you
+
+354
+
+receive.
+
+[215] CHAIRMAN ROGERS: Okay.
+
+Thank you very much.
+
+MR. MOORE:
+
+Let me just add one little more comment to what Mr. Walker said.
+
+Don't send it to me by mail. Hand it to me personally or to Marv
+
+personally, because I don't think we want to distribute that
+
+information in the mail to my office.
+
+MR. THOMPSON: Mr. Chairman, if you want to give it to me, I can
+
+take care of getting it to Jess.
+
+CHAIRMAN ROGERS: Okay. That's fine.
+
+MR. MOORE:
+
+We have completed all of our discussions we had planned this morning
+
+with you, Mr. Chairman.
+
+CHAIRMAN ROGERS: Why don't you come up here, Jess? Can you tell us now
+
+anything beyond what we have read in the newspapers?
+
+MR. MOORE: I
+
+can tell you that about 670 or 80 milliseconds after launch we saw a
+
+short puff of black smoke come out of the righthand solid. We cannot
+
+see the exact origin of it. I have had reports that it is all the way
+
+down to where the attached unit from the external tank attaches the
+
+solid all the way to some two feet or so above that, which could or
+
+could not include the joint, which some people are focusing in on
+
+right now.
+
+355
+
+I can also tell you that we did see some -
+
+-
+
+DR. WHEELON:
+
+Wait a minute. Excuse me. Within a second of launch?
+
+MR. MOORE:
+
+It was less than a second. What was it, Arnie, 680
+
+milliseconds?
+
+MR. ALDRICH:
+
+Six-tenths of a second from ignition of the solid, and that is the
+
+precise time that the solid comes to full internal pressure.
+
+DR. WALKER:
+
+That was before liftoff?
+
+MR. MOORE:
+
+No. Let me go through the sequence again. The sequence is, the main
+
+engines starts at about 6.3 seconds before actual liftoff from the
+
+launchpad. You bring the engines up to near full throttle. Then you
+
+send a mission signal to the solids from the GPC, the General Purpose
+
+Computer on board. The solids ignite, and that is what we call
+
+liftoff. At about 670 or 80 --
+
+DR. WALKER:
+
+It doesn't actually lift off then?
+
+MR. MOORE:
+
+Well, it takes some pressure to lift it off of the launch support
+
+platform.
+
+DR. WALKER:
+
+How long does it take the solids to build up?
+
+MR. MOORE:
+
+We don't know precisely. That is what we are looking at on
+
+356
+
+these films, to try to get the precise time
+
+that the system unlatched itself from the pad. There will be some
+
+variation in there. It is not exactly precise.
+
+This happened about 680 or so milliseconds. It
+
+finished at about two seconds or so. And it settled down. We don't
+
+see it any more. And the orientation of it on the one set of films
+
+that we have looked at is kind of behind the solid. It is kind of
+
+obscure. We see the smoke come out, but we do not see, we cannot see
+
+on at least the initial films we have looked at exactly the origin of
+
+it.
+
+357
+
+DR. FEYNMAN:
+
+Could you remind me whether the oxygen line that comes down along the
+
+ET tank and those trays of electrical cables, is it in that area, or
+
+is it somewhere else?
+
+MR. MOORE:
+
+They are on the right side of the Shuttle. The whole cable tray that
+
+you saw yesterday on the bottom and so forth are on the right side of
+
+the Shuttle.
+
+DR. FEYNMAN:
+
+In a place that could possibly be related?
+
+[216] MR. MOORE: Possibly. The
+
+other question that was asked, I guess, Bud asked me earlier about
+
+the range destruct and so forth, the linear shape charge that goes up
+
+and down the solid, all the way up to approximately the area below
+
+the thrustum where the parachutes are stored up, down the segments,
+
+up until some 18 or 24 inches above the attach going onto the ET, the
+
+linear charge that goes up the solids and each side of the
+
+solid.
+
+DR. FEYNMAN:
+
+How close is that to the electrical tray?
+
+MR. MOORE:
+
+That in terms of distance, I would say a few feet would be my guess
+
+to the electrical tray that carries that cable.
+
+Arnie, do you have a better idea?
+
+MR. ALDRICH:
+
+You are talking about the shaped charge
+
+358
+
+on the solid?
+
+MR. MOORE:
+
+Yes, where it is relative to the tray on the external tank.
+
+MR. ALDRICH:
+
+I don't think we could comment in terms of the clocking radially
+
+around the solid with respect to that. I am not sure that I
+
+know.
+
+MR. MOORE:
+
+It is feet. I mean, it is not very close. I mean, there's the big
+
+solids themselves and then there is the distance.
+
+DR. FEYNMAN:
+
+I am confused. I thought there was also a destruct tray along the
+
+ET.
+
+MR. MOORE:
+
+There is.
+
+DR. FEYNMAN:
+
+That one, is that close to the electrical line?
+
+MR. MOORE:
+
+That is close to the cable tray. There is a cable tray that goes up
+
+through the thing, and there is an destruct package down on the top
+
+of the tank and one down on the bottom.
+
+MR. ALDRICH:
+
+There is a destruct tank in the middle under the orbiter. However,
+
+you are asking for information that we know. We have found pieces of
+
+both of those cord, and neither has been fired on the external
+
+tank.
+
+DR. FEYNMAN:
+
+You have found that?
+
+MR. MOORE:
+
+Yes, we found that floating.
+
+359
+
+CHAIRMAN ROGERS: Why don't we let him go ahead and finish, and then we
+
+will ask questions.
+
+MR. MOORE:
+
+Then that finished at about two seconds, and we did not observe or we
+
+have not observed in any of the photography we have looked at up
+
+until that period of time, and then there was an unusual event, a
+
+forced event that occurred around, what, 40 seconds or so is what the
+
+time line chart indicated. And you have a better analysis of that
+
+than I have. Why don't you come up here and discuss that?
+
+MR. ALDRICH:
+
+This would be a correlation.
+
+MR. MOORE:
+
+Is that the time line? We haven't seen that?
+
+DR. RIDE:
+
+Yes.
+
+MR. ALDRICH:
+
+Without trying to read this, the telemetry events do show indications
+
+of happenings as the flame occurs on the solid rocket boosters in
+
+flight. And Jess, I can't recall the discussion we had at Marshall
+
+about the possibility of some dynamic change at 40 seconds. There was
+
+such a discussion.
+
+MR. MOORE:
+
+The gimbal angles on the solids moved at about that period of time,
+
+as I recall. And they moved about two degrees, and maybe Sally has
+
+got it listed in there.
+
+DR. RIDE: I
+
+think it is in there. I think
+
+[217] 360
+
+there may be something at around 40
+
+seconds.
+
+CHAIRMAN ROGERS: Sally, why don't you come up here, too?
+
+DR. COVERT:
+
+Sally, what was the altitude, then, 35,000?
+
+DR. RIDE:
+
+Probably. I am not sure.
+
+MR. MOORE:
+
+The events that we are looking at could be associated with some
+
+winds. It could be associated with some loadings and so forth. We
+
+send up weather balloons at various times before launch, and the last
+
+balloon we did was about two and a half hours.
+
+That balloon data is then sent down to Houston
+
+for computing the wing loadings and system loadings on the orbiter at
+
+that point in time, and early on, I guess, about 20 hours or 15 hours
+
+before launch we had seen some wind changes, but they were within the
+
+spec of the envelope and so forth.
+
+DR. WHEELON:
+
+At 40 seconds you are at Mach .85 and 16,000 feet going 950 feet per
+
+second at 65 percent throttle thrust with a Q of 605.
+
+MR. MOORE:
+
+Go ahead, Arnie.
+
+MR. ALDRICH:
+
+Looking at this closely, the first thing that I recall started about
+
+60 seconds, and that is when you first began to see the flame on the
+
+exterior photos as well, and at that time the thrust
+
+361
+
+within the solid rocket boosters is building
+
+gradually, normally, and they see the lefthand booster, which is the
+
+one we suspect performed normally, build along the normal thrust
+
+profile, which is a slight increase.
+
+At that time they do not see the righthand
+
+rocket. It attempts to stay down, and is affected in some way and
+
+does not build.
+
+VICE CHAIRMAN ARMSTRONG: And what is the sensor, Arnie?
+
+MR. ALDRICH:
+
+I believe the thrust level from the solids is a derived calculation
+
+based upon the performance of the stack. Coupled with that, we do
+
+have thrust chamber pressure from the solids, and the chamber
+
+pressure on the righthand solid does not build, and it does on the
+
+right. So both the calculated thrust level and the chamber pressure
+
+correlates as not increasing on the righthand side as this bright
+
+spot appears on the left, it does appear.
+
+As I say, we haven't been down to Florida in
+
+two days, and I haven't seen what Sally has, but further up the
+
+cycle, close to the event, as you approach the 70-second time frame,
+
+you do see a kick of order of magnitude of two degrees in the gimbals
+
+on both solids, both pitch and yaw, or what do you call it, rock and
+
+tilt on both solids, and you see a similar minor
+
+362
+
+adjustment on the main engines as they account
+
+for some dynamics, and that is what Jess was describing.
+
+My recollection is, that is higher up, closer
+
+to the event.
+
+MR. MOORE:
+
+You could be right, because I haven't physically sat down and seen
+
+that data in several days, so the timing that you probably have,
+
+Sally, is probably the most accurate timing that we have at this
+
+point in time.
+
+MR. ALDRICH:
+
+And then I recall at about the time that the visual analysis predicts
+
+the hydrogen tank first beginning to rupture, where you see hydrogen
+
+fuel come out of the hydrogen tank, and on the order of a second
+
+later you can see the rupture occur and fuel come out of the oxygen
+
+tank. You can also see the main engines which are being fed by these
+
+liquids. The main [218] engine chamber pressure decreases slightly because of
+
+the lack of feed from the propellant system.
+
+I think those are the only indications that I
+
+can remember.
+
+CHAIRMAN ROGERS: Would you mind going over what you just said about
+
+the six-tenths of a second, and then the remainder of it, because I
+
+am not quite clear.
+
+MR. ALDRICH:
+
+Yes, sir. At ignition T zero on the Shuttle launch is defined as the
+
+time we light the
+
+363
+
+solids as the main engines are lighted at
+
+minus 6 seconds, so T zero is essentially the solid rocket ignition.
+
+The time of release is slightly different than that, almost precisely
+
+the same time. At six-tenths of a second the thrust within the solid
+
+rockets builds to its maximum pressure, its normal flight pressure,
+
+and in the photos that we have -
+
+CHAIRMAN ROGERS: Now, is that when the rocket takes off and leaves the
+
+ground at that point, six-tenths of a second?
+
+DR. RIDE:
+
+That is sort of hard to define, because as soon as it ignites, it
+
+starts trying to get off, and the main engines are already running,
+
+and so they are trying to get it off, so the whole process, it is
+
+hard to say when it actually is no longer in contact.
+
+CHAIRMAN ROGERS: But obviously at about that time.
+
+MR. MOORE:
+
+Yes, at about that time. I think that is correct.
+
+DR. WALKER:
+
+It is not restrained, it is just sitting there?
+
+MR. ALDRICH:
+
+No, it has bolts that hold it up.
+
+CHAIRMAN ROGERS: It rips them out?
+
+364
+
+MR. MOORE:
+
+They are blown. You want to hold down the launch to make sure that
+
+you do a validation check on the main engines. In other words, we
+
+want to bring the main engines up to make sure all three are running
+
+and you have full redundancy in each engine, and that is a launch
+
+commit criteria.
+
+DR. WALKER:
+
+Once you start the solids, then you release any constraints?
+
+MR. MOORE:
+
+That is correct.
+
+DR. WHEELON:
+
+And isn't it true you probably start to lift off before you have the
+
+maximum pressure?
+
+MR. ALDRICH:
+
+I believe so.
+
+DR. WHEELON:
+
+So probably at about .4 you start to move.
+
+MR. MOORE: I
+
+think we will be able to tell that when we go back and look at some
+
+of the high-speed photography.
+
+MR. ALDRICH:
+
+That is my point. I didn't want to imply that that fact can in fact
+
+be determined. I just don't know precisely.
+
+CHAIRMAN ROGERS: But at about that time?
+
+MR. ALDRICH:
+
+At about that time, that is what happened, and we can tell you
+
+precisely.
+
+CHAIRMAN ROGERS: But then you see something?
+
+MR. ALDRICH:
+
+Let me say one more thing about
+
+365
+
+blowing the bolts, because that is an
+
+important factor. We send the signal to ignite the rockets. At the
+
+time it is called T zero, or launch. We also send the signal to fire
+
+the bolts, either at precisely that time or within milliseconds of
+
+it. But before that, the rockets are bolted solidly, [219] and they see a
+
+loading, because the Space Shuttle main engines are cantilevered off
+
+the solid rockets.
+
+We light them at minus 6 seconds. The whole
+
+vehicle stack actually swings forward and back, and the timing of
+
+when you will commit to light - to release and light the solids is
+
+timed such that you load that stack this way and back from the main
+
+engine ignition, and about the time it is vertical again, that is the
+
+6-second period, and the ignition of the solid, so these boosters
+
+give a strong bending load during that 6 seconds up to the time of
+
+ignition.
+
+Now, your question, what did we see? At
+
+six-tenths of a second after ignition the solid rocket pressure is
+
+essentially up to flight level. On the righthand solid in the same
+
+area that 60 seconds later you see the flame you see a puff of black
+
+smoke, a big puff.
+
+DR. WHEELON:
+
+How big?
+
+MR. MOORE: I
+
+would say it was a couple of
+
+366
+
+feet in diameter.
+
+MR. ALDRICH:
+
+I would say it was about the size of a main engine bell.
+
+MR. RUMMEL:
+
+Would a burning seal produce that black smoke?
+
+MR. ALDRICH:
+
+That is under discussion and investigation. The comment I have heard,
+
+and I am not an expert, and we don't know the answer yet, is that
+
+more likely the grease that is used around the seals if it were
+
+burned could cause a smoke of that characteristic. It is a very dark
+
+smoke. Most of the flame and smoke you see is light-colored, and this
+
+is a very black puff.
+
+DR. FEYNMAN:
+
+Possibly from graphite in the liners or something
+
+CHAIRMAN ROGERS: Why don't we go ahead and let him tell the rest of
+
+it? Then we can come back with questions.
+
+DR. WHEELON:
+
+Have you ever seen such a puff before?
+
+MR. ALDRICH:
+
+We are researching all flight films, as we do on every flight. No one
+
+that has done that viewing the films in the past recalls seeing it
+
+before. We are going back to be sure that we haven't missed
+
+anything.
+
+367
+
+DR. WHEELON:
+
+So it could have been there?
+
+MR. ALDRICH:
+
+It could have been there before. No one recalls seeing it.
+
+CHAIRMAN ROGERS: Anyway, now you have got the puff of smoke, roughly
+
+two feet.
+
+DR. WHEELON:
+
+Two to ten.
+
+MR. ALDRICH:
+
+I would say two by ten.
+
+CHAIRMAN ROGERS: Then what happens?
+
+MR. ALDRICH:
+
+That seems to persist for 2.9 seconds and stop, because as the stack
+
+rises you can see the booster rising through the puff, and it
+
+disappears, and there apparently is no evidence of further black
+
+smoke or any other condition from that area until the time 60 seconds
+
+later that you see this little finger of flame approximately, and by
+
+approximately it could be a number of feet apart along the solid
+
+either radially or upwards or downwards. We haven't correlated the
+
+blownup photos well enough to say how close the two things are
+
+together or whether they coincide in their location. They are from
+
+that place on the solid rocket booster in a general sense,
+
+however.
+
+CHAIRMAN ROGERS: If you get to that point where those things are
+
+pretty accurately determined visually, will you then be able to
+
+isolate the area or could that condition be related to a lot of other
+
+[220]
+
+things? In other words, does that help you isolate the cause?
+
+MR. MOORE: I
+
+think it helps us isolate the cause, but contributing factors, it
+
+could be a while to understand what the contributing factors were.
+
+The other thing, let me point out, as the cases are put together, I
+
+don't know if they were shown yesterday, I don't recall, there are
+
+metal pins about that big in diameter and about that long that are
+
+inserted around the case. There is a cork lining put around those
+
+pins. There is a band and a cork lining around it. And then there is
+
+grease put along the outside of that entire segment out there, and so
+
+I have heard some comments that the smoke goes up, and others have
+
+said the smoke goes out, and so forth, so we don't have that exact
+
+origin, but we have really got an area to go and concentrate
+
+on.
+
+MR. ALDRICH:
+
+I would also like to recall Don's presentation this morning. We of
+
+course do discuss scenarios as we go along our path, and there is
+
+every possibility that this black smoke is from something completely
+
+different from the thing that caused the flame or the thing that
+
+caused the accident.
+
+DR. FEYNMAN:
+
+This is what we would have called an anomaly? Is that right?
+
+369
+
+MR. MOORE:
+
+There is no question, and we have got the people putting all these
+
+anomaly trees together. The way you eliminate the anomalies is, you
+
+validate them, and in most cases you need to go through testing or to
+
+have previous test data to cross off this as an anomaly, and that is
+
+what we are building now, is one giant system anomaly tree, to go
+
+through and try to cross off all the things on that tree that we can
+
+validate as we test or through other procedures.
+
+MR. ACHESON:
+
+How many seconds apart did you say the black smoke and the first
+
+visible plume of flame were?
+
+MR. ALDRICH:
+
+Sixty. This is fairly close to the ignition and liftoff. Now, when we
+
+do the refinement of the photography, it may be that a much smaller
+
+flame is visible a good bit earlier than that, but what we have been
+
+able to see to date, the flame starts about 60 seconds.
+
+GENERAL KUTYNA: Arnie, I didn't press Judd yesterday, but he talked
+
+about erosion, post-flight inspection to find out about erosion of
+
+these joints.
+
+MR. ALDRICH:
+
+It is an anomaly unless we find a film where we have seen one just
+
+like it.
+
+VICE CHAIRMAN ARMSTRONG: These incidents all fit very well within Don's
+
+anomaly tree.
+
+370
+
+How much of a problem has that been? Have you
+
+got it solved yet, do you think, or do you still think it is sort of
+
+an open item?
+
+MR. ALDRICH:
+
+It has been in discussion in the program at least during the last
+
+year. There are two O-rings around the seal, and on about five,
+
+perhaps half a dozen STS flights, on each flight there are six seal
+
+areas, three segments, three breaks in each of two solids. There are
+
+six seam sets that see the flight experience each time we fly, and on
+
+five flights one or at least on one flight two of those seams saw
+
+some amount of erosion on the inner O-ring.
+
+That is believed to have occurred at ignition.
+
+When you first pressurize, you get some blowby of the first O-ring,
+
+but in every case they have seen it stop by the second O-ring.
+
+However, that blow-by has caused what they consider to be within an
+
+allowable tolerance the amount of degradation called erosion of that
+
+O-ring, and then sooting from that degradation occurred between the
+
+two O-ring seals.
+
+DR. WALKER:
+
+But not beyond the second O-ring?
+
+MR. ALDRICH:
+
+Not beyond the second one.
+
+[221] MR. SUTTER: Are these
+
+O-rings replaced?
+
+MR. ALDRICH:
+
+They are brand new every
+
+371
+
+flight. There is an interesting factor related
+
+here that you should understand. Of all of those instances that
+
+occurred, the worst one that we have seen from torndown rockets is
+
+the teardown after the launch we did a year ago, also in cold
+
+weather. There was more erosion and more blown-by material between
+
+the O-rings on that one than on any of the other four or five.
+
+DR. WALKER:
+
+Did that one burn two rings?
+
+MR. MOORE:
+
+Yes, that was one of the flights - that was the flight where the
+
+temperatures were low.
+
+MR. ALDRICH:
+
+Everything that I know about the certification of this seal, and this
+
+is being worked in much more depth at the Marshall Center than
+
+anything that has been reported to our board, is that the
+
+certification tests run on that joint show that the seal would be
+
+somewhat more stiff, but completely adequate for sealing at all
+
+temperatures in the ranges. There was never any intention that the
+
+system couldn't be launched in freezing conditions, particularly at
+
+32 degrees. And it is my belief that we expect this Viton O-ring to
+
+perform essentially at much lower than that.
+
+MR. SUTTER:
+
+They said when these pieces are brought in they are somewhat warped,
+
+but they may not be as good as a new piece.
+
+MR. ALDRICH:
+
+What they said yesterday was,
+
+372
+
+they ship these segments on rail cars after
+
+they pour them. They pour them vertically, and they are tested for
+
+roundness, and then they ship them horizontally all the way from Utah
+
+to Florida. They store them there, and sometimes when they at) mate
+
+them, they found that they are not completely circular any more, and
+
+they have a variety of hang points so that if it is not circular you
+
+can hang it up some other way for a little while and it will reform
+
+into a full circle, so that they do this check for roundness before
+
+they do the mate.
+
+MR. SUTTER:
+
+Then maybe that builds some stresses, so again when the load changes
+
+it pops back to where it wanted to go.
+
+MR. ALDRICH:
+
+Perhaps. We will find as we investigate this that the contractor and
+
+the Marshall Center have been very thorough in analyzing the
+
+characteristics like that in their buildup of this design and the way
+
+it is handled and the procedures. I agree with you. It seems like
+
+there is some flaw here we should be looking for, but I think many of
+
+the obvious ones will be shown to be completely researched.
+
+CHAIRMAN ROGERS: One of the things that - when we ask questions, when
+
+we continue to ask questions, we are not really trying to point a
+
+finger. Really, this is an area of what can be done to make it
+
+373
+
+safer. I mean, I don't think anybody, if there
+
+were any errors in judgment, God knows, nobody is going to expect
+
+everything to be perfect. I think that is one of the reasons that you
+
+will see that there is bound to be a lot of discussion on this point,
+
+and it may well be that we will decide to recommend that you not
+
+retrieve them.
+
+I mean, I know - some people have told me that
+
+I thought knew what they were talking about that it might be just as
+
+cheap now to buy new ones when you consider all of the problems of
+
+recovery and rehabilitation and all of that. Anyway, that is
+
+certainly one problem, and there will be continued interest by the
+
+public.
+
+[222] The other thing I
+
+wanted to mention to you, I thought it was a little unfortunate in
+
+the paper this morning that they said that, and I don't think you
+
+really said that, that you had excluded the possibility that weather
+
+had any effect. I mean, I think weather is also going to be
+
+considered very actively by a whole lot of people, and if at the end
+
+of the road you decide or we decide to exclude it, fine, but if it
+
+appears you have excluded that to begin with, particularly because
+
+apparently Rockwell did call and gave you a warning which you
+
+considered and decided that it was okay to go ahead, suppose that
+
+judgment was wrong. Nobody is going
+
+374
+
+to blame anybody. I mean, somebody has to make
+
+those decisions, and you were all there and made the decision.
+
+MR. MOORE:
+
+We made the decision on the basis of the data that was available. Let
+
+me say one other thing about weather which didn't come out. Weather
+
+is by no means being excluded. My opinion is that that might be a
+
+very major factor. During the month of January, I believe, before
+
+this launch there was also something like seven inches of rain down
+
+at Kennedy. And so that is another element that really has to be
+
+looked at, that the associated moisture may have had something to do
+
+with it.
+
+CHAIRMAN ROGERS: And again, the testimony yesterday was that one pad
+
+had a rain cover and the other didn't. I mean, those things are of
+
+interest.
+
+MR. MOORE:
+
+Absolutely, and the differences between Pad A and Pad B, those are
+
+being looked at as well. They were looked at before this particular
+
+launch. But whether we have put everything in place, we have got to
+
+go back and scour that from top to bottom to see, although we did use
+
+the same mobile launch platform, I guess, as the previous launches
+
+have gone off, but there could be some kind of different loading
+
+effects at that particular pad.
+
+375
+
+MR. WALKER:
+
+Is it possible to get a detailed drawing of those seams showing where
+
+the O-rings are?
+
+MR. MOORE:
+
+Yes, sir.
+
+MR. WALKER:
+
+If we could just have a sketch.
+
+MR. MOORE:
+
+Yes, sir.
+
+At some point in time, if that continues to be
+
+a very high probability area, as it is right now, we think it would
+
+be appropriate to bring our experts from the field to talk about this
+
+whole thing and give you a very detailed presentation on it. I think
+
+that is the best thing to do for the Commission, and we would
+
+certainly offer that, to get some more information about the seal
+
+area.
+
+The other thing that we are looking at is the
+
+checking of those seals at the segment of the stack. There is a
+
+pressure port in the seal on the side of the case, that a person goes
+
+in and does a pressure check. And that pressure check is done to
+
+ensure the integrity of the O-rings, and the pressure check is up to
+
+200 psi, and then it is backed down from 200 psi and brought back up
+
+and held at 50 psi.
+
+VICE CHAIRMAN ARMSTRONG: Is that a plug on the nozzle?
+
+MR. MOORE:
+
+It's a plug on the side.
+
+MR. ALDRICH:
+
+You blow one O-ring up and you
+
+376
+
+check it?
+
+MR. MOORE:
+
+You check the integrity of the O-rings prior to launch, and that is
+
+done several days or a week or so before.
+
+[223] VICE CHAIRMAN ARMSTRONG:
+
+But the pressure would be outside-in in the case of the inside
+
+O-ring, then, right?
+
+MR. ALDRICH:
+
+That's right. And that is presumably what sets up the position for
+
+initial blow-by of the first O-ring. You do the pressure checks and
+
+it moves the upstream, the inboard O-ring, upward. And then when you
+
+ignite the engine many days later, the first pressure surge hits the
+
+O-ring out of the sealed-down position.
+
+And that is what has been alleged to be the
+
+most probably cause of the blow-by, in addition to the dynamics of
+
+the joint.
+
+MR. MOORE:
+
+It should seat the other one.
+
+VICE CHAIRMAN ARMSTRONG: It should seat the other one, but it could act like a
+
+flapper valve, where you would be pressurizing.
+
+MR. MOORE:
+
+That's right.
+
+MR. RUMMEL:
+
+In the main joint, I think near the attached fitting, in addition to
+
+an O-ring you have a seal that was somehow inserted, I think in the
+
+seam.
+
+377
+
+Is that inserted after assembly?
+
+MR. MOORE:
+
+There is a putty that is laid up on the segments there. I think it's
+
+a zinc chromate putty that is laid up on the segments as they fit
+
+together prior to the assembly, and then the segment is put down with
+
+a male section of the segment down into the female section of the
+
+segment.
+
+And then that fits around, the case segment
+
+fits around, and you've got putty around this area, and then there
+
+are holes, about 175 or 180 holes, about an inch in diameter, that -
+
+circumferentially around this joint. And each of those holes is then
+
+plugged with this piece of steel, round steel about an inch in
+
+diameter and about two inches long. It is plugged in each of these
+
+holes and there is a little clip put over each one of those pins from
+
+the outside to hold it, a retaining clip.
+
+And they are all completed and then there is a
+
+band that is put on the outside of that, and that band is tightened
+
+around the segment, and then there is a cork layer put over the
+
+outside of that, and then you finally put some coating on the outside
+
+of it, some of the white coating. I forget the kind of
+
+material.
+
+DR. FEYNMAN:
+
+I think it's an epoxy.
+
+MR. MOORE:
+
+That's probably what it is. And
+
+378
+
+then there's a layer of grease put around the
+
+outside segments, each of these segments, to form a water repellent
+
+seal. And that is hand laid up, to keep any moisture from getting in
+
+that seal.
+
+So there is - the O-rings are laid in there
+
+and this thing is put together. So when it comes together, those two
+
+O-rings kind of are laying around this way.
+
+MR. RUMMEL:
+
+How is the putty inspected afterwards for voids?
+
+MR. MOORE:
+
+There are closeout photographs made and an inspector goes off and
+
+looks at those things.
+
+MR. RUMMEL:
+
+This is purely visually or X-ray?
+
+MR. MOORE:
+
+Most of it is visually looking at how the putty is laid up. And we do
+
+have closeout photos that we saw before we left the Cape of some of
+
+the segments.
+
+Now, we don't know whether we've got complete
+
+closeout photos. We're supposed to have complete closeout photos of
+
+all the segments. But Arnie and I only saw a few of the photographs
+
+before we left Kennedy the other day, of some of the segments.
+
+MR. RUMMEL:
+
+Has there been any evidence that
+
+[224] 379
+
+that particular sealant, from past launches,
+
+was a problem?
+
+MR. MOORE:
+
+We haven't observed much as far as the putty was concerned. There was
+
+a putty that was used, I think a different kind of putty that was
+
+used for the first seven or eight launches, I think, and the
+
+manufacturer of that putty went out of business. And I think the
+
+supplier put another putty in, the same kind, supposedly the same
+
+kind of putty, the zinc chromate putty.
+
+But the characteristics, what is supposed to
+
+be the same, we don't really have any evidence of anything from a
+
+putty standpoint.
+
+MR. RUMMEL:
+
+Excuse me. If I recall correctly, yesterday it was said that this was
+
+not the first launch with the new putty.
+
+MR. MOORE:
+
+No, it has been since STS-10, which was in '83, I think. And I'm
+
+having a hard time remembering. It was several years ago and there
+
+have been a lot of flights with this particular putty in it, this
+
+kind of putty.
+
+DR. FEYNMAN:
+
+Would it be fair to say that when you were discussing it, the blowby
+
+by the O-ring, you said we don't expect it on the other O-ring. On
+
+the other hand, you didn't expect it on the first O-ring, that
+
+380
+
+if the second O-ring gives just a little bit
+
+when the first one is giving, that that is a very much more serious
+
+circumstance, because now the flow has begun. That is, if the second
+
+O-ring holds, if there is a little bit of blowby, the pressure builds
+
+up and the flow stops, and then it settles back and seals. But if the
+
+second one opens just a little bit, there is a flow of very hot
+
+burning fuel product.
+
+MR. MOORE:
+
+That's very true.
+
+DR. FEYNMAN:
+
+And that can eat away the O-rings and so forth, and so the second one
+
+is very much more critical if it doesn't hold when the first one
+
+isn't holding; is that true?
+
+MR. MOORE: I
+
+think that is a true statement. There has been no evidence to my
+
+knowledge of erosion of the secondary. There have been some
+
+burnishing, some discoloration, and some soot that was deposited
+
+between the first one and the second one, was what I think our flight
+
+experience had said.
+
+And the testing of these O-rings and so forth,
+
+there was a lot of lab tests that were done down at Marshall in the
+
+laboratories on these O-rings, and I think some out at Thiokol of the
+
+O-rings, and their analysis indicated that as long as you don't, as
+
+you say, have a complete gas path through this whole cycle
+
+381
+
+of O-rings, that you are okay.
+
+I think these O-rings are Viton rubber and I
+
+think they are probably the same kind of O-ring that is used in the
+
+Titan segment, where you guys have only one O-ring, I think, in
+
+Titan, Don, as I recall.
+
+GENERAL KUTYNA: Let me add to your comment, however. That is how we
+
+lost the inertial upper stage, was there was leakage and once it got
+
+a path, then it burns like an acetylene torch, once it gets that
+
+continuous path. If it leaks a little bit, you just get soot. As soon
+
+as you get that flow, it just goes right through.
+
+DR. FEYNMAN:
+
+I have a picture of that seal in cross-section here, if anybody wants
+
+to see it.
+
+[225] VICE CHAIRMAN ARMSTRONG:
+
+Is it determined yet that the two degree nozzle switch would be
+
+consistent with - would the direction of the two degree nozzle change
+
+be consistent with the moment of correction that would be expected if
+
+the kind of thing that Professor Feynman is talking about actually
+
+made a nozzle - -
+
+MR. ALDRICH:
+
+That is being calculated and it is conceivably reasonable, based upon
+
+the first look.
+
+DR. RIDE: Do
+
+you have data from the RGA's, the gyros, that would show you
+
+this?
+
+MR. MOORE:
+
+Yes, what the RGA's were doing and
+
+382
+
+so forth.
+
+VICE CHAIRMAN ARMSTRONG: In addition to that question, have you ever seen
+
+nozzle excursions of this magnitude as a result of a breach?
+
+MR. MOORE:
+
+My understanding, based upon the question - Arnie, you probably have
+
+more detail. My understanding is the upper regime - -
+
+MR. ALDRICH:
+
+An excursion like this we would consider highly unusual. We don't
+
+predict, from what we considered the winds to be that day and the
+
+wind speeds, that there was such a wind event. If the flight had been
+
+completely normal and all you had seen was these booster nozzles
+
+kick, it would probably not have raised many considerations or
+
+concerns that something peculiar happened.
+
+MR. MOORE:
+
+They have what, a three degree limit of the motion of the
+
+nozzles?
+
+DR. WALKER:
+
+I thought I saw eight degrees.
+
+MR. MOORE: I
+
+didn't realize it was that much, but we have seen up to a couple of
+
+degrees. The question we are addressing is the rate. You've got to
+
+look at the rate of how fast this thing is responding, and so forth,
+
+and I tried to get all of that correlated and we've just not looked
+
+at that.
+
+But the RGA's, as Sally mentioned, and
+
+any
+
+383
+
+other kind of acceleration - one of the people
+
+reported to us last week when we were down in Florida - I guess it
+
+was the week before last - that there was some noticing of some kind
+
+of fishtailing of the system going up. We saw some cargo bay, maybe
+
+the cargo bay area, accelerations that were anomalous, and we are
+
+running that down.
+
+But I don't have any more data on that.
+
+DR. RIDE: Do
+
+you have any data from any accelerometers? Is there anything like
+
+that in the payload area?
+
+MR. ALDRICH:
+
+I think we've got some data from TDRS.
+
+MR. MOORE:
+
+We have that data impounded, and we're going to try to look at that
+
+acceleration data to correlate the events. That is the hardest job,
+
+is to try to get the time line in sequence that everybody's data will
+
+sign up to, because you could be off a few milliseconds and miss
+
+events, just like you pointed out very clearly. And that is what
+
+we're so concerned about.
+
+GENERAL KUTYNA: Was the IUS guidance on at this time?
+
+MR. MOORE: I
+
+think IUS guidance was on, I believe, although I'm not sure. We have
+
+a lot of IUS
+
+384
+
+parameters we monitor.
+
+GENERAL KUTYNA: We initialize on the ground, but I don't know whether
+
+the record came back or not.
+
+[226] DR. RIDE: It should. It
+
+comes down on the down link.
+
+CHAIRMAN ROGERS: I feel awfully sorry for this gentleman who's trying
+
+to record what we're saying.
+
+(Laughter.)
+
+MR. MOORE:
+
+Don, to answer your question, we are looking at all that data. It was
+
+impounded out at Sunnyvale. All of that cargo information is very
+
+important to us.
+
+MR. ACHESON:
+
+Could I ask a question? Have there been any interesting discoveries
+
+and material collected from the ocean that we have not seen in the
+
+press yet?
+
+MR. MOORE: I
+
+would say there are some observations that have been made on some
+
+preliminary pieces. We have recovered the orbiter speed brakes, which
+
+are on the rear section, and the left speed brake I guess is just
+
+like it came out of the factory and the right speed brake has got a
+
+lot of particles, it looks like, were embedded in it, and so
+
+forth.
+
+But if you look at the flow and everything,
+
+it
+
+385
+
+looks like the wind would have shielded it. So
+
+we're not sure what all that means. But it is just kind of a - those
+
+are some of the black and white differences that we're beginning to
+
+see.
+
+And we're got metallurgists and others going
+
+back and looking at those samples to tell us the kinds of materials
+
+we see. We have a very - that we did not show to the public
+
+yesterday, we have a very elaborate layout that the National
+
+Transportation Safety Board has provided and has assisted us in
+
+doing.
+
+We have got a facility down at Kennedy that
+
+has been laid out to assemble a lot of the pieces. And I guess the
+
+Navy brought in, with the assistance of the Air Force, a tremendous
+
+tent or a portable building that they are putting up, of some 250
+
+feet long by about 75 or 80 feet wide. And we're going to use that as
+
+kind of a layout area.
+
+And we would invite members of the Commission
+
+- -
+
+MR. HOTZ: Is
+
+this the jigsaw grid?
+
+MR. MOORE:
+
+Yes.
+
+MR. ALDRICH:
+
+We're actually building a frame for the orbiter to be constructed on.
+
+There's a very interesting characteristic on the orbiter. Every tile
+
+on the orbiter has a serial number, so when they find a
+
+386
+
+piece of the orbiter it is not one of these,
+
+let's just see where it goes. We can look in the tile records and
+
+they know exactly where it goes.
+
+MR. WALKER:
+
+Each tile is different, basically?
+
+MR. MOORE:
+
+Yes, sir.
+
+MR. RUMMEL:
+
+I have a somewhat different question. According to what I read in the
+
+press and partly from what I heard today, there was generally a lack
+
+of heat evidence. If that's true, I just don't understand. Can you
+
+explain that?
+
+MR. MOORE:
+
+We can't explain that at this point in time.
+
+MR. ALDRICH: One of the places that we think
+
+the largest amount of the explosion was focused - I don't say we
+
+think, but what Marshall reported in their early analysis showed, the
+
+largest part of the explosion occurred where the oxygen comes out of
+
+the oxygen tank in the inner tank area.
+
+They found pieces of the inner tank, which is
+
+the cavity between the two tanks and the external tank. Some parts of
+
+it are melted and burned dramatically and very blackened, and other
+
+parts are as pristine as new metal.
+
+MR. RUMMEL:
+
+From the same canopy?
+
+[227] 387
+
+MR. ALDRICH:
+
+Yes.
+
+DR. WHEELON:
+
+I have a request. The time lines that Sally has there, I wonder if we
+
+could get copies of that.
+
+DR. RIDE:
+
+Actually, I am not sure that this should be considered an official
+
+time line.
+
+MR. MOORE:
+
+We can take an action to provide it. I mean, Sally has it and she can
+
+distribute it.
+
+CHAIRMAN ROGERS: My only question about that is whether we should have
+
+this until we're a little more sure of it.
+
+DR. RIDE: I
+
+guess I would feel better about having somebody, one of the working
+
+groups down there, not put out an official one, but just because
+
+there really is the problem of time correlating all of the data, and
+
+this has their first guesses at the time correlation down to
+
+milliseconds. But those things could change a little bit and a couple
+
+of things could get added.
+
+MR. MOORE: I
+
+would say that we could pull together a preliminary events sequence
+
+by very early next week and provide it to the Commission, if that
+
+would be acceptable.
+
+CHAIRMAN ROGERS: I guess maybe I'm sort of conscious of possible
+
+leaks. Not that I think anybody
+
+388
+
+would leak it, but if it hits the press and we
+
+have it, then everybody's going to say, well, somebody in the
+
+Commission must have leaked it.
+
+And I'm not sure that at the moment having any
+
+of these documents is particularly valuable to us. We've got them all
+
+anyway in due time, and certainly, if you're going to correct it
+
+later on - I mean, there's no reason why we can't all look at them
+
+now, and Sally could make it available to look at it.
+
+But I just think that the fewer documents we
+
+have in our own possession until we get ready to do something with
+
+it, the better off we are.
+
+Dick?
+
+DR. FEYNMAN:
+
+I think we've just learned from the General's report that the proper
+
+way to do it is not to go flying at various possibilities when the
+
+data is only preliminary. You think you're going to gain something by
+
+that.
+
+That is what I learned. I thought I was
+
+gaining something. That is what I thought I was going to do. But when
+
+I saw what he suggested, I see that the proper way, I think, is to
+
+wait until that. Do it as fast as we can, we might come down and look
+
+and suggest something that you could calculate on the time, or a
+
+suggestion of something else or something like that, but
+
+389
+
+not to try to make the decisions and analyses
+
+as we're going along.
+
+We have the same thing in physics experiments.
+
+The theorists sit on top of the experiment and as the data starts to
+
+come out, when it still has errors in it that haven't been checked
+
+out, they are already making theories to explain bumps in the curve
+
+which turn out to be nothing, and it's just a complete waste of
+
+effort and confusion and everything else.
+
+DR. RIDE:
+
+I'm a little bit sensitive to this because I have good sources and
+
+over the last week I've heard a lot of things from excellent sources
+
+that are wrong, like for example the balloon, the balloon being shot
+
+down, and that's not right.
+
+MR. MOORE:
+
+Let me say also, Sally, that we made a very special effort to involve
+
+as many members of the astronaut corps down at Houston as we can. But
+
+your point about data and the [228] sources, we've
+
+heard all kinds of things, too, that sounded very promising a week
+
+ago, and now they totally don't have any relevance.
+
+DR. RIDE:
+
+I'm very sensitive to the right approaches: Collect the data, look at
+
+all the data, and then once you've looked at it all, come to your
+
+conclusions.
+
+MR. MOORE:
+
+And have this devil's advocate
+
+390
+
+team set off and make sure we haven't
+
+forgotten something over here, a bunch of wild and crazy
+
+ideas.
+
+CHAIRMAN ROGERS: I think you're right. I think we are entitled to
+
+that. Let's not think that because we would - let's not take it
+
+because we would dry up Sally's sources.
+
+(Laughter. )
+
+DR. WHEELON:
+
+But we will have an official time line?
+
+MR. MOORE:
+
+Sure.
+
+CHAIRMAN ROGERS: Unless there are any other immediate questions, I
+
+have a couple of questions on procedure. Any other questions?
+
+VICE CHAIRMAN ARMSTRONG: I guess, was that that - did they complete their list
+
+of things that we ought to hear about and we haven't heard
+
+about?
+
+MR. ALDRICH:
+
+There's at least one other thing that shows on the telemetry. The
+
+telemetry shows, from the gyros that Sally was talking about - there
+
+are gyros in each solid, and it shows that in the last second before
+
+the loss of data the right solid rocket deviates from the stack, and
+
+the left one and the orbiter stay together in a conformed
+
+trajectory.
+
+VICE CHAIRMAN ARMSTRONG: When was that?
+
+MR. ALDRICH:
+
+Within the last half second before loss of data.
+
+391
+
+MR. RUMMEL:
+
+Would you repeat that?
+
+MR. ALDRICH:
+
+The data on the telemetry has gyroscopic measurements from the
+
+orbiter and from each solid rocket, and in the last second of data
+
+before loss of data and the explosion, the right-hand rocket is shown
+
+to deviate away from the orbiter and the left-hand rocket, which
+
+means that it broke loose.
+
+DR. FEYNMAN:
+
+Can I ask a dumb question? Do we know on which side which rocket is
+
+afterwards? Did they go like this and cross or do they look like they
+
+went that way?
+
+MR. ALDRICH:
+
+The photo team will be able to pinpoint that precisely, and you've
+
+asked quite a few questions about what we see in the photography and,
+
+believe me, there's a lot of photography. On a normal mission,
+
+there's over 80 rolls of film and television tapes to go through, and
+
+this one even more has been brought in.
+
+And to do it justice, the photo team will be
+
+able to spend hours with you showing things that are of
+
+interest.
+
+DR. COVERT:
+
+Arnie, can I ask, in this rotation of this right-hand solid booster,
+
+does it look like it is pinned at the bottom or pinned at the
+
+top?
+
+MR. ALDRICH:
+
+I did it wrong in my talk. It
+
+392
+
+looks like the bottom comes free and it toes
+
+in at the top.
+
+MR. MOORE:
+
+Let me make one more comment in response to Neal's question, and that
+
+is we think we have sonar data that has located the right-hand
+
+booster. And we're putting a lot of priority on getting that booster,
+
+and we think it is in about 12 or 1400 feet of water.
+
+CHAIRMAN ROGERS: This is sort of interesting, Dick.
+
+[229] MR. MOORE: I say, I
+
+think we have data that pinpoints an area, that has located what we
+
+think is the right-hand solid rocket booster. We are spending a lot
+
+of effort trying to look at that on television to make sure that that
+
+is what we're looking at.
+
+However, we believe it is going to take a fair
+
+amount of time to get that hardware back, because we don't want to do
+
+anything to that hardware during the retrieval process. That is
+
+absolutely fundamental to our investigation.
+
+So Navy salvage is working with us. We've got
+
+experts down there kind of directing the whole salvage thing, and
+
+it's absolutely critical that we keep that hardware in as good a
+
+shape as we can in terms of the retrieval process.
+
+393
+
+MR. ACHESON:
+
+How far offshore is that discovery?
+
+MR. MOORE:
+
+It's 40 to 50 miles is the range, and it's about 12 to 1400 feet, is
+
+what was reported to us before we left the Cape.
+
+MR. WALKER:
+
+Can you tell how many pieces it's in?
+
+MR. MOORE:
+
+No, I have not seen any of that.
+
+MR. ALDRICH:
+
+I had a report on that last night. It is in the Gulf Stream and the
+
+currents are high, and the first submersible they wanted to
+
+photograph or video observe it with was too lightweight to be able to
+
+operate in that condition, and they're bringing in heavier
+
+equipment.
+
+And I was told that perhaps by Sunday or
+
+Monday we would have our first views of it.
+
+MR. SUTTER:
+
+Do you have access to the submersibles that were used up in the Irish
+
+area, in that accident?
+
+MR. MOORE: I
+
+don't know if they're the same vehicles. Mark, you probably
+
+know.
+
+MR. JONES:
+
+We have access to the very same vehicles, and actually we have gone a
+
+step further. We also have the same people who were involved in the
+
+recovery of the Air India that went down off the coast
+
+394
+
+of Ireland, as well as KAL-007. So we have the
+
+same people and equipment involved.
+
+MR. MOORE:
+
+We've had offers from all kinds of people. AT&T doing underwater
+
+cabling offered their boats, and everybody has just offered all kinds
+
+of services to us.
+
+MR. SUTTER:
+
+That job they did in the Irish Sea was tremendous. They got like to
+
+6600 feet in two days. And with the salt water, the quicker you get
+
+it up the better.
+
+CHAIRMAN ROGERS: Have you made an announcement about this?
+
+MR. MOORE:
+
+No, sir, I have not announced it to the public.
+
+CHAIRMAN ROGERS: I guess it's known.
+
+MR. MOORE:
+
+No, I will tell you, I have a very strong feeling that I'm very
+
+nervous about releasing information to the public, because that
+
+immediately focuses the public on an area, and that may turn out to
+
+be the wrong area.
+
+CHAIRMAN ROGERS: How do you correlate with NASA here in Washington,
+
+because they are giving out some information.
+
+MR. MOORE: I
+
+have a public affairs person that is on my investigating - on my task
+
+force that is
+
+395
+
+down at Kennedy. And when we're down there,
+
+there's a tremendous amount of pressure to release something. And
+
+what I have been trying to do is only release kind of status
+
+information of my activities, our group's activities, that we are
+
+continuing to meet here and we're continuing to meet there.
+
+[230] And I've got Bob
+
+Crippen and Bob Overmyer down at the Cape looking at all of the
+
+photographic data that comes in, and selectively they're releasing
+
+pieces of it. Chuck Hollins, my person, talks to the NASA public
+
+affairs person up here, Shirley Green, and supposedly maintains
+
+contact that way.
+
+One of the things we need to do is to make
+
+sure that we have got a liaison here. That Jonathan and I have talked
+
+about, so that you aren't surprised about things that are coming out,
+
+and you will have your own announcements.
+
+CHAIRMAN ROGERS: The only announcements we will make will be when we
+
+decide on meetings, where the meetings are going to be held. And if
+
+we have public meetings, we will announce the witnesses. But except
+
+for that, we won't make any announcements or comments at all.
+
+I think we have all agreed to that, and if
+
+there is any thought of deviation, why, I will talk to
+
+396
+
+all of the Commission members.
+
+MR. MOORE:
+
+Sir, if it's okay with you, I thought I would set up someone with my
+
+task force to maintain a constant liaison with Jonathan down here, so
+
+the members of this Commission are not surprised by anything that our
+
+group deems important to release. We are totally trying to focus on
+
+any factual information, and not let the public speculate.
+
+CHAIRMAN ROGERS: There was one other thing I noticed in the press
+
+about a little accident you had. Tell us a little about that.
+
+MR. MOORE:
+
+That was a handling of one of the segment accidents. It was called an
+
+SRM incident report, and it was down at the Cape. And it was,
+
+Lockheed handles the unloading of segments off of rail cars into the
+
+proper facilities to begin the stacking, and they've got either two
+
+or four places that they pick all of these things up.
+
+And there were load cells on the device that
+
+picked it up, and I guess there were a couple of failures of a load
+
+cell, and the segment came down and impacted too hard on the ground,
+
+and that segment was discarded from use.
+
+It was scheduled, back when it occurred, for
+
+this particular stack. I think it was pulled out of the
+
+397
+
+whole flow.
+
+MR. JONES:
+
+This particular segment has a large handling ring on the top of it,
+
+and it was part of the processing procedures and we had to get this
+
+handling ring off of the top of it. And I say "we"; as Jess pointed
+
+out, it was Lockheed.
+
+This particular device is held in by the very
+
+same pins that we referred to earlier, like the flight pins, and the
+
+handling ring that is on top of it weighs on the order of 11,000
+
+pounds. So it is not something that you can come up and gently pull
+
+the pin out and lift it up.
+
+And so, with the handling special device to
+
+pull the pins out, some of them were just simply wedged in by the
+
+brute force of this 11,000 pound device. The technician in charge
+
+invented a procedure which was a deviation from our published
+
+procedure, in that he attached the crane to the handling ring, asked
+
+for 11,000 pounds up, effectively zeroing it out, so he could pull
+
+the pins out.
+
+He didn't clear the area around it. He got
+
+this lift up and they continued to pull pins. And that should have
+
+been, people should have backed away from it. At that particular
+
+time, the load cell indicator on the crane failed.
+
+398
+
+[231] The crane operator
+
+did not look over to take a look and see what kind of current he was
+
+using at that point, and we suspect that he probably put perhaps even
+
+100,000 pounds up-lift on it. Then at that point it created some
+
+damage.
+
+There was a loud bang, a noise, and it
+
+immediately shut down, and of course the investigation ensued and
+
+revealed all of these things I've just shared with you. A decision
+
+has not been made whether that segment was then flightworthy or not.
+
+One discussion said, no, when exposed to that kind of environment it
+
+probably ought to be discarded. Another one said, we think we can
+
+X-ray it, examine it, shim it out properly, and fly it.
+
+But whatever the case was, we couldn't do it
+
+for this particular flight, 51-L. That segment was pulled out and set
+
+aside and its corresponding segment on the other side, because you
+
+have to have matched pairs for burning rates from the same amount of
+
+propellant.
+
+So in fact, two new segments were put into
+
+this particular stack and flown as a result of that handling incident
+
+in I believe November.
+
+MR. MOORE:
+
+It was in November. And the center director at Kennedy signed and
+
+approved the
+
+399
+
+report on the 13th of December. That is when
+
+it was approved, and it was worked in concert with the headquarters
+
+safety office and the guidelines that come out of the headquarters
+
+and the headquarters office, not just bureaucratically signed off the
+
+paperwork on it.
+
+CHAIRMAN ROGERS: Well, as you know - -
+
+MR. HOTZ:
+
+The incident was reported publicly?
+
+MR. MOORE:
+
+Yes.
+
+MR. HOTZ: It
+
+was made public at the time?
+
+MR. MOORE:
+
+It was made public.
+
+MR. MOORE:
+
+But you know, Lockheed is heavily involved in all the processing.
+
+They are our shuttle contractor, and we have criticized them for some
+
+of their operations. Their operations have improved some overall, but
+
+we have criticized them from time to time.
+
+MR. SUTTER:
+
+It makes me a little nervous to
+
+400
+
+hear that this was a procedure outside of the
+
+operating handbook, and if this incident hadn't have happened, it
+
+might have continued. I'm not criticizing. All I'm saying is -
+
+-
+
+MR. MOORE: I
+
+understand what you're saying. Let me say as far as that is
+
+concerned, we've got some people from Dryden Research Center, our
+
+flight research center out in California, that I asked several months
+
+ago to go down and spend some time at Kennedy and look at the overall
+
+process and flow down there and to take a look at it.
+
+And I haven't had a report back from them, but
+
+we have had that concern for some time.
+
+DR. WHEELON:
+
+I would ask, Mark, you've just described an incident having to do
+
+with the handling or the mishandling of the solid rocket segment. Is
+
+that unique or does that sort of thing happen regularly or now and
+
+again or often? And if so, what are the other incidents that have
+
+happened?
+
+MR. JONES:
+
+We maintain an informal log, if you will, of any kind of incident,
+
+for whatever reason, whether something broke, whether a platform fell
+
+down, those kinds of things. Given that there are 16,000 people
+
+employed there, I would suggest that there are some number of
+
+incidents related to flight hardware.
+
+[232] 401
+
+They are very minimal.
+
+That is why we chose to do a very thorough
+
+investigation in this particular procedure, and that is why we were
+
+critical of the management from the immediate technician, who was the
+
+lead tech on the floor, through the higher levels of management that
+
+perhaps had not reviewed that procedure.
+
+I cannot compare our incident rate with any
+
+other industry. I know that we have a certain rate of incidents,
+
+which I would figure out over a per hours worked, but I can't compare
+
+it to say it is more frequent or less frequent than an assembly
+
+plant.
+
+DR. WHEELON:
+
+Excuse me. That wasn't the question. The question was, was this event
+
+that you described, was that unique? Have things like that happened
+
+before? And if so, do they happen every ten flights or every one
+
+flight, just in your place?
+
+MR. JONES:
+
+This incident was unique in itself. This is the first time we have
+
+seen that kind of an incident in handling an SRB segment.
+
+DR. WHEELON:
+
+Have you seen other incidents in handling SRB's? And I ask you
+
+because you're the director for RQ&A.
+
+MR. JONES:
+
+I'm not aware of any other incident, and I can research the record,
+
+but I'm not
+
+402
+
+aware of any other incident in which we have
+
+damaged flight hardware to the point where it wasn't usable. This was
+
+the only incident of that type.
+
+DR. WHEELON:
+
+Would you review the records and give us an answer to that
+
+question?
+
+MR. MOORE:
+
+Yes, sir.
+
+MR. JONES:
+
+Yes, sir.
+
+MR. MOORE:
+
+We track incident rates down at KSC and I know overall incident rates
+
+on flight hardware, as well as other kind of activities, and we have
+
+got that data and we will be happy to provide it to you.
+
+DR. RIDE: Do
+
+you have any idea, just a feeling of whether the incident rates have
+
+gone up since Lockheed took over or whether they stayed about the
+
+same?
+
+MR. MOORE:
+
+Sally, my general feeling on that is they went up initially and
+
+stayed up for some period of time, and they have been coming down
+
+pretty well over the past year. As a matter of fact, Dick Smith was
+
+telling that they have been giving a few special certificates to some
+
+people in certain areas of Lockheed for safety consciousness and
+
+improvements and so forth. And so I believe the incident rate is
+
+coming down, is what I have been told. And we have had that
+
+data
+
+403
+
+tracked and we can provide that data to
+
+you.
+
+Now, one of the other things that we have had
+
+a long-term concern about is safety at Thiokol, and we have had a
+
+couple of safety incidents out at Thiokol, where we've had pit fires
+
+and so forth.
+
+DR. HOTZ:
+
+This is in Utah?
+
+MR. MOORE:
+
+This is in Utah where the units are poured. And we have had some
+
+major concerns about that. We have had several boards look at that
+
+and that is one of the reasons that NASA initiated about a year ago a
+
+look at second sources for the solid rocket launcher - solid rocket
+
+boosters.
+
+MR. WALKER:
+
+When they're poured, are they then shaped?
+
+DR. WHEELON:
+
+Most solid rocket motors are poured and then machined.
+
+[233] MR. MOORE: That is the
+
+way these are done.
+
+MR. COVERT:
+
+I wanted to follow up on something Bud said, and that is, every so
+
+often problems arise where some guy gets a good idea in the middle of
+
+a process and, with all the best intentions, implements it without
+
+adequate clearance.
+
+And how often has this occurred down
+
+there?
+
+MR. JONES: I
+
+think that, first of all, I can't give you a specific answer.
+
+404
+
+MR. COVERT:
+
+Is it a recurring problem?
+
+MR. JONES:
+
+It's not that much of a problem, because the intent - we have tried
+
+over the years to instill into what we call the test scheme the
+
+discipline to follow that procedure.
+
+And all of the procedures, especially the
+
+hazardous procedures, are routinely reviewed periodically. In fact,
+
+the procedure this man invented was probably a pretty good procedure,
+
+except what he did was he didn't document it. It wasn't reviewed and
+
+he didn't use things, like giving a 64th of an inch up, which
+
+capability we have. Instead he said, give me 11,000 pounds and a
+
+measuring device.
+
+So I think the procedure in and of itself was
+
+probably a good one, but very few instances of deviations from
+
+published procedure.
+
+MR. COVERT:
+
+That is a partial answer. People are going to get good ideas. The
+
+kinds of people you want working for you are going to get good ideas,
+
+and they're going to want to see them implemented.
+
+But there should be a discipline around to
+
+make sure that the procedures are reviewed by other people who are
+
+knowledgeable, and so they can say to them, don't use a load cell
+
+because we know they drift, that you ought to give dimensions, and so
+
+forth.
+
+405
+
+So I guess, with a bright, inventive group
+
+like you have, there must be from time to time unauthorized
+
+improvements put into the processes, and then they either work well
+
+or they don't work well. And my question is, does that happen a half
+
+a dozen times a year or three times?
+
+I have only heard of it twice since I have
+
+been down there; that is the kind of response I'm looking for.
+
+406
+
+MR. JONES:
+
+I'm not sure how I could answer that. I simply can't give you a
+
+definitive answer.
+
+MR. MOORE: I
+
+understand what you're driving at. Let me mention one other thing,
+
+Gene, that about a year and a half ago or a year or so ago the top
+
+management at Lockheed down there was replaced, and it was because of
+
+our criticism of the way they were paying a lot of attention to the
+
+overall management of this job, and I think during that period of
+
+time there were some of the kind of things you're talking about. I
+
+don't have the specific numbers.
+
+Lockheed then brought in some aircraft
+
+experienced people who were experienced in running this overall
+
+thing, and I personally believe that has been tightened up pretty
+
+good. But again, I can't give you a precise set of numbers. We
+
+certainly have the statistics on that. We go through a very
+
+comprehensive award fee process with each of the contractors down at
+
+the Cape, as many of the other things, and we can go in and give you
+
+a much better quantitative feel than I can give you off the top of my
+
+head.
+
+DR. COVERT:
+
+Well, it may not be relevant to this particular investigation that we
+
+are talking about, but I have seen other cases where, in fact, a good
+
+idea turned out to be the source of a problem.
+
+[234] 407
+
+MR. MOORE:
+
+One point that ought to be kept in mind here is a majority of the
+
+people that Marv talked about are the same people that have been down
+
+there for a long time. When Rockwell did not win the Shuttle
+
+processing contract. Eighty-five percent, approximately, of those
+
+same people stayed on and simply worked for the new company. There
+
+were critical areas and certain areas you had a big void. In others
+
+you had a peak, and there was a general management concern down there
+
+for some period of time, and a lot of techs and so forth were there
+
+to do the procedures.
+
+CHAIRMAN ROGERS: Jess, if I could ask a question about termination,
+
+whether you terminated and so forth? It seems to me very difficult if
+
+you find Lockheed, for example, has been deficient and you are
+
+disappointed with the performance, to terminate because they are
+
+right in the middle of something. Do you have any alternative? Are
+
+there any severe penalties you can impose?
+
+MR. MOORE:
+
+It depends upon the specific contract, but in the case of Lockheed,
+
+they are under an incentive fee contract, and they are supposed to
+
+process so many missions, and process them and make sure that - if
+
+they have a problem with their processes, they are penalized. There
+
+is not only a dollar penalty, but
+
+408
+
+there are also written-up penalties that go to
+
+the corporation, and each contract that we have has various segments
+
+to it.
+
+I think the Lockheed contract is basically a
+
+three year contract with three three-year extensions to it, and so
+
+you can terminate at the end of that particular three years.
+
+CHAIRMAN ROGERS: But in the meantime you can fine them or impose a
+
+heavy penalty?
+
+MR. MOORE:
+
+You can impose a heavy penalty, and also you can get the corporate
+
+management involved in this thing, and that is where the action came
+
+about in terms of replacing the managers that originally took
+
+over.
+
+CHAIRMAN ROGERS: Have you imposed any penalties?
+
+MR. MOORE:
+
+Yes, sir, there are award fees, and they've lost a lot of fees over
+
+the past few years.
+
+DR. WHEELON:
+
+You can withhold the awarding of grants. All of their costs are
+
+covered, so they are not forfeiting costs. They are just not earning
+
+profits. But there are opportunity costs lost.
+
+MR. MOORE:
+
+That is true.
+
+CHAIRMAN ROGERS: That is money they don't get, in other words?
+
+409
+
+DR. WHEELON:
+
+In other words, they might have done a little better under the award
+
+fees. CHAIRMAN ROGERS: Maybe we ought to think of some more severe
+
+penalty. You know probably as well as I do, and probably better, that
+
+there is dissatisfaction about performance, and particularly in
+
+Congress. I mean, they have spoken to me about the fact that they
+
+feel that the performance has been sloppy, the contractors have been
+
+taking it easy and so forth, and even if we don't relate it, relate
+
+that poor performance to this accident we are talking about this
+
+morning, there's no reason why we can't comment on it, there's no
+
+reason we can't comment on the very severe terms, and propose a
+
+penalty or some other provision that you can use so that if there is
+
+a deficiency of that kind, even if management couldn't have detected
+
+it - -
+
+MR. SUTTER:
+
+I would like to make a comment.
+
+CHAIRMAN ROGERS: Is that too tough?
+
+[235] MR. SUTTER: No. I think
+
+that as soon as you take that up, then we should ask the question
+
+why, and the answer may not be sloppy work, per se. It may be
+
+pressure. For instance, this pad did not have a rain cover, an item
+
+that was scheduled, and these people, they work for one company once,
+
+and then they work for another company and change management; it's
+
+the same
+
+410
+
+workers with experience but different
+
+managers, and he is under pressure.
+
+And I think that is one of the things that we
+
+should ask, is the schedule realistic, especially now.
+
+CHAIRMAN ROGERS: What was the reason for the lack of rain
+
+cover?
+
+MR. ALDRICH:
+
+Can I give you a bit of a lengthy answer?
+
+CHAIRMAN ROGERS: Sure.
+
+MR. MOORE:
+
+Why don't you give some background on the whole waterproofing
+
+situation?
+
+MR. ALDRICH:
+
+The orbiters come from the factory with brand new tiles and they are
+
+waterproofed internally. That is, they can stay up indefinitely. When
+
+you fly the orbiter, it enters under a high heat environment, and
+
+that heat causes the waterproofing to be driven out of the tile, so
+
+you have to rework it before the next flight.
+
+The arrangement was to internally replace the
+
+waterproofing in each tile in Florida between flights, and it was a
+
+system developed with squirt guns where we actually penetrate each
+
+tile and squirt a certain amount in. And on Challenger, several years
+
+ago now, after about its eighth flight, after about its fifth flight,
+
+I believe, of Challenger, we noticed a condition where the
+
+411
+
+rubber that was holding the tiles to the
+
+vehicle, the rubber cement, was softening, and in effect, a tile came
+
+off during re-entry, which led to the investigation. We found large
+
+amounts of softening rubber, and the investigation showed a reaction
+
+between the constituency of the rubber and the rewaterproofing
+
+material.
+
+Since that time we have not used the
+
+rewaterproofing technique again, and we have run the threat of the
+
+orbiter picking up some amount of water. We have been investigating.
+
+We have had an extensive analytical program to find a new material
+
+that will work as well. That is still under work.
+
+In the interim, we have been spraying the
+
+vehicle with Scotchguard, which is a deterrent but doesn't completely
+
+preclude water pickup, particularly in heavy rain, and we have added
+
+additional rain protection to the launch pads. We put up some
+
+metallic protection on Pad A, the old pad, and also some canvas type
+
+material that protects it from the driving rain, and it has been very
+
+effective.
+
+During this period of time, however, Pad B has
+
+been coming along to be the second launch pad, and a more elaborate
+
+all-metal waterproofing system was conceived and was being
+
+implemented on Pad B. Sometime this past fall some of the materials
+
+for that were
+
+412
+
+delivered, and they were defective, the metal
+
+was not up to the standard expected of the metal, and so it had to be
+
+scrapped and returned and wait for additional metal to arrive.
+
+So in that period leading up to the first use
+
+of the pad, we had to make the choice of going to the pad without the
+
+complete mechanization of the waterproofing intended for Pad B, and
+
+Pad A would be retrofitted to the same all-metallic consideration
+
+later.
+
+The original schedule was that in January of
+
+this year for this launch, all the rain protection on Pad B would be
+
+finished, along with the other facilities on Pad B, and materials
+
+problems [236] caused this issue which we believed we could well
+
+work around, and I think we did work around it successfully as far as
+
+the orbiter, which is the concern for the rain protection. We don't
+
+have rain protection for the solid rocket boosters. It has never been
+
+considered that that would be required.
+
+CHAIRMAN ROGERS: Well, yesterday didn't I hear testimony to the effect
+
+that rain also had an effect, you were concerned about it on the
+
+outside of the boosters and the launch pad itself?
+
+MR. ALDRICH:
+
+Two questions with separate answers.
+
+413
+
+The concern on the outside of the external
+
+tank comes from either rain - in fact, rain ie good. What is really
+
+bad is humidity in the air because the tank is so cold, ice will form
+
+on the tank, and that is a concern only because when you launch, the
+
+ice will fall off and strike the orbiter. So again, we have different
+
+loading conditions and conditions leading to launch that preclude
+
+moisture from forming ice on the tank.
+
+DR. RIDE:
+
+The tank is only cold after you put the cold propellant in it.
+
+MR. MOORE:
+
+That is exactly right, about seven or eight hours before launch, when
+
+you fuel the tank, then you get it extremely cold, and if there is a
+
+lot of humidity, you will get ice on the tank, as Sally was saying.
+
+We are concerned about ice then breaking up.
+
+MR. ALDRICH:
+
+But it is only of concern again for the orbiter.
+
+MR. HOTZ:
+
+You did get some damage in early flights from the ice breaking
+
+up?
+
+MR. MOORE:
+
+We did see on some flights some tiles that were damaged and so forth
+
+on the orbiter.
+
+MR. HOTZ:
+
+They were pretty big chunks that were coming off.
+
+MR. MOORE:
+
+Yes, and that is why we send an
+
+414
+
+ice team out to take a look and see how bad.
+
+There is a spec in the program about what kind of ice is acceptable
+
+and what is not acceptable.
+
+MR. ALDRICH:
+
+There have been modifications to the insulation on the external tank
+
+to correct the areas where we had large pieces of ice. And we have
+
+seen a very significant reduction in damage to the orbiter from the
+
+ice during flights.
+
+MR. HOTZ:
+
+You only got it on the early flights?
+
+MR. ALDRICH:
+
+Yes, sir.
+
+Now, the facility, we were concerned for ice
+
+there largely, not so much from the rain but from the facility
+
+systems themselves, broken lines, fluid comes out on the facility,
+
+freezes, creates ice that can interfere with the operations of the
+
+equipment at the launch facility. There's not a concern about safety
+
+of the flight hardware but for the ability of the facility to
+
+continue to do its job successfully during that time period.
+
+CHAIRMAN ROGERS: I mentioned yesterday, I think, and maybe before the
+
+report I saw in the paper, about Rockwell, and I found it in Time
+
+Magazine, and you made a comment about it. The report said that a
+
+Rockwell official said that he had called 20 minutes before the
+
+launch to advise against the launch because
+
+415
+
+of ice, and I wondered, did Rockwell change
+
+their mind? Were they in that conference?
+
+MR. ALDRICH:
+
+Let me tell you about the conference. In the conference that I held
+
+outside the firing room - I was in the firing room with Jess, and I
+
+went outside to hold this conference.
+
+[237] The concern was for
+
+the orbiter. The concern was for ice that we knew was in the vicinity
+
+of the facility, on the facility, at different locations, falling at
+
+ignition and hitting the orbiter.
+
+In the conference I had, the orbiter project
+
+manager from Johnson Space Center, the chief of engineering from
+
+Johnson Space Center on the telephone, live, myself, the Shuttle
+
+Program had worked these issues previously in the meeting personally,
+
+the head of the orbiter project for the Rockwell contractor in
+
+Downey, on the line to him, the chief engineer for the orbiter
+
+project at Downey, and we had a discussion where all parties
+
+participated.
+
+CHAIRMAN ROGERS: And this call was reported to that group, and you all
+
+considered it, and decided to go ahead?
+
+MR. ALDRICH:
+
+I think this call was that discussion.
+
+MR. MOORE:
+
+There is no recollection of any
+
+416
+
+other manager from Rockwell calling outside of
+
+this group. I certainly didn't get any phone calls. Nobody that I
+
+talked to knew about that.
+
+CHAIRMAN ROGERS: Well, I press that a little bit because as long as
+
+there is not a dispute about the facts, then it doesn't seem to me
+
+that anybody can fault anybody. After all, we are going to have a lot
+
+of different points of view on something like this, and somebody has
+
+to make the decision.
+
+DR. RIDE:
+
+Well, I guess the question is whether at the end of this meeting
+
+Rockwell was saying we don't want to launch.
+
+CHAIRMAN ROGERS: That is exactly it. If Rockwell comes up in a public
+
+session and says we advised them not to do it and they went ahead
+
+anyway, and were concerned about the weather, and so forth, then
+
+you've got a problem.
+
+On the other hand, if there is no dispute
+
+about the facts, that this was conveyed to everybody, and everybody,
+
+after consideration, everybody agreed to it - -
+
+DR. WHEELON:
+
+What position did Rockwell take?
+
+MR. ALDRICH:
+
+Everyone in that meeting - and I just told you who was there. There
+
+were many others,
+
+417
+
+Kennedy facility people at that meeting,
+
+everyone in that meeting voted strongly to proceed and said they had
+
+no concern, except for Rockwell. The comment to me from Rockwell,
+
+which was not written specifically to the exact word, and either
+
+recorded or logged, was that they had some concern about the
+
+possibility of ice damage to the orbiter. Although it was a minor
+
+concern, they felt that we had no experience base launching in this
+
+exact configuration before, and therefore they thought we had some
+
+additional risk of orbiter damage from ice than we had on previous
+
+meetings, or from previous missions.
+
+CHAIRMAN ROGERS: Did they sign off on it or not?
+
+MR. ALDRICH:
+
+We don't have a sign-off at that point. It was not - it was not maybe
+
+20 minutes, but it was close to that. It was within the last hour of
+
+launch.
+
+CHAIRMAN ROGERS: But they still objected?
+
+MR. ALDRICH:
+
+They issued what I would call a concern, a less than 100 percent
+
+concurrence in the launch. They did not say we do not want to launch,
+
+and the rest of the team overruled them. They issued a more
+
+conservative concern. They did not say don't launch.
+
+GENERAL KUTYNA: I can't recall a launch that I have had where there
+
+was 100 percent certainty that
+
+[238] 418
+
+everything was perfect, and everyone around
+
+the table would agree to that. It is the job of the launch director
+
+to listen to everyone, and it's our job around the table to listen
+
+and say there is this element of risk, and you characterize this as
+
+90 percent, or 95, and then you get a consensus that that risk is an
+
+acceptable risk, and then you launch.
+
+So I think this gentleman is characterizing
+
+the degree of risk, and he's honest, and he had to say
+
+something.
+
+DR. RIDE:
+
+But one point is that their concern is a specific concern, and they
+
+weren't concerned about the overall temperature or damage to the
+
+solid rockets or damage to the external tank. They were worried about
+
+pieces of ice coming off and denting the tile.
+
+MR. MOORE: I
+
+think that is an important
+
+419
+
+point.
+
+MR. HOTZ:
+
+This is completely different from Thiokol's alleged concerns.
+
+VICE CHAIRMAN ARMSTRONG: The concerns that were expressed there are not
+
+obviously related to the accident at this point although they may
+
+be.
+
+MR. ALDRICH:
+
+I think that is not true, Neil. The concern was for falling ice to
+
+damage, and therefore remove a tile from the orbiter. The tiles play
+
+no role in the ascent of the Shuttle system, and if I had made the
+
+wrong decision in proceeding for the launch, we would not have known
+
+any issue from that until the orbiter came to the re-entry phase and
+
+we saw it, and we saw a hole burned in it.
+
+CHAIRMAN ROGERS: I guess what we want to be sure about, though, if we
+
+can, is whether there was a telephone call, and who got it. In other
+
+words, if you have an official of Rockwell saying we called and told
+
+them not to do it; however, they say - and you say, well, we never
+
+got such a phone call, then you've got a discrepancy. If you got the
+
+phone call and you considered it, and you decided to make the
+
+decision based upon the reasons you have just described, then I don't
+
+see any problem with that.
+
+MR. ALDRICH:
+
+My only question was I think the
+
+420
+
+phone call went the other way. I think my
+
+Rockwell project manager was in the room and called the chief
+
+engineer at Downey and asked for their position, and he reported that
+
+position to me which was his, and, as I stated, we made the decision
+
+to go.
+
+I don't think there was any input from
+
+Rockwell.
+
+CHAIRMAN ROGERS: The Time story said, and I don't have much confidence
+
+in their accuracy, but this one sounded accurate, said that a
+
+Rockwell official had been watching the launch preparation and
+
+noticed on the television how much ice there was and made a call 20
+
+minutes before the launch saying he didn't think they should do it,
+
+and then they quoted Jess as saying we fully considered that matter
+
+at length and decided to go ahead.
+
+MR. MOORE: I
+
+don't know why the 20 minutes, where the 20 minutes comes in. I don't
+
+think any of us were involved in any conversations, because you came
+
+down from your meeting. Your meeting was at 8:00 o'clock in the
+
+morning. You came down about 9:00 and sat in the firing room, and
+
+Phil Culbertson was there, and Dick Kohrs, and you guys came down and
+
+said we have considered the launch, considered the ice, and we
+
+believe it is an acceptable risk based upon the ice
+
+[239] 421
+
+concern for the orbiter. It is principally a
+
+descent problem, and we do believe we ought to send out one final ice
+
+team out at about 20 minutes before launch, and that is exactly what
+
+was done. An ice team went out and walked on the mobile launch
+
+platform and reported back into the loop, to Arnie and so forth, and
+
+came back and said they don't see anything out there that is
+
+anomalous.
+
+And so that is the way it happened. I don't
+
+know where the 20 minute call came in.
+
+422
+
+CHAIRMAN ROGERS: I just wanted to clear up the phone call and let's
+
+get our facts straight as we can before there's any further
+
+discussion about it. I don't want to press any more on this. It is
+
+just the kind of thing I know that gets a lot of attention in the
+
+press when you have this kind of thing, that they focus on a few
+
+little things, and this would be one, if there's a disagreement as to
+
+facts.
+
+If I said I made a call and I told them and
+
+they said we never got any such call, then you have to go get the
+
+record of the phone call. And so I just wanted to straighten that
+
+up.
+
+Unless there's something else, I would like to
+
+ask some questions about our plans. I think the consensus is among
+
+the Commission members that we at some point would like to visit the
+
+facilities, all of them, I guess. And the question comes up, when
+
+would we be the least nuisance.
+
+MR. MOORE:
+
+Don't call yourself a nuisance.
+
+CHAIRMAN ROGERS: Well, I think we are when we go to those places.
+
+There's going to be a lot of concern about what we're going to ask
+
+and so forth.
+
+First, I want to tell you, as far as I'm
+
+concerned we will try to do it in a way that is not disruptive. But
+
+secondly, if you could tell us when it
+
+423
+
+might be best to do it.
+
+I was thinking certainly not next week, but
+
+maybe the week after that.
+
+MR. MOORE:
+
+That is what - you kind of suggest, we, Arnie and I and a whole group
+
+are going back to Kennedy Monday morning, and we're going to spend
+
+Monday afternoon and probably Monday evening getting not only the
+
+reports from the groups of activities, but also putting in a more
+
+permanent organizational structure and trying to look at these teams
+
+and see if we have got some things that have been left out and if we
+
+want to consolidate some teams and so forth.
+
+Tuesday we will have detailed reports, status
+
+reports, back from the people we have had working. So we will spend
+
+Tuesday in a data gathering mode.
+
+Wednesday we will probaly come back to the
+
+Washington area and Arnie will probably go back to Houston. And I
+
+would say the first part of the following week would look like a good
+
+time that we could set up, I think, out at the Cape, an excellent
+
+meeting for you.
+
+CHAIRMAN ROGERS: That would be a week from next Tuesday?
+
+MR. MOORE:
+
+That would be a good time frame to do that.
+
+424
+
+CHAIRMAN ROGERS: How does that sound to the members of the Commission?
+
+We don't all have to be there.
+
+MR. HOTZ:
+
+What is the date?
+
+MR. MOORE:
+
+That would be the 18th, February 18. You could see the wreckage, the
+
+layout, the photography that's being pulled together there, and the
+
+analysis that we have done.
+
+[240] DR. RIDE: Is that
+
+something that we could do in a closed meeting, in a closed
+
+way?
+
+VICE CHAIRMAN ARMSTRONG: That's going to be tough if they find out we're
+
+going.
+
+DR. RIDE:
+
+That is not what I was wondering about.
+
+MR. HOTZ:
+
+Well, they will find out we're going there. There's no way you can
+
+keep that out. But you could certainly keep it a closed meeting, and
+
+maybe the chairman or somebody could make a statement after the
+
+meeting that, we have inspected this, and so on.
+
+CHAIRMAN ROGERS: Let's assume we could do it in a closed way. Let's
+
+first just decide on the time.
+
+GENERAL KUTYNA: Mr. Chairman, Mr. Fuqua's staff members came up to me
+
+and said they wanted a report from Jess and our side on what the
+
+alternatives were, and I thought that was the 18th.
+
+MR. THOMPSON: Mr. Chairman, there is - and I
+
+425
+
+just throw this out for your consideration.
+
+The Senate Committee on Space will be holding hearings that day on
+
+this issue.
+
+CHAIRMAN ROGERS: What about the end of next week, like
+
+Thursday?
+
+MR. MOORE:
+
+As far as I know, that would be okay. I think some time next week,
+
+next Thursday, would be well. We could support you next
+
+Thursday.
+
+DR. WHEELON:
+
+Isn't there a certain charm to that? After all, the press would be
+
+focused on the Senate, who seeks press coverage, in contrast to
+
+us.
+
+CHAIRMAN ROGERS: No. There are some of them that would follow us. They
+
+are assigned to us and they would go with us anywhere.
+
+MR. SUTTER:
+
+Well, how about the 19th or 20th? I don't think these guys will have
+
+a lot more to tell us in four or five days.
+
+426
+
+MR. MOORE:
+
+We will show you the status of our analyses and the status of our
+
+photographs of the investigation.
+
+DR. RIDE: I
+
+would say I think there is probably at least a full day of things for
+
+us to see, and just seeing the debris and seeing the photos -
+
+-
+
+CHAIRMAN ROGERS: How about Thursday?
+
+MR. COVERT:
+
+I would prefer the 13th or 14th. That's next week.
+
+MR. ACHESON:
+
+Could I ask a question? What should our timing be in relation to the
+
+recovery of the booster?
+
+CHAIRMAN ROGERS: I think we're going to have to take a trip down there
+
+anyway. I think this is a good time to do it, if it is a convenient
+
+time. I mean, we can't wait for the recovery.
+
+MR. MOORE:
+
+We will status you where we are in all of the areas and any prognosis
+
+that we might have. But my guess is it's going to be a long time
+
+before we have got all the procedures in place to make sure that we
+
+can handle that hardware without doing it additional damage.
+
+DR. WHEELON:
+
+The 14th is better for me, and I probably can provide transportation
+
+from the West Coast.
+
+427
+
+MR. HOTZ:
+
+What kind of a trip are you talking about, down in the morning, back
+
+at night? CHAIRMAN ROGERS: That's what I'm wondering about. MR.
+
+WALKER: I think we're going to need at least a day down there and
+
+maybe two.
+
+[241] CHAIRMAN ROGERS: Why
+
+don't we do it Thursday, and if you can't make it then, Bud, you come
+
+down Friday.
+
+How about the others? Is that okay with
+
+you?
+
+MR. HOTZ:
+
+What was that again?
+
+CHAIRMAN ROGERS: Thursday.
+
+MR. HOTZ:
+
+That would be Thursday and Friday of next week?
+
+CHAIRMAN ROGERS: Yes.
+
+MR. MOORE: I
+
+would say we've got enough data to keep you very, very busy for as
+
+long as you want to stay down there. I mean, every one of our
+
+meetings that we've held down there has gone seven or eight hours,
+
+and we have had to hurry them through.
+
+CHAIRMAN ROGERS: Gene, is that okay with you?
+
+MR. COVERT:
+
+Yes, sir.
+
+CHAIRMAN ROGERS: Dick, in your absence we arranged a meeting for all
+
+of next week. Is that okay?
+
+428
+
+[Laughter.]
+
+CHAIRMAN ROGERS: We're planning to go to Kennedy on Thursday and
+
+possibly Friday of next week, okay?
+
+DR. FEYNMAN:
+
+Yes.
+
+CHAIRMAN ROGERS: Bob?
+
+MR. RUMMEL:
+
+I think so.
+
+CHAIRMAN ROGERS: And Arthur?
+
+MR. WALKER:
+
+It's as bad as any other time.
+
+[Laughter.]
+
+CHAIRMAN ROGERS: So let's plan on that. We will go down
+
+Thursday.
+
+MR. MOORE:
+
+We will be ready to talk to you next Thursday, then.
+
+MR. RUMMEL:
+
+A housekeeping question. Will someone arrange hotel
+
+accommodations?
+
+CHAIRMAN ROGERS: Yes, that is our hope. You will make the
+
+arrangements, Jonathan?
+
+MR. THOMPSON: I will take care of it.
+
+CHAIRMAN ROGERS: What about transportation? Do you want to provide an
+
+airplane?
+
+MR. THOMPSON: I will have to look into that.
+
+CHAIRMAN ROGERS: Well, we will decide how many people are going from
+
+here and then decide how to get there.
+
+429
+
+MR. THOMPSON: One other thing. I think, to avoid confusion with
+
+Jess' people and between you, if you have got a request for
+
+information from anybody that testified yesterday or that you think
+
+of something over the weekend, between now and next week, I think
+
+what might be easiest, if you could give me a call or detail exactly
+
+what it is you want.
+
+And I will provide that information to Jess
+
+and his people, and in turn I can submit it back to you.
+
+GENERAL KUTYNA: Mr. Chairman, thank you.
+
+Jess, at that meeting would you have an
+
+overview of where you are in the planning for your investigation that
+
+would be better than we have today, so we can see the major
+
+milestones and possibly plan future actions?
+
+MR. MOORE:
+
+Yes, you will see a more definitized charter of the things I'm
+
+looking into and an organizational structure of how we're going to
+
+operate, and probably some forecasts of milestones and some
+
+consolidation of the teams that we have formed to make sure that we
+
+are cross [242] cutting all of the areas that we need to and that we
+
+are consolidating teams, that now we have maybe several teams working
+
+on various things. And so I will have, I think, a significant
+
+430
+
+amount of progress from where we are now with
+
+respect to organization. As far as long term prognosis about what is
+
+it going to take to get this fixed, it is totally too early.
+
+CHAIRMAN ROGERS: May I suggest that we break up for the moment and
+
+reconvene at ten after 2:00. What about food? Is there any place to
+
+eat here?
+
+Why don't we do that. We will try to finish -
+
+let's try to meet here at 2:00 o'clock, so we can get out by
+
+3:00.
+
+(Whereupon, at 1:20 p.m., the Commission was
+
+recessed.)
+
+February 6, 1986
+
+SESSION (part 2) | Volume 4 Index | February 10, 1986
+
+SESSION

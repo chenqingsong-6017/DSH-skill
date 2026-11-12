@@ -1,0 +1,497 @@
+
+
+======================================================================
+## v4part1-flat.txt  --  FEBRUARY 6, 1986 SESSION
+======================================================================
+
+---
+DR. FEYNMAN: On the chart it says first flight of OV-99. Is that the Challenger?
+
+---
+DR. FEYNMAN: Was there any special extra heavy load on this particular flight higher than other flights?
+
+---
+DR. FEYNMAN: What is the inclination? What angle is that?
+
+---
+DR. FEYNMAN: Would you explain why we are so sensitive to the weather?
+
+---
+DR. FEYNMAN: On the 27th you made a launch attempt?
+
+---
+DR. FEYNMAN: That means you put fuel into the tanks?
+
+---
+DR. FEYNMAN: Does it stay in the tanks all this time, or do you take it out?
+
+---
+DR. FEYNMAN: And all this time even when the tank is empty, the tank is standing there, and the rest of the equipment, in the weather? 53
+
+---
+DR. FEYNMAN: How early was it put out in the weather?
+
+---
+DR. FEYNMAN: Could you tell me the difference between the solid rocket booster and a solid rocket motor?
+
+---
+DR. FEYNMAN: Excuse me. I am sorry to interrupt you. [85] I wanted to understand whether you, that is, your organization, checks the engine when it is manufactured. When it is going to be reused, is there another test made, or is the test made at the 134 Mississippi site?
+
+---
+DR. FEYNMAN: Thank you.
+
+---
+DR. FEYNMAN: For example, was this Challenger, the one we are interested in, the flight we are interested in, a reflight of an engine or a new engine?
+
+---
+DR. FEYNMAN: I would like to know a little 146 bit more about the actual engines used on the Challenger. What new items had to be replaced after the engines had been used; if the engine is a reused engine, were there some parts that had to be replaced, or what kind of condition is it in relative to were there some special problems?
+
+---
+DR. FEYNMAN: Yes. DR. LOVINGOOD: I don't recall for sure. My recollection is-I have got to get that data. I recall that we didn't change anything, but I will provide that data to you, and if we changed out anything, I will tell you why we changed that out. (Viewgraph.) [Ref. 2/6-62]
+
+---
+DR. FEYNMAN: Excuse me. Predicted erosion is predicted erosion. The question is, in your experience 156 in measuring erosion, how much variation from predicted erosion is the average degree of variation to be expected? How good is the prediction?
+
+---
+DR. FEYNMAN: What is real good, 5 percent, 10 percent?
+
+---
+DR. FEYNMAN: How good are the predictions for the amount of erosion, 5 percent accurate, 10 percent accurate?
+
+---
+DR. FEYNMAN: What is the inhibitor, a liner of some kind that goes around the propellant?
+
+
+======================================================================
+## v4part2-flat.txt  --  FEBRUARY 7, 1986 SESSION
+======================================================================
+
+---
+DR. FEYNMAN: Could you remind me whether the oxygen line that comes down along the ET tank and those trays of electrical cables, is it in that area, or is it somewhere else?
+
+---
+DR. FEYNMAN: In a place that could possibly be related? [216]
+
+---
+DR. FEYNMAN: How close is that to the electrical tray?
+
+---
+DR. FEYNMAN: I am confused. I thought there was also a destruct tray along the ET.
+
+---
+DR. FEYNMAN: That one, is that close to the electrical line?
+
+---
+DR. FEYNMAN: You have found that?
+
+---
+DR. FEYNMAN: Possibly from graphite in the liners or something
+
+---
+DR. FEYNMAN: This is what we would have called an anomaly? Is that right? 369
+
+---
+DR. FEYNMAN: I think it's an epoxy.
+
+---
+DR. FEYNMAN: Would it be fair to say that when you were discussing it, the blowby by the O-ring, you said we don't expect it on the other O-ring. On the other hand, you didn't expect it on the first O-ring, that 380 if the second O-ring gives just a little bit when the first one is giving, that that is a very much more serious circumstance, because now the flow has begun. That is, if the second O-ring holds, if there is a little bit of blowby, the pressure builds up and the flow stops, and then it settles back and seals. But if the second one opens just a little bit, there is a flow of very hot burning fuel product.
+
+---
+DR. FEYNMAN: And that can eat away the O-rings and so forth, and so the second one is very much more critical if it doesn't hold when the first one isn't holding; is that true?
+
+---
+DR. FEYNMAN: I have a picture of that seal in cross-section here, if anybody wants to see it. [225] VICE CHAIRMAN ARMSTRONG: Is it determined yet that the two degree nozzle switch would be consistent with - would the direction of the two degree nozzle change be consistent with the moment of correction that would be expected if the kind of thing that Professor Feynman is talking about actually made a nozzle - -
+
+---
+DR. FEYNMAN: I think we've just learned from the General's report that the proper way to do it is not to go flying at various possibilities when the data is only preliminary. You think you're going to gain something by that. That is what I learned. I thought I was gaining something. That is what I thought I was going to do. But when I saw what he suggested, I see that the proper way, I think, is to wait until that. Do it as fast as we can, we might come down and look and suggest something that you could calculate on the time, or a suggestion of something else or something like that, but 389 not to try to make the decisions and analyses as we're going along. We have the same thing in physics experiments. The theorists sit on top of the experiment and as the data starts to come out, when it still has errors in it that haven't been checked out, they are already making theories to explain bumps in the curve which turn out to be nothing, and it's just a complete waste of effort and confusion and everything else.
+
+---
+DR. FEYNMAN: Can I ask a dumb question? Do we know on which side which rocket is afterwards? Did they go like this and cross or do they look like they went that way?
+
+---
+DR. FEYNMAN: Yes. CHAIRMAN ROGERS: Bob?
+
+
+======================================================================
+## v4part3-flat.txt  --  FEBRUARY 10, 1986 SESSION
+======================================================================
+
+---
+DR. FEYNMAN: If I understand what "criticality one" means, it means it is important for safety of the flight. Is there a higher category than that?
+
+---
+DR. FEYNMAN: So that a failure of criticality one doesn't mean it was safe.
+
+---
+DR. FEYNMAN: It doesn't mean there can't be any failures, of course. I heard someone suggest that something was criticality one and you would fly with it. So we still have to discuss later, I presume, the evidence that this criticality one was sufficiently unlikely or something that we could fly with it.
+
+---
+DR. FEYNMAN: I'm sorry to interrupt, but I think when you were explaining the origin of the tension that you pushed your hands the wrong way, which way the material bends.
+
+---
+DR. FEYNMAN: That is in the 51-L?
+
+---
+DR. FEYNMAN: I don't really understand how this seal works, and let me explain what my question is. It says that you have .280, you might even have .277.
+
+---
+DR. FEYNMAN: Now, it is round and sometimes it could be under compression for a while.
+
+---
+DR. FEYNMAN: So then we have a condition where, if you open it, it doesn't go back to round, it stays oval. And that is about ten percent.
+
+---
+DR. FEYNMAN: Now, use .28 and use 10.
+
+---
+DR. FEYNMAN: That's easy to do. You have 10 percent of .280, and now it's only .252 wide now. It's compressed.
+
+---
+DR. FEYNMAN: I will go back and check, because I thought I saw a test which had ten percent, but I may be incorrect. Therefore that could solve my arithmetic problem. If the percentage change was that great, this would just fit, it would just touch. So I must be wrong. [292] But there is one more question that I wanted to make. When you have 900 or 700 pounds per square inch on the left and virtually nothing on the other side, how much do I have to have touching in order for this to work? If it's only touching at a thousandth of an inch I would expect that it would go through. So can you tell me anything about how much excess I have to end up with so I will be able to hold?
+
+---
+DR. FEYNMAN: I just want to go back to something that I would need to know in order to help me to determine what caused the accident rather than these 530 other problems. When you were giving the thermal data, I've seen some thermal data which may be the same as you are talking about about the O-ring response to the compression set at different temperatures. But the obvious question is how fast did it return, and I didn't see any data that told me it was millisecond, a second goes by; how much do temperatures vary. I mean, that is typically what a temperature does, is it changes an apparent viscosity, and I would like to get some idea if [296] the low temperature could have made it so that when things separated temporarily that the joints moved, that it did not do the usual thing and close the gap so quickly so as to let the gas go through. This seems to me an interesting question and I would like to know as much information as you have on that.
+
+---
+DR. FEYNMAN: I have another request, if I can ask directly, and that is that the leak test point where you are putting pressure in at 200 psi and so forth that you are talking about, is it an escape route that is a principal possible for any gas which goes past the primary seal, and the secondary seal is no longer redundant for another reason; even if it was successfully maintaining the seal, if the gas were to be able to escape through that port because it was closed effectively, would you have also a danger? Therefore, I would like to get information eventually, and I know you've got so many things to do, but eventually I will be asking about the technique for closing the leak port to be assured that it doesn't itself leak.
+
+---
+DR. FEYNMAN: On the right side booster which side is it on?
+
+---
+DR. FEYNMAN: It's just a matter of understanding and I want to be clear that I understand that you said you launched at a temperature "that was below 50 degrees Fahrenheit". This was presumably a temperature in the neighborhood of the O-ring?
+
+---
+DR. FEYNMAN: At the same time some estimate was being made as to what the temperature in the neighborhood of the O-rings would be as a consequence of the weather at that site at the time of the launch?
+
+---
+DR. FEYNMAN: The first figure was 50 degrees. What was the second figure?
+
+---
+DR. FEYNMAN: I don't want that.
+
+---
+DR. FEYNMAN: In other words, to make it absolutely transparent to me, you are saying that you said, at least at that time, that you didn't want to launch if the O-rings were below 50 [300] degrees and, secondly, you made an estimate, in view of the history of the weather, that the temperature of the O-rings might be as low as 26 or 30 degrees?
+
+---
+DR. FEYNMAN: Therefore, below 50 degrees.
+
+---
+DR. FEYNMAN: I just want to be sure. I got the 53 mixed up.
+
+---
+DR. FEYNMAN: So as far as 51-L is concerned, 50 degrees was your first statement, and I'm going to find out what the change in their mind was in a minute. But there were two numbers that didn't match-the 50 that you said you shouldn't fly and the distinctly below 50 they did fly. I just wanted to be sure that I understood.
+
+---
+DR. FEYNMAN: It would seem to a rational person there might be some other reason why there was a 546 blow-by at high temperature and that is there was a likelihood at low temperature that you could cause difficulty because of the slowness of response and, therefore, there must have been some technical discussion out there in the plant. And I wasn't quite clear. You said you had some things with you about the rates of flow. Is that material available to us or could it be made available to us? I don't want to get involved with that as a specialist, but the consequences would be that just because the decision looks like it was technically sound, so I would like to know what kind of logic and so forth was gone into. Is it possible for me to have that?
+
+---
+DR. FEYNMAN: I would like as much detail on the logic or the apparent logic as was there at that time from that plant; is that OK?
+
+---
+DR. FEYNMAN: He said something about having something.
+
+---
+DR. FEYNMAN: This is just a minor technical point and I shouldn't even interrupt you, but don't you hold the outside with some kind of a skirt or something and the nozzle doesn't get any torque on it with winding?
+
+---
+DR. FEYNMAN: Why? The same gas comes.
+
+---
+DR. FEYNMAN: There's blow-by either way?
+
+
+======================================================================
+## v4part4-flat.txt  --  FEBRUARY 11, 1986 SESSION
+======================================================================
+
+---
+DR. FEYNMAN: I wanted to say that there's as aspect of trying to figure out exactly what happened, in that first something looks obvious. Then, it is the experience of Commissions who have looked into accidents that what looks obvious at first turns out later to have a little flaw, and, when you make a long list of things that are out of the ordinary, that are called anomalies, you discover that there is something that doesn't quite fit, and then the theory has to be completely changed. So that kind of work we don't want to have to drag the public through. We're thinking of [331] 604 possibility A, possibility B, possibility C, and as we go through all of these things all the newspapers are always saying, now they think it is this, now they think it is that. We don't know what it is, and we would like to investigate that physical question, I should hope, if it is at all possible, without the public directly, and then we can give a complete report. But when we are discussing this particular matter, it doesn't imply that this is what was the cause of the accident, but as an example the kind of thing that we have to investigate. I don't think you should conclude that we know that this is directly related or whether it is or it isn't directly related. Certainly it is information we have to have to the actual accident.
+
+---
+DR. FEYNMAN: Can I ask a few questions in succession to help explain how this thing works?
+
+---
+DR. FEYNMAN: This rubber thing that is put in, the so-called O-ring, that is supposed to expand to 629 make contact with the metal underneath so that it makes a seal, is that the idea? [345]
+
+---
+DR. FEYNMAN: And if it weren't there, if it weren't in contact at all and there was no seal at all, that would be a leak. Why don't we take the O-rings out?
+
+---
+DR. FEYNMAN: Pushing the putty through, and so on?
+
+---
+DR. FEYNMAN: Now, we couldn't put instead of this some sort of material like lead, that when you squash it it stays? It has to be that it expands back, because there is a little bit of play in this joint and it has to be able to come back. I mean, it is a rubber material, so that it comes back when you move a little, and it stays in contact, is that right? 630
+
+---
+DR. FEYNMAN: I'm talking about the rubber on the seal?
+
+---
+DR. FEYNMAN: In the seal, in order to work correctly, it must be rubber, not something like lead?
+
+---
+DR. FEYNMAN: Because when the seal moves a little bit when there is vibration and pressures, it would lift the lead away, which the rubber expands in place?
+
+---
+DR. FEYNMAN: So it is important that it have this property of expansion and not be plastic, like lead. And I think you call that resilience, right?
+
+---
+DR. FEYNMAN: If this material weren't resilient for say a second or two, that would be enough to be a very dangerous situation.
+
+---
+DR. FEYNMAN: Thank you.
+
+---
+DR. FEYNMAN: Why don't you put up the picture two from now, the one called "SRM No. 3."
+
+---
+DR. FEYNMAN: This is a comment for Mr. Mulloy. I took this stuff that I got out of your seal and I put it in ice water, and I discovered that when you put some pressure on it for a while and then undo it it doesn't stretch back. It stays the same dimension. In other words, for a few seconds at least and more seconds than that, there is no resilience in this particular material when it is at a temperature of 32 degrees. I believe that has some significance for our problem.
+
+
+======================================================================
+## v4part5-flat.txt  --  FEBRUARY 13, 1986 SESSION
+======================================================================
+
+---
+DR. FEYNMAN: Why is the mean an appropriate number, rather than the differences or the lowest values? Where it cracks isn't very important. The mean only tells you it doesn't crack on the average, where it could crack where it's lowest, right?
+
+---
+DR. FEYNMAN: You mean cracking deeper in would be closed by the pressure, presumably, so when the burning got down to there it wouldn't penetrate the 808 cracks and the rate of burning would be uniform, even though the material may have in fact been cracked and crumbled near the outside? That wouldn't, presumably, be of much importance because the pressure holds it together.
+
+---
+DR. FEYNMAN: What is measured on the vertical axis?
+
+---
+DR. FEYNMAN: In making this conversion, is it a simple mathematical formula or is it some kind of 819 guess? And the reason I ask is that the lines are extremely straight and flat, and I wonder what you measured so accurately that didn't have any wiggles in it.
+
+---
+DR. FEYNMAN: PC measurements are measurements of chamber pressure, measurements of a physical quantity, and there are all kinds of noises and vibrations, and it has been extracted from this?
+
+---
+DR. FEYNMAN: What is the horizontal scale? I can't read the numbers. It goes from 55 to zero?
+
+---
+DR. FEYNMAN: I see.
+
+---
+DR. FEYNMAN: What does "pitch" mean?
+
+---
+DR. FEYNMAN: By ullage pressure do you mean the pressure above the fuel, or the oxidizer?
+
+---
+DR. FEYNMAN: You say "nominal" up until when?
+
+---
+DR. FEYNMAN: How are these things made? If you wanted to put out a chute, do you have to have the signals received by a radio that is located somewhere else, and it is wired across? But if you want to destroy it, it has its own receiver? How does it work?
+
+---
+DR. FEYNMAN: Located on?
+
+---
+DR. FEYNMAN: Thank you.
+
+---
+DR. FEYNMAN: I notice it is higher now.
+
+---
+DR. FEYNMAN: It is flying up.
+
+---
+DR. FEYNMAN: Is that normal, too, the white puff?
+
+---
+DR. FEYNMAN: But you're looking at a different part. One is below; the other is above.
+
+---
+DR. FEYNMAN: Can you stop it there? Is this the plume?
+
+---
+DR. FEYNMAN: Do you know what time it is now?
+
+---
+DR. FEYNMAN: From the beginning of the plume until now is about how long?
+
+---
+DR. FEYNMAN: And when is this, now?
+
+---
+DR. FEYNMAN: Which way is that moving through the air?
+
+---
+DR. FEYNMAN: The last time we saw the plume it was coming out and down, and now it's supposed to be coming out and around and between?
+
+---
+DR. FEYNMAN: This must be later, then, from when you had the other picture.
+
+---
+DR. FEYNMAN: You were going around the circle, weren't you, with the zero angle? GEN. KUTYNA: It's not on the bottom of the solids?
+
+---
+DR. FEYNMAN: Did you have a special camera set at a lower sensitivity?
+
+---
+DR. FEYNMAN: You mean it starts low and goes 869 up?
+
+---
+DR. FEYNMAN: The orderly manner is first to get the facts and see what we see, and then hear an interpretation, because the interpretation might be wrong. But what we see, we see, and might be right. So the orderly way I think would be to look closely at it and see what we see, and then hear what they think they see.
+
+---
+DR. FEYNMAN: We don't care about the press.
+
+---
+DR. FEYNMAN: That is the joint that usually carries the hydrogen? No, it has nothing to do with that?
+
+---
+DR. FEYNMAN: You see, it flashes up there. Is that hydrogen coming from somewhere else?
+
+
+======================================================================
+## v4part6-flat.txt  --  FEBRUARY 14, 1986 SESSION
+======================================================================
+
+---
+DR. FEYNMAN: Excuse me. I'm getting very confused, and I would prefer a more logical description and order. I think your original plan was to explain the order of things quickly and then we could go back and listen to all of the arguments in the order in which they were presented. This way things are being pulled out of order and it is hard to follow. Is that okay? [608]
+
+---
+DR. FEYNMAN: Yes, but we have the opportunity for some orderliness - -
+
+---
+DR. FEYNMAN: Could I interrupt, because there's some physical thing that I don't understand quite clearly, and that is why the need to move the O-ring makes it so much less likely to seal than if it is in the right place.
+
+---
+DR. FEYNMAN: Why? MR. MASON: Because it doesn't have enough compression of the O-ring to hold the gas that forces down into the crack.
+
+---
+DR. FEYNMAN: That theory of how it works would account for the very much larger fraction of nozzle joints which failed compared to field joints, in which the nozzle joints have to move about seven times as far as a field joint, and that is consistent with your view.
+
+---
+DR. FEYNMAN: During this discussion, nobody noticed the possibility, I presume, that even though the secondary is in position, if the thing opens up and the resiliency of the material is zero because it is too cold, it won't close, it won't fill into the seal? Was that considered or not?
+
+---
+DR. FEYNMAN: I've got the timing problem 1117 mixed up with the 160 and 600 milliseconds and so on. Let me understand. Supposing the secondary seal is in place at some time and the primary seal has failed or something, and so the secondary seal is supposed to be pushed in by compression. Now, it opens? Or is that not the way it works?
+
+---
+DR. FEYNMAN: How does it stay against the metal?
+
+---
+DR. FEYNMAN: Could I ask a question? Could you tell me, sir, the names of your four best seal experts, in order of their ability?
+
+---
+DR. FEYNMAN: Approximately - what was that?
+
+---
+DR. FEYNMAN: And some other guy. And if you don't have any further, that'll be all right.
+
+---
+DR. FEYNMAN: Now, I would like to ask one further question. What is the opinion of Mr. Boisjoly about the seals, about the decision that was made? Were you in agreement with the result of this caucus that 1143 said that it was okay to fly?
+
+---
+DR. FEYNMAN: Now, Mr. Thompson, were you in agreement, and so forth?
+
+---
+DR. FEYNMAN: Mr. Kapp?
+
+---
+DR. FEYNMAN: So it may be that he would be in agreement?
+
+---
+DR. FEYNMAN: And the fourth man's name?
+
+---
+DR. FEYNMAN: So of the four, we have one don't know, one maybe yes or very likely yes, and two who were first mentioned without doubt as being the seal 1144 experts, they both said no. That is the information I wanted, that's all. Thank you.
+
+---
+DR. FEYNMAN: That says none. What was the matter with 61?
+
+---
+DR. FEYNMAN: What is the hardness data - the amount of force you need to change it?
+
+---
+DR. FEYNMAN: It has nothing to do with time?
+
+---
+DR. FEYNMAN: The rubber - ordinarily in materials, like steel or something when you squash it, you are compressing the molecules together and they simply expand back. When you stretch a piece of rubber, the reason that it responds is because of dynamic motion. It is trying to shake molecules and pull something; like, you take a long chain across a room, which has a lot of tennis balls bouncing in it. The chain will be "ponged" by the balls and pulled 1183 together. If the balls are slowed up, and low temperature means slowed up, then there is much less ponging and much less pulling back together, and the same way responding. I used the expansion. But you can do the same thing with compression. If you compress it out of shape, it goes back into shape because of thermal notion, really, not because of spring. And when the thermal temperatures change, it goes back very, very much lower. It is very characteristic of materials of this kind, that have this enormous effect. Temperature has such enormous effect.
+
+---
+DR. FEYNMAN: No. It's E to the minus A over T. It is exponentially. So, at 32 degrees on the scale, you probably wouldn't be able to measure the time. It would be too late to wait for the hour, or whatever.
+
+---
+DR. FEYNMAN: But if there is a gap left, is there really any pressure remaining to push? Suppose the O-ring did return, and there's a little gulf, and the gas comes. Why wouldn't that push it? [658]
+
+---
+DR. FEYNMAN: How big is the TO minus TS? Do you remember? The distance that you squoze it in the beginning? How much do you squeeze them when you do this?
+
+---
+DR. FEYNMAN: Thank you. (Viewgraph.) [Ref. 2/14-13]
+
+---
+DR. FEYNMAN: At this point in time is the caucus, because that's what we're looking at?
+
+---
+DR. FEYNMAN: I just had one question, to try to understand a little more clearly what Mr. Lund showed us - maybe he should answer, I don't know - a series of graphs, of pictures that were supposedly occurring during the half hour caucus.
+
+---
+DR. FEYNMAN: These were not the slides shown during the caucus?
+
+---
+DR. FEYNMAN: Sir, don't you think it is necessary to get all of the testimony from the Thiokol people that are here now, who wish to, that is, who wish to make a statement?
+
+
+======================================================================
+## v4part7-flat.txt  --  FEBRUARY 25, 1986 SESSION
+======================================================================
+
+---
+DR. FEYNMAN: You indicated that NASA folk indicated that they would pass your concerns along, and I presume that you thought that - there were three concerns that you were talking about - the O-rings, the ocean, sea and the ice. But could they have simply meant the last two concerns, the sea and the ice? That is one question. And the other is who were the NASA folk that promised to pass your concerns along?
+
+---
+DR. FEYNMAN: You suggested that the secondary seal would not be much affected by the temperature, but now you are telling us that because of the complete or nearly complete loss of resilience - that is, the tendency to spring back - the secondary seal would require very little rotation to open. Do I understand that correctly?
+
+---
+DR. FEYNMAN: We were talking about- - [734] 1317 somewhere there was a discussion about the secondary seal being redundant until the metal parts rotate. When the pressure starts to build up, it can't move the primary seal until there is some pressure, and then there's a very small pressure, perhaps, and a very small rotation. Isn't it true that the rotation is more or less proportional to the pressure, or is there some delay of some sort? Why is there a time delay between the two?
+
+---
+DR. FEYNMAN: Isn't the laws of elasticity such that everything is proportionate to the force and all of the spaces are proportional to the force? Wouldn't it be true that at every pressure there is some rotation and the rotation is more or less proportional to the pressure?
+
+---
+DR. FEYNMAN: You are rotating it one-tenth as much as you rotate it at 500 psi; is that right?
+
+---
+DR. FEYNMAN: That is your opinion. In a different scenario, suppose the pressure is increasing for some reason in the primary seal. Just to understand what the situation is, the primary seal begins to erode, and by the time the pressure gets to some figure like 600 or 700 psi, which is I think just below the maximum operating pressure, it finally erodes all the way through so that the gas can pass through the primary seal. Would you think there was a reasonable probability that the whole thing would fail because the rotation by that time was enough that the secondary seal can't hold it?
+
+---
+DR. FEYNMAN: Okay. That you first knew or thought of in August 1985?
+
+---
+DR. FEYNMAN: Not before? 1324
+
+---
+DR. FEYNMAN: What you mean by hardness is it's difficult to squash it into the tiny crack that it is supposed to go into? What is the feature of hardness? It is not resiliency; it is the difficulty of pushing it into a corner?
+
+---
+DR. FEYNMAN: Mr. Mason, was that a static test or a dynamic test?
+
+---
+DR. FEYNMAN: But not in a moving joint?
+
+---
+DR. FEYNMAN: Could I ask some questions. Doesn't the erosion partly depend upon the speed of the gas, the size of the hole through which it comes, and other matters? And do you have some kind of calculation that shows that you couldn't get more erosion than the amount that you got in 51-C?
+
+---
+DR. FEYNMAN: What made you think that 51-C was the maximum erosion that you could reasonably expect?
+
+---
+DR. FEYNMAN: Well, let me explain. I'm not interested at the moment in the temperature. I'm going to criticize the original decision that you can operate at 53 degrees, which is a different point of view than what we're talking about, based upon the idea that you've already seen that you have one-third the amount of erosion necessary to split the primary ring at a time when the secondary has a high probability of not being sealable, as Mr. McDonald said. And I would like to know how you judge, by having seen one-third of an O-ring disintegrated in one flight, that it is very unlikely that you would get three times that erosion on another flight under the same circumstances?
+
+---
+DR. FEYNMAN: I am trying to understand your judgment.
+
+---
+DR. FEYNMAN: Doesn't it depend upon the speed of the gas and the temperature? Doesn't it depend maybe upon the complexity of the hole that goes through the 1353 putty, so that it would be a matter of accident how much you got? Could it, for example, have been that you got one-third the amount of erosion, for instance, because the putty hole was smaller and longer with a reasonable probability?
+
+---
+DR. FEYNMAN: Thank you.
+
+---
+DR. FEYNMAN: In discussing this idea that the secondary seal will seat, the principle is that is 1373 located in the correct place because of the pressure put on during making a check, which is two days or so before launch. After the check has been made in the VAB building, this machine is put on a carrier and carried, and jiggled and so forth all the way out to the site, and it stands there for two days and is rained upon, and we have found in other cases that water gets into the seals. Did you consider, when you were discussing these, the probability or the possibility that in all of this jiggling and the water inside there freezing, making ice, that it could have displaced the secondary seal, and that your idea that the secondary seal is in exactly the right place and will seat immediately during the short transient might have even more uncertainty? Were you considering that possibility?
