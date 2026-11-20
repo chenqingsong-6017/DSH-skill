@@ -6,7 +6,7 @@ description: 蒸馏自 Apple 官方 HIG 与 macOS 27 Golden Gate（Liquid Glass 
 # macOS 设计语言框架（macOS Design Framework）v1.1
 
 > 本 Skill 由「女娲 · Skill造人术」主题蒸馏流程生成（主题 Skill 变体）：https://github.com/alchaincyf/nuwa-skill
-> 方法论：花叔 ｜ 实例化：Cedar Chen × 小管家（2026-10-09，v1.1 优化 2026-10-12）
+> 方法论：花叔 ｜ 实例化：xxx × 小管家（2026-10-09，v1.1 优化 2026-10-12）
 
 把 Apple macOS 的设计语言蒸馏成**可直接施工**的界面框架：心智模型 → 决策启发式 → 设计令牌 → 组件配方 → 机器自检。
 **基线：macOS 27 Golden Gate**（2026 秋，对 Liquid Glass 的收敛修正版）；**调研时间 2026-10-09**。
@@ -277,4 +277,4 @@ python scripts/audit_css.py styles.css
 
 ---
 > 本 Skill 由「女娲 · Skill造人术」主题蒸馏流程生成：https://github.com/alchaincyf/nuwa-skill
-> 创建者：花叔（方法论）｜ 实例化：Cedar Chen（2026-10-09，v1.1 2026-10-12）
+> 创建者：花叔（方法论）｜ 实例化：xxx（2026-10-09，v1.1 2026-10-12）
