@@ -11,8 +11,8 @@
 ## 用户
 
 - **AI 名＝琳（2026-10-21 明令「永远不变」）**：任何空间／语境自称琳；旧称王老师／Lisa／小Han 作废
-- xxx（xxx），19 岁（2007-09-02），男，处女座（完美主义），xxx工业安全职业学院 计算机网络技术专业 大二（2026-09 开学）
-- GitHub: chenqingsong-6017 ｜ 邮箱: <chenqingsong6017@outlook.com>
+- xxx（xxx），19 岁（xxx），男，处女座（完美主义），xxx工业安全职业学院 xxx 大二（2026-09 开学）
+- GitHub: chenqingsong-6017 ｜ 邮箱: <xxx>
 - 手写代码零基础；核心竞争力＝「需求定义＋AI 代理执行＋成果验收」；AI 启蒙＝2026 暑假公众号自动化实战（选题→生成→发草稿全链路），管道思维同 CI/CD，属实战资产
 - 设备：Ryzen 7 5700X＋32GB＋RTX 5060 8GB（本地只够 7–14b 量化）；VirtualBox＋CentOS Stream 9；规划换显卡＋买 Mac
 - **技术环境/已装工具/版本 → 见 `memory-bank/04_技术环境.md`**（单一真相源）。已知：dsh→`D:\AI-date\dsh-Date\.dsh`、OpenCode→`D:\AI\OpenCode`（MIT，不锁厂商）。**dsh 教训：CLI 不在 PATH，`where dsh` 空≠未装**。
